@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_header_name" msgid="1511134859611073545">"MMP тохиргоо"</string>
+    <string name="menu_interface_name" msgid="5344652034012728056">"Цэс"</string>
+    <string name="menu_ok" msgid="1093655261469491523">"OK"</string>
+    <string name="menu_setup_divx_cancel" msgid="8064350612522047642">"Цуцлах"</string>
+    <string name="menu_audio_type" msgid="3925035178729537764">"Төрөл"</string>
+    <string name="menu_audio_visually_impaired" msgid="890324054395264387">"Харааны согогтой"</string>
+    <string name="menu_audio_visually_speaker" msgid="3395844900051508934">"Чанга яригч"</string>
+    <string name="menu_audio_visually_headphone" msgid="1021914828438131833">"Чихэвч"</string>
+    <string name="menu_audio_visually_volume" msgid="5641549986551666376">"Дууны түвшин"</string>
+    <string name="menu_audio_visually_pan_and_fade" msgid="254417077185821478">"Чиглүүлэгч болон бүдгэрүүлэгч"</string>
+    <string name="menu_audio_visually_impaired_audio" msgid="7971592314178467071">"Харааны бэрхшээлийн аудио"</string>
+    <string name="menu_audio_downmix_mode" msgid="369622289092215581">"Downmix горим"</string>
+    <string name="menu_audio_sound_tracks" msgid="5301498529072828729">"Саундтрек"</string>
+    <string name="menu_setup_network" msgid="7298518816232860684">"Сүлжээ"</string>
+    <string name="menu_setup_my_net_place" msgid="8175416643475601862">"Миний сүлжээний газар"</string>
+    <string name="menu_setup_ci_no_card" msgid="299413725358369465">"Үзүүлсэн CI карт алга."</string>
+    <string name="menu_setup_ci_cam_menu" msgid="6441540214352249304">"Камерын цэс"</string>
+    <string name="menu_setup_ci_pin_code" msgid="5559565535289512930">"Камерын Пин кодыг оруулна уу"</string>
+    <string name="menu_setup_ci_pin_code_input_tip" msgid="4436890917486724920">"Пин код оруулна уу"</string>
+    <string name="menu_setup_ci_pin_code_incorrect_tip" msgid="3687700881104571077">"Буруу байна. Дахин оруулна уу!"</string>
+    <string name="menu_setup_auto_synchronization" msgid="2747119305523328476">"Автоматаар синк хийх"</string>
+    <string name="menu_setup_exo_payer_switcher" msgid="4562213054964641645">"Exoplayer сэлгэгч"</string>
+    <string name="menu_ci_cam_scan" msgid="6682716298813053640">"Cam-г скан хийх"</string>
+    <string name="ci_title" msgid="7873486568190568594">"Cam-н мэдээлэл"</string>
+</resources>

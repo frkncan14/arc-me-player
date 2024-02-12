@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_header_name" msgid="1511134859611073545">"MMP ସେଟିଂସ"</string>
+    <string name="menu_interface_name" msgid="5344652034012728056">"ମେନୁ"</string>
+    <string name="menu_ok" msgid="1093655261469491523">"ଠିକ୍ ଅଛି"</string>
+    <string name="menu_setup_divx_cancel" msgid="8064350612522047642">"ବାତିଲ୍ କରନ୍ତୁ"</string>
+    <string name="menu_audio_type" msgid="3925035178729537764">"ପ୍ରକାର"</string>
+    <string name="menu_audio_visually_impaired" msgid="890324054395264387">"ଦୃଷ୍ଟିହୀନ"</string>
+    <string name="menu_audio_visually_speaker" msgid="3395844900051508934">"ସ୍ପିକର୍"</string>
+    <string name="menu_audio_visually_headphone" msgid="1021914828438131833">"ହେଡ୍‌ଫୋନ୍"</string>
+    <string name="menu_audio_visually_volume" msgid="5641549986551666376">"ଭଲ୍ୟୁମ୍"</string>
+    <string name="menu_audio_visually_pan_and_fade" msgid="254417077185821478">"ପ୍ୟାନ୍ ଏବଂ ଫେଡ୍"</string>
+    <string name="menu_audio_visually_impaired_audio" msgid="7971592314178467071">"ଦୃଷ୍ଟିହୀନଙ୍କ ପାଇଁ ଅଡିଓ"</string>
+    <string name="menu_audio_downmix_mode" msgid="369622289092215581">"ଡାଉନ୍‌ମିକ୍ସ ମୋଡ୍"</string>
+    <string name="menu_audio_sound_tracks" msgid="5301498529072828729">"ସାଉଣ୍ଡ ଟ୍ରାକଗୁଡ଼ିକ"</string>
+    <string name="menu_setup_network" msgid="7298518816232860684">"ନେଟ୍‌ୱାର୍କ"</string>
+    <string name="menu_setup_my_net_place" msgid="8175416643475601862">"ମୋ ନେଟ୍‌ୱାର୍କ ସ୍ଥାନଗୁଡ଼ିକ"</string>
+    <string name="menu_setup_ci_no_card" msgid="299413725358369465">"କୌଣସି CI କାର୍ଡ ନାହିଁ।"</string>
+    <string name="menu_setup_ci_cam_menu" msgid="6441540214352249304">"କ୍ୟାମ୍ ମେନୁ"</string>
+    <string name="menu_setup_ci_pin_code" msgid="5559565535289512930">"ଦୟାକରି କ୍ୟାମ୍ ପିନ୍ କୋଡ୍ ଇନ୍‌ପୁଟ୍ କରନ୍ତୁ"</string>
+    <string name="menu_setup_ci_pin_code_input_tip" msgid="4436890917486724920">"ଦୟାକରି ପିନ୍ କୋଡ୍ ଦିଅନ୍ତୁ"</string>
+    <string name="menu_setup_ci_pin_code_incorrect_tip" msgid="3687700881104571077">"ଭୁଲ। ପୁଣି ଇନ୍‌ପୁଟ୍ କରନ୍ତୁ!"</string>
+    <string name="menu_setup_auto_synchronization" msgid="2747119305523328476">"ସ୍ୱତଃ ସିଙ୍କ୍ରୋନାଇଜେସନ୍"</string>
+    <string name="menu_setup_exo_payer_switcher" msgid="4562213054964641645">"ଏକ୍ସୋପ୍ଲେୟାର୍ ସ୍ୱିଚର୍"</string>
+    <string name="menu_ci_cam_scan" msgid="6682716298813053640">"କ୍ୟାମ୍ ସ୍କାନ୍"</string>
+    <string name="ci_title" msgid="7873486568190568594">"କ୍ୟାମ୍ ସୂଚନା"</string>
+</resources>

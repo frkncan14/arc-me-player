@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="mmp_menu" msgid="9079948768207079095">"မီနူး"</string>
+    <string name="mmp_menu_sort" msgid="8373528614821710603">"စီရန်"</string>
+    <string name="mmp_menu_mediatype" msgid="7324251596256819138">"မီဒီယာ အမျိုးအစား"</string>
+    <string name="mmp_menu_thumb" msgid="2613417042892386301">"ပုံသေး အရွယ်အစား"</string>
+    <string name="mmp_menu_copy" msgid="7728066670652565778">"မိတ္တူကူးရန်"</string>
+    <string name="mmp_menu_paste" msgid="1289836061276427065">"ကူးထည့်ရန်"</string>
+    <string name="mmp_menu_delete" msgid="8911245550314385994">"ဖျက်ရန်"</string>
+    <string name="mmp_menu_recur" msgid="4965264343654944343">"ပြန်ဆောင်ရွက်သော ပါဆာ"</string>
+    <string name="mmp_menu_not_recur" msgid="7112174768461191390">"ပုံမှန် ပါဆာ"</string>
+    <string name="mmp_menu_photoframe" msgid="1214517932766614549">"ဓာတ်ပုံဖရိမ်"</string>
+    <string name="mmp_menu_photo_frame" msgid="7297221471059815216">"\'ဓာတ်ပုံဖရိမ်\' သတ်မှတ်ပြီးပြီ"</string>
+    <string name="mmp_menu_play" msgid="544799819593204858">"ဖွင့်ရန်"</string>
+    <string name="mmp_menu_pause" msgid="2009629214475280978">"ခဏရပ်ရန်"</string>
+    <string name="mmp_menu_repeat" msgid="7258120466270016557">"ပြန်ကျော့ရန်"</string>
+    <string name="mmp_menu_shuffle" msgid="3397849470999515065">"ရောသမမွှေ"</string>
+    <string name="mmp_menu_duration" msgid="3457072780002542559">"ကြာချိန်"</string>
+    <string name="mmp_menu_effect" msgid="1095076262850741888">"အကျိုးသက်ရောက်မှု"</string>
+    <string name="mmp_menu_showinfo" msgid="4691897570336226826">"အချက်အလက်များ ပြခြင်း"</string>
+    <string name="mmp_menu_frame" msgid="7986960666934851018">"ဓာတ်ပုံဖရိမ်ပုံ"</string>
+    <string name="mmp_menu_rotate" msgid="8190003337362481311">"လှည့်ရန်"</string>
+    <string name="mmp_menu_3d_photo" msgid="4983366475199077876">"3D ဓာတ်ပုံ"</string>
+    <string name="mmp_menu_display" msgid="7054330190938975189">"ပြသရန်လိုင်း"</string>
+    <string name="mmp_menu_timeoffset" msgid="100700072644603332">"အချိန် ချိန်ညှိရန်"</string>
+    <string name="mmp_menu_encoding" msgid="1550879051107028343">"ဒေတာ အသွင်ပြောင်းသည်"</string>
+    <string name="mmp_menu_picturemode" msgid="4868172328224771042">"ရုပ်ပုံမုဒ်"</string>
+    <string name="mmp_menu_screenmode" msgid="4412352992234044423">"ဖန်သားပြင်မုဒ်"</string>
+    <string name="mmp_menu_font" msgid="7375862916728883987">"ဖောင့်"</string>
+    <string name="mmp_menu_size" msgid="2228124380030616200">"အရွယ်အစား"</string>
+    <string name="mmp_menu_style" msgid="4128151098473753722">"ပုံစံ"</string>
+    <string name="mmp_menu_color" msgid="2136070988230279780">"အရောင်"</string>
+    <string name="mmp_menu_date" msgid="8666017604362763396">"ရက်စွဲ"</string>
+    <string name="mmp_menu_name" msgid="812493345015711141">"အမည်"</string>
+    <string name="mmp_menu_album" msgid="2114499624068654079">"အယ်လ်ဘမ်"</string>
+    <string name="mmp_menu_artist" msgid="2764300205206905274">"အနုပညာရှင်"</string>
+    <string name="mmp_menu_genre" msgid="263980932337808189">"အမျိုးအစား"</string>
+    <string name="mmp_menu_type" msgid="1649143081737426246">"အမျိုးအစား"</string>
+    <string name="mmp_menu_phototext" msgid="7836919472204616006">"ဓာတ်ပုံ"</string>
+    <string name="mmp_menu_music" msgid="5387149570422271841">"တေးဂီတ"</string>
+    <string name="mmp_menu_video" msgid="5189292319328786647">"ဗီဒီယို"</string>
+    <string name="mmp_menu_text" msgid="5962796217247350807">"စာပို့ရန်"</string>
+    <string name="mmp_menu_small" msgid="4105561830760841729">"သေး"</string>
+    <string name="mmp_menu_medium" msgid="7564524044246800587">"အတော်အသင့်"</string>
+    <string name="mmp_menu_large" msgid="5005608858465935364">"ကြီး"</string>
+    <string name="mmp_menu_onephotomode" msgid="6864735135037376411">"ဓာတ်ပုံတစ်ပုံ မုဒ်"</string>
+    <string name="mmp_menu_none" msgid="7926890038540120590">"မရှိပါ"</string>
+    <string name="mmp_menu_repeatone" msgid="7788100339932357215">"တစ်ခုကို ပြန်ကျော့ရန်"</string>
+    <string name="mmp_menu_repeatall" msgid="6158142728959841974">"အားလုံး ပြန်ကျော့ရန်"</string>
+    <string name="mmp_menu_shuffleoff" msgid="5629298854768064250">"ရောသမမွှေခြင်းကို ပိတ်ရန်"</string>
+    <string name="mmp_menu_shuffleon" msgid="308830560936676103">"ရောသမမွှေကို ဖွင့်ထားသည်"</string>
+    <string name="mmp_menu_short" msgid="5777774655121984779">"တိုသော"</string>
+    <string name="mmp_menu_long" msgid="3882136219055983996">"အရှည်"</string>
+    <string name="mmp_menu_1x" msgid="5285128498963238352">"၁ X"</string>
+    <string name="mmp_menu_2x" msgid="5203852169875721932">"၂ x"</string>
+    <string name="mmp_menu_4x" msgid="4526236448038226345">"၄ X"</string>
+    <string name="mmp_menu_dissolve" msgid="7113502065311218484">"ပျော်ဝင်ခြင်း"</string>
+    <string name="mmp_menu_wiperight" msgid="1484246629923871092">"ညာသို့ ပွတ်ဆွဲရန်"</string>
+    <string name="mmp_menu_wipeleft" msgid="2398173785822262445">"ဘယ်သို့ ပွတ်ဆွဲရန်"</string>
+    <string name="mmp_menu_wipeup" msgid="59996185178096696">"အပေါ်သို့ ပွတ်ဆွဲရန်"</string>
+    <string name="mmp_menu_wipedown" msgid="1719128764041925790">"အောက်သို့ ပွတ်ဆွဲရန်"</string>
+    <string name="mmp_menu_boxin" msgid="7047199484148726413">"ဘောင်ထည့်ခြင်း"</string>
+    <string name="mmp_menu_boxout" msgid="6759124402362929260">"အကွက်ထွက်သွားခြင်း"</string>
+    <string name="mmp_menu_random" msgid="2389161930234842696">"ကျပန်း"</string>
+    <string name="mmp_menu_off" msgid="386038732335984329">"ပိတ်ရန်"</string>
+    <string name="mmp_menu_singleline" msgid="7431120586848806664">"တစ်လိုင်းတည်း"</string>
+    <string name="mmp_menu_multiline" msgid="7052296904664940357">"လိုင်းအများအပြား"</string>
+    <string name="mmp_menu_auto" msgid="6817452675899749723">"အော်တို"</string>
+    <string name="mmp_menu_userdefine" msgid="4876094705350753243">"အသုံးပြုသူ သတ်မှတ်ထားသည်များ"</string>
+    <string name="mmp_menu_zoom" msgid="1195420639323452586">"ဇူးမ်"</string>
+    <string name="mmp_menu_regular" msgid="7949610806181219455">"ပုံမှန်"</string>
+    <string name="mmp_menu_italic" msgid="3823262772644701909">"စာလုံးစောင်း"</string>
+    <string name="mmp_menu_bold" msgid="1573884329277707594">"စာလုံးထူ"</string>
+    <string name="mmp_menu_outline" msgid="6135759649381327350">"စာလုံးမည်း အစောင်း"</string>
+    <string name="mmp_menu_white" msgid="8719113369246148681">"အဖြူ"</string>
+    <string name="mmp_menu_blue" msgid="5473608042810495615">"အပြာ"</string>
+    <string name="mmp_menu_red" msgid="4218204192222522501">"အနီ"</string>
+    <string name="mmp_menu_green" msgid="34696038896883398">"အစိမ်း"</string>
+    <string name="mmp_menu_black" msgid="5628264820914306931">"အနက်"</string>
+    <string name="mmp_menu_lyricoptions" msgid="1348924294626050138">"စာသား ရွေးစရာများ"</string>
+    <string name="mmp_menu_showscore" msgid="3018721062927128088">"အသံလှိုင်းစဉ် ပြရန်"</string>
+    <string name="mmp_menu_hidescore" msgid="4381535154938875554">"အသံလှိုင်းစဉ် ဝှက်ထားရန်"</string>
+    <string name="mmp_photo" msgid="8843390942428145152">"ဓာတ်ပုံ"</string>
+    <string name="mmp_audio" msgid="8706227639060679235">"တေးဂီတ"</string>
+    <string name="mmp_video" msgid="2680263982702698720">"ဗီဒီယို"</string>
+    <string name="mmp_text" msgid="4077978808166924627">"စာပို့ရန်"</string>
+    <string name="mmp_select" msgid="4407585001484425898">"ရွေးရန်"</string>
+    <string name="mmp_input" msgid="8592845546999906622">"ထည့်ရန်"</string>
+    <string name="mmp_exit" msgid="6051283891356437825">"ထွက်ရန်"</string>
+    <string name="mmp_emptyfile" msgid="7299272765998117529">"လက်ရှိဖိုင်တွဲတွင် ဘာမျှမရှိပါ။"</string>
+    <string name="mmp_reutip" msgid="8603627514980705968">"ဤဖိုင်တွဲကို ခွဲခြမ်းစိတ်ဖြာနေဆဲ ဖြစ်သည်။ ခဏစောင့်ပါ..."</string>
+    <string name="mmp_pop_zoomscale" msgid="4444610414043102239">"X"</string>
+    <string name="mmp_info_album" msgid="7720981179637224588">"အယ်လ်ဘမ်-"</string>
+    <string name="mmp_info_orientation" msgid="3830902756642165426">"အနေအထား−"</string>
+    <string name="mmp_info_artist" msgid="6966050205975687821">"အနုပညာရှင်−"</string>
+    <string name="mmp_info_name" msgid="8058742280848190551">"အမည်-"</string>
+    <string name="mmp_info_date" msgid="4300927192893785690">"ရက်စွဲ-"</string>
+    <string name="mmp_info_size" msgid="959025658391753505">"အရွယ်အစား−"</string>
+    <string name="mmp_info_next" msgid="4380397773389543174">"ရှေ့သို့−"</string>
+    <string name="mmp_info_audio" msgid="1267866496055028627">"အသံ−"</string>
+    <string name="mmp_info_exposure" msgid="1297476777953501472">"အလင်းဝင်ချိန်−"</string>
+    <string name="mmp_info_fnumber" msgid="2220709797456364777">"F ရပ်တန့်မှု−"</string>
+    <string name="mmp_info_program" msgid="2062980080114642715">"အလင်းဖွင့်ချိန် အစီအစဉ်−"</string>
+    <string name="mmp_info_colorspace" msgid="991833052722703084">"အရောင်စနစ်−"</string>
+    <string name="mmp_info_title" msgid="7820876214484582645">"ခေါင်းစဉ်-"</string>
+    <string name="mmp_info_genre" msgid="2473418313212427139">"အမျိုးအစား-"</string>
+    <string name="mmp_info_year" msgid="2941904149668986691">"နှစ်−"</string>
+    <string name="mmp_info_duration" msgid="7689265303365835747">"ကြာချိန်-"</string>
+    <string name="mmp_info_director" msgid="8050309676555265722">"ဒါရိုက်တာ−"</string>
+    <string name="mmp_info_copyrght" msgid="2260484851899108080">"မူပိုင်ခွင့်−"</string>
+    <string name="mmp_info_lastpage" msgid="2276225818924525010">"နောက်ဆုံး စာမျက်နှာ"</string>
+    <string name="mmp_info_nextpage" msgid="6044269836515584059">"နောက် စာမျက်နှာ"</string>
+    <string name="mmp_info_nolrc" msgid="2011077578197667092">"lrc မရှိ"</string>
+    <string name="mmp_loading_tip" msgid="6373109875045173807">"ဤဖိုင်တွဲကို ခွဲခြမ်းစိတ်ဖြာနေဆဲ ဖြစ်သည်။ ခဏစောင့်ပါ..."</string>
+    <string name="mmp_user_name" msgid="4038160189084155137">"အသုံးပြုသူ အမည်"</string>
+    <string name="mmp_password" msgid="52423781427686112">"စကားဝှက်"</string>
+    <string name="mmp_confirm" msgid="3987501643229207065">"အတည်ပြုရန်"</string>
+    <string name="mmp_vkb" msgid="879524843720392844">"ထည့်သွင်းမှု"</string>
+    <string name="mmp_ok" msgid="7246671616128389098">"OK"</string>
+    <string name="mmp_cancel" msgid="3261313315531378417">"မလုပ်တော့"</string>
+    <string name="mmp_login_failed_tip" msgid="1843731122426925591">"အသုံးပြုသူအမည် သို့မဟုတ် စကားဝှက် မမှန်ပါ။"</string>
+    <string name="mmp_dlnaserver_disconnected" msgid="6189648564456332471">"DLNA ဆာဗာနှင့် ချိတ်ဆက်မှု ပြတ်တောက်သွားပါသည်။ ကွန်ရက်နှင့် ဆာဗာအခြေအနေကို စစ်ဆေးပါ။"</string>
+    <string name="mmp_pvr_play_from_tv_cannot_pip" msgid="6500393214807298054">"PVR ဖွင့်ခြင်းက PIP မုဒ်သို့ ဝင်၍မရပါ။"</string>
+    <string name="mmp_list_mode_cannot_pip" msgid="5562820685064587733">"\'ဖိုင်စာရင်း မုဒ်\' က PIP မုဒ်သို့ ဝင်၍မရပါ။"</string>
+    <string name="mmp_title_copy" msgid="8583348774130086919">"မိတ္တူကူးနေသည်"</string>
+    <string name="mmp_title_confirm_replace" msgid="4771822119501444534">"ဖိုင်အစားထိုးမှု အတည်ပြုရန်"</string>
+    <string name="mmp_title_confirm_delete" msgid="8377725312373475404">"ဖိုင်(များ) ဖျက်ခြင်းကို အတည်ပြုပါ"</string>
+    <string name="mmp_message_copy" msgid="4808547807069922623">"<xliff:g id="MMP_MESSAGE_COPY_TWO_XLI">%2$s</xliff:g>မှ\n<xliff:g id="MMP_MESSAGE_COPY_THREE_XLI">%3$s</xliff:g>သို့\n<xliff:g id="MMP_MESSAGE_COPY_ONE_XLI">%1$s</xliff:g>"</string>
+    <string name="mmp_message_confirm_replace" msgid="5868285892080714347">"ဤဖိုင်တွဲတွင် \n<xliff:g id="MMP_MESSAGE_CONFIRM_REPLACE_XLI">%s</xliff:g> အမည်နှင့်ဖိုင် ရှိပြီးဖြစ်သည်"</string>
+    <string name="mmp_message_confirm_delete" msgid="6777614659086530912">"ရွေးထားသောဖိုင်ကို ဖျက်လိုသည်မှာ သေချာသလား။"</string>
+    <string name="mmp_yes" msgid="8825062653561586733">"Yes"</string>
+    <string name="mmp_yes_to_all" msgid="2188249996394727534">"အားလုံးအတွက် Yes"</string>
+    <string name="mmp_no" msgid="6819583620403834086">"No"</string>
+    <string name="mmp_capture_title" msgid="7209687460094347177">"လိုဂို ရိုက်ယူခြင်း"</string>
+    <string name="mmp_capture_confirm" msgid="824603266897705710">"ဤဖန်သားပြင်ကို ရိုက်ယူလိုပါသလား။"</string>
+    <string name="mmp_toast_no_photoframe" msgid="881397136260176005">"ဖွင့်ရန် ဓာတ်ပုံဖရိမ် မရှိပါ"</string>
+    <string name="mmp_before_pip_exit_dot_by_dot" msgid="1724158907378873072">"သင် \'PIP မုဒ်\' သို့ဝင်သည့်အခါ \'ဖန်သားပြင်မုဒ်\' က ပုံမှန်သို့ ပြောင်းသွားသည်။"</string>
+    <string name="mmp_before_pip_zoom_1x" msgid="632844846305154273">"သင် \'PIP မုဒ်\' သို့ဝင်သည့်အခါ ဇူးမ်က ပုံမှန်သို့ ပြောင်းသွားသည်။"</string>
+    <string name="mmp_video_notsupport" msgid="3746654153060516549">"ဗီဒီယို ကိုးဒက်ခ်ကို ပံ့ပိုးမထားပါ"</string>
+    <string name="mmp_audio_notsupport" msgid="298426631612159434">"အသံဖော်မက်ကို ပံ့ပိုးမထားပါ"</string>
+    <string name="mmp_video_only" msgid="7278869886485261082">"ဗီဒီယိုသီးသန့်"</string>
+    <string name="mmp_frame_photo_sleeptime" msgid="3684111810245692657">"နားချိန်"</string>
+    <string name="mmp_video_stopresume" msgid="1769167470574168506">"ပြန်စခြင်းကို ရပ်ရန်"</string>
+    <string name="mmp_photo_type_notsupport" msgid="1102594345605622608">"ဖိုင်ကို ပံ့ပိုးမထားပါ"</string>
+    <string name="mmp_lable_rorate" msgid="5707789973312733102">"လှည့်ရန်"</string>
+    <string name="mmp_info_whitebalance" msgid="4243391745350656248">"အဖြူရောင်ညှိခြင်း−"</string>
+    <string name="mmp_info_make" msgid="5019160699386040694">"ကင်မရာ ထုတ်လုပ်သူ−"</string>
+    <string name="mmp_info_model" msgid="2555791677451848012">"ကင်မရာ မော်ဒယ်−"</string>
+    <string name="mmp_info_flash" msgid="1482374643316448288">"ဖလက်ရှ်"</string>
+    <string name="mmp_info_focallength" msgid="7185730465171519772">"ဆုံတာ−"</string>
+    <string name="mmp_menu_pic_setting" msgid="8682447848318300605">"ပုံဆက်တင်များ"</string>
+    <string name="mmp_menu_audio_setting" msgid="4297665618950944208">"အသံဆက်တင်များ"</string>
+    <string name="mmp_menu_sound_setting" msgid="1341976547098523497">"အသံဆက်တင်များ"</string>
+    <string name="mmp_file_notsupport" msgid="7808733987932045433">"ဖိုင်ကို ပံ့ပိုးမထားပါ"</string>
+    <string name="mmp_notsupport" msgid="5351498401675171534">"ပံ့ပိုးမထားပါ"</string>
+    <string name="mmp_seek_notsupport" msgid="7212075520894633540">"ရှာဖွေခြင်းကို ပံ့ပိုးမထားပါ"</string>
+    <string name="mmp_step_notsupport" msgid="6858087783268138488">"အဆင့်ကို ပံ့ပိုးမထားပါ"</string>
+    <string name="mmp_featue_notsupport" msgid="8285945520158433641">"ဝန်ဆောင်မှု မရနိုင်ပါ"</string>
+    <string name="mmp_buffer_not_enough" msgid="7729296381668175272">"ယာယီကြားခံနယ် မလုံလောက်ပါ"</string>
+    <string name="mmp_nodevice" msgid="6634130010421915083">"ချိတ်ထားသော ကိရိယာမရှိပါ။"</string>
+    <string name="mmp_time_out" msgid="2771473755878694067">"သင့်ထည့်ထားသော အချိန်ကုဒ်မှားနေသည်။\n၎င်းသည် အချိန်စုစုပေါင်းထက် နည်းရမည်။"</string>
+    <string name="mmp_file_corrupt" msgid="3689294857477023502">"ဖိုင် ပျက်သွားသည်"</string>
+    <string name="mmp_menu_mount_iso" msgid="7959098173252455354">"လက်ရှိ iso ဖိုင်ကို ထည့်သွင်းရန်"</string>
+    <string name="mmp_menu_unmount_iso" msgid="8948169787009591217">"လက်ရှိကိရိယာကို ဖြုတ်ရန်"</string>
+    <string name="mmp_media_file_lost" msgid="1073430028079692146">"လက်ရှိ ကိရိယာကို ချိတ်ဆက်မထားပါ။"</string>
+    <string name="mmp_media_info_scrambled_audio_video_service" msgid="7436208224667913266">"ဗီဒီယိုနှင့် အသံ ခွဲထုတ်ထားသည်"</string>
+    <string name="mmp_media_info_scrambled_audio_clear_video_service" msgid="9128160029441897577">"အသံ ခွဲထုတ်ထားသည်"</string>
+    <string name="mmp_media_info_scrambled_audio_no_video_service" msgid="2572785485574211543">"အသံသီးသန့် ခွဲထားသည်"</string>
+    <string name="mmp_media_info_scrambled_video_clear_audio_service" msgid="7830438018396694250">"ဗီဒီယိုကို ခွဲထုတ်ထားသည်"</string>
+    <string name="mmp_media_info_scrambled_video_no_audio_service" msgid="854977936934627520">"ဗီဒီယိုသီးသန့် ခွဲထားသည်"</string>
+    <string name="mmp_drm_register" msgid="675462032122703604">"သင်၏ကိရိယာသည် ကာကွယ်ထားသော \n ဤ Divx@ ဗီဒီယိုကို ဖွင့်ခွင့်မရှိပါ။"</string>
+    <string name="mmp_drm_register_expired" msgid="130018121204117964">"Divx@ ငှားရမ်းမှု သက်တမ်းကုန်သွားပါပြီ"</string>
+    <string name="mmp_drm_register_used" msgid="1308738041895750904">"Divx@ ငှားရမ်းမှုက \n ကြည့်ရှုမှု <xliff:g id="MMP_DRM_REGISTER_USED_TWO_XLI">%2$s</xliff:g> ခုအနက် <xliff:g id="MMP_DRM_REGISTER_USED_XLI">%1$s</xliff:g> ခုကို အသုံးပြုထားသည်"</string>
+    <string name="mmp_drm_register_continue" msgid="4545823732483395837">"ရှေ့ဆက်လိုပါသလား။"</string>
+    <string name="mmp_divx_title" msgid="6437496733832500819">"ခေါင်းစဉ်"</string>
+    <string name="mmp_divx_edition" msgid="5306846019024910826">"တည်းဖြတ်မှု"</string>
+    <string name="mmp_divx_chapter" msgid="3487487752488508131">"အခန်း"</string>
+    <string name="mmp_divx_audioName" msgid="7031672633853273745">"အသံ−"</string>
+    <string name="mmp_divx_subtitleName" msgid="904348339487006815">"စာတန်းထိုး−"</string>
+    <string name="mmp_dmr_starting" msgid="1846715628857289261">"DMR စတင်နေသည်။"</string>
+    <string name="mmp_dmr_started" msgid="4516534251149034263">"DMR စတင်ထားသည်။"</string>
+    <string name="mmp_dmr_network_failed" msgid="1069917251011513121">"DMR စတင်၍ မရပါ။ ကွန်ရက်ကို မရနိုင်ပါ။"</string>
+    <string name="mmp_dmr_url_failed" msgid="1998446749263931258">"URL မမှန်ပါ"</string>
+    <string name="mmp_wrong_psw" msgid="2220959537681782417">"စကားဝှက် မမှန်ပါ။ စုစုပေါင်း <xliff:g id="MMP_WRONG_PSW_ONE_XLI">%1$s</xliff:g> ကြိမ် လုပ်နိုင်သည်။ သင် <xliff:g id="MMP_WRONG_PSW_TWO_XLI">%2$s</xliff:g> ကြိမ် စမ်းကြည့်ပြီးပါပြီ။ ထပ်စမ်းကြည့်ပါ။"</string>
+    <string name="mmp_last_memory" msgid="445353399276221319">"နောက်ဆုံး မှတ်ဉာဏ်"</string>
+    <string name="mmp_last_memory_time" msgid="8257690755872409500">"အချိန်"</string>
+    <string name="mmp_last_memory_position" msgid="4214666976622254352">"နေရာ"</string>
+    <string name="ci_menu_pin_correct" msgid="2811258922733489547">"မှန်ပါသည်။"</string>
+    <string name="ci_menu_pin_outoftry" msgid="44306490349881239">"သုံးကြိမ် မအောင်မြင်ပါ"</string>
+    <string name="mmp_buffering_tip" msgid="2518565216632544676">"ဗီဒီယို ကြားခံမှတ်ဉာဏ်သို့ ဖွင့်နေသည်။ ခဏစောင့်ပါ..."</string>
+    <string name="audio_type_normal" msgid="2694538341761232347">"ပုံမှန်"</string>
+    <string name="audio_type_hearing_impaired" msgid="2118182303039653332">"အကြားအာရုံ ချွတ်ယွင်းသူအတွက်"</string>
+    <string name="audio_type_visually_impaired" msgid="1123879394721652732">"အမြင်အာရုံ ချွတ်ယွင်းသူအတွက်"</string>
+    <string name="audio_visually_speaker_on" msgid="370608298755159880">"ဖွင့်ရန်"</string>
+    <string name="audio_downmixmode_stereo" msgid="9198344825777497057">"စတီရီယို"</string>
+    <string name="audio_downmixmode_auto_stereo" msgid="6252486888542859420">"အော်တို စတီရီယို"</string>
+    <string name="audio_downmixmode_surround" msgid="334719632751452503">"ပတ်လည်"</string>
+    <string name="nav_parent_psw" msgid="5129848968977804299">"သင့်စကားဝှက် ထည့်ပါ"</string>
+    <string name="mmp_change_mode" msgid="1676194732557780029">"ဖွင့်ကြည့်သည့်မုဒ်"</string>
+    <string name="mmp_menu_picture_off" msgid="4197984410377941805">"ရုပ်ပုံ ပိတ်ရန်"</string>
+    <string name="mmp_menu_jump_time" msgid="7424577337890603197">"ရှာဖွေရန်"</string>
+    <string name="mmp_pop_repeat_tvsingle" msgid="1573762708654838975">"တစ်ခုတည်း"</string>
+    <string name="mmp_bt_mode_notsupport" msgid="6018333824877204292">"BT မုဒ်ကို ပံ့ပိုးမထားပါ"</string>
+    <string name="mmp_menu_full_screen" msgid="3602706448625133614">"မျက်နှာပြင်အပြည့်"</string>
+    <string name="mmp_menu_over_scan" msgid="6417694118168861647">"ဖန်သားပြင်ဘောင်ကို ကျော်ခြင်း"</string>
+    <string name="mmp_menu_subtitle_encoding" msgid="6717942460780111286">"စာတန်းထိုး အသွင်ပြောင်းခြင်း"</string>
+    <string name="mmp_sleeptime_lable" msgid="552336639790838524">"နားချိန်−"</string>
+    <string name="mmp_menu_audio" msgid="7290654328973000754">"အသံ"</string>
+    <string name="mmp_no_devices_tips" msgid="361057196557407981">"မည်သည့်စက်မျှ မတွေ့ပါ။ စက်ကို ထည့်သွင်းပါ သို့မဟုတ် နောက်မှ ထပ်စမ်းကြည့်ပါ။"</string>
+    <string name="mmp_video_info_resolution" msgid="8392200579627394727">"ပုံရိပ်ပြတ်သားကိန်း-"</string>
+    <string name="mmp_video_info_size" msgid="5161911583717273611">"အရွယ်အစား−"</string>
+    <string name="mmp_video_info_bitrate" msgid="7276989523119391715">"ပေးပို့နှုန်း-"</string>
+    <string name="mmp_video_info_last_Modified_date" msgid="6216504677173286907">"နောက်ဆုံး မွမ်းမံခဲ့သည့်ရက်စွဲ-"</string>
+    <string name="mmp_play_speed_notsupport_ff" msgid="5406970534491698132">"ရှေ့သို့အမြန်ရစ်ခြင်းကို မြန်နှုန်းဖြင့်ဖွင့်ခြင်းမုဒ်တွင် ပိတ်ထားပါသည်"</string>
+    <string name="mmp_play_speed_notsupport_fb" msgid="5335593605293341055">"နောက်သို့အမြန်ပြန်ရစ်ခြင်းကို မြန်နှုန်းဖြင့်ဖွင့်ခြင်းမုဒ်တွင် ပိတ်ထားပါသည်"</string>
+    <string name="mmp_menu_play_speed" msgid="8078405319367563721">"ဖွင့်သည့် အမြန်နှုန်း"</string>
+    <string name="mmp_seamless_mode" msgid="2794517051734603832">"တစ်ဆက်တည်း"</string>
+    <string name="mmp_seamless_mode_off" msgid="6502962176792078529">"ပိတ်"</string>
+    <string name="mmp_seamless_mode_on" msgid="2680879271354894946">"ဖွင့်"</string>
+    <string name="mmp_menu_rotate_0" msgid="2525882655804508677">"၀ ဒီဂရီ လှည့်ခြင်း"</string>
+    <string name="mmp_menu_rotate_90" msgid="5499075283143867382">"၉၀ ဒီဂရီ လှည့်ခြင်း"</string>
+    <string name="mmp_menu_rotate_180" msgid="828127129735548816">"၁၈၀ ဒီဂရီ လှည့်ခြင်း"</string>
+    <string name="mmp_menu_rotate_270" msgid="9010954915556187744">"၂၇၀ ဒီဂရီ လှည့်ခြင်း"</string>
+    <string name="mmp_menu_wallpaper" msgid="5678135140588088459">"နောက်ခံအဖြစ် သတ်မှတ်ခြင်း"</string>
+    <string name="mmp_menu_img_zoom_in" msgid="4446097703965671221">"ဇူးမ်ဆွဲခြင်း"</string>
+    <string name="mmp_menu_img_zoom_out" msgid="9026341167144546000">"ဇူးမ်ဖြုတ်ခြင်း"</string>
+    <string name="mmp_img_player_max_tip" msgid="7337920113397012863">"အများဆုံး အတိုင်းအတာအချိုး။"</string>
+    <string name="mmp_img_player_min_tip" msgid="4286863235386750909">"အနည်းဆုံး အတိုင်းအတာအချိုး။"</string>
+    <string name="mmp_img_player_photo_wallpaper" msgid="7812511256832915936">"နောက်ခံဓာတ်ပုံ"</string>
+    <string name="mmp_img_player_setting_wallpaper_plz_wait" msgid="4696641526998650922">"နောက်ခံ သတ်မှတ်နေသဖြင့် ခေတ္တစောင့်ပါ…"</string>
+    <string name="mmp_img_player_setting_wallpaper" msgid="3584202222258659321">"နောက်ခံ သတ်မှတ်နေသည်…"</string>
+    <string name="mmp_img_player_wallpaper_not_supported" msgid="3594013303919654760">"ဤနောက်ခံကို ပံ့ပိုးမထားပါ"</string>
+    <string name="mmp_img_player_can_not_decode" msgid="1532417882851899990">"ဤဓာတ်ပုံကို ကုဒ်ဖော်၍မရပါ။"</string>
+    <string name="mmp_img_player_decoding" msgid="5237697103906052112">"ဓာတ်ပုံ ကုဒ်ဖော်နေသည်…"</string>
+    <string name="mmp_img_player_decode_failed" msgid="251111120950935657">"ဓာတ်ပုံ ကုဒ်ဖော်၍မရပါ။"</string>
+    <string name="mmp_img_player_gif_not_allow" msgid="5781151658958709239">"GIF လှုပ်ရှားသက်ဝင်မှုမုဒ်တွင် လုပ်ဆောင်မှုမရှိရန်"</string>
+    <string name="mmp_img_player_scale_or_rotate_not_allow" msgid="1229810181937509638">"အတိုင်းအတာ (သို့) လှည့်သည့်မုဒ်တွင် လုပ်ဆောင်မှုမရှိရန်"</string>
+    <string name="mmp_img_player_low_memory" msgid="563937068344863239">"မှတ်ဉာဏ် နည်းနေသည်။"</string>
+    <string name="mmp_img_player_pan_success" msgid="5945675696592056557">"ပုံရွှေ့ကြည့်ပြီးပါပြီ။"</string>
+    <string name="mmp_img_player_pan_failed" msgid="5872051943605585443">"ပုံရွှေ့ကြည့်၍မရပါ။"</string>
+    <string name="mmp_img_player_pan_parameter_invalid" msgid="2926828788120735833">"ပုံရွှေ့ကြည့်မှု သတ်မှတ်ချက် မမှန်ကန်ပါ။"</string>
+    <string name="mmp_img_player_file_not_support" msgid="8044505304152821864">"ဤဖိုင်ကို ပံ့ပိုးမထားပါ"</string>
+    <string name="mmp_img_player_zooming" msgid="1589759384473792147">"ပုံ ဇူးမ်ဆွဲနေသည်…"</string>
+    <string name="mmp_img_player_rotating" msgid="8461823781551361070">"ပုံ လှည့်နေသည်…"</string>
+    <string name="mmp_img_player_net_disconnect" msgid="3644363535411515478">"အင်တာနက် ပြတ်တောက်သွားသဖြင့် စစ်ကြည့်ပါ။"</string>
+    <string name="mmp_img_player_play_error" msgid="123735832200732918">"ဖွင့်ရာ၌ မှားယွင်းမှု"</string>
+    <string name="mmp_img_player_play_error_message" msgid="3430663918858289760">"နောက်ဓာတ်ပုံတစ်ပုံ ဆက်ဖွင့်မလား။"</string>
+    <string name="mmp_img_player_ok" msgid="8356204143754819176">"OK"</string>
+    <string name="mmp_img_player_cancel" msgid="3518159083198557236">"မလုပ်တော့"</string>
+    <string name="mmp_menu_audio_output_setting" msgid="460478476807807452">"အသံအထွက်"</string>
+</resources>

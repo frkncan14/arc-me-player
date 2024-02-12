@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="mmp_menu" msgid="9079948768207079095">"మెనూ"</string>
+    <string name="mmp_menu_sort" msgid="8373528614821710603">"క్రమీకరించు"</string>
+    <string name="mmp_menu_mediatype" msgid="7324251596256819138">"మీడియా రకం"</string>
+    <string name="mmp_menu_thumb" msgid="2613417042892386301">"థంబ్‌నెయిల్‌ పరిమాణం"</string>
+    <string name="mmp_menu_copy" msgid="7728066670652565778">"కాపీ చేయి"</string>
+    <string name="mmp_menu_paste" msgid="1289836061276427065">"అతికించు"</string>
+    <string name="mmp_menu_delete" msgid="8911245550314385994">"తొలగించు"</string>
+    <string name="mmp_menu_recur" msgid="4965264343654944343">"పునరావృత అన్వయం"</string>
+    <string name="mmp_menu_not_recur" msgid="7112174768461191390">"సాధారణ అన్వయం"</string>
+    <string name="mmp_menu_photoframe" msgid="1214517932766614549">"ఫోటో ఫ్రేమ్"</string>
+    <string name="mmp_menu_photo_frame" msgid="7297221471059815216">"ఫోటో ఫ్రేమ్ సెట్ చేయబడింది"</string>
+    <string name="mmp_menu_play" msgid="544799819593204858">"ప్లే చేయి"</string>
+    <string name="mmp_menu_pause" msgid="2009629214475280978">"పాజ్ చేయి"</string>
+    <string name="mmp_menu_repeat" msgid="7258120466270016557">"మళ్లీ ప్లే చేయి"</string>
+    <string name="mmp_menu_shuffle" msgid="3397849470999515065">"షఫుల్ చేయి"</string>
+    <string name="mmp_menu_duration" msgid="3457072780002542559">"వ్యవధి"</string>
+    <string name="mmp_menu_effect" msgid="1095076262850741888">"ప్రభావం"</string>
+    <string name="mmp_menu_showinfo" msgid="4691897570336226826">"సమాచారాన్ని చూపు"</string>
+    <string name="mmp_menu_frame" msgid="7986960666934851018">"ఫోటో ఫ్రేమ్ చిత్రం"</string>
+    <string name="mmp_menu_rotate" msgid="8190003337362481311">"తిప్పు"</string>
+    <string name="mmp_menu_3d_photo" msgid="4983366475199077876">"3D ఫోటో"</string>
+    <string name="mmp_menu_display" msgid="7054330190938975189">"ప్రదర్శన పంక్తి"</string>
+    <string name="mmp_menu_timeoffset" msgid="100700072644603332">"సమయ ప్రదర్శన"</string>
+    <string name="mmp_menu_encoding" msgid="1550879051107028343">"ఎన్‌కోడింగ్"</string>
+    <string name="mmp_menu_picturemode" msgid="4868172328224771042">"చిత్ర మోడ్"</string>
+    <string name="mmp_menu_screenmode" msgid="4412352992234044423">"స్క్రీన్ మోడ్"</string>
+    <string name="mmp_menu_font" msgid="7375862916728883987">"ఫాంట్"</string>
+    <string name="mmp_menu_size" msgid="2228124380030616200">"పరిమాణం"</string>
+    <string name="mmp_menu_style" msgid="4128151098473753722">"శైలి"</string>
+    <string name="mmp_menu_color" msgid="2136070988230279780">"రంగు"</string>
+    <string name="mmp_menu_date" msgid="8666017604362763396">"తేదీ"</string>
+    <string name="mmp_menu_name" msgid="812493345015711141">"పేరు"</string>
+    <string name="mmp_menu_album" msgid="2114499624068654079">"ఆల్బమ్"</string>
+    <string name="mmp_menu_artist" msgid="2764300205206905274">"కళాకారుడు"</string>
+    <string name="mmp_menu_genre" msgid="263980932337808189">"జోనర్"</string>
+    <string name="mmp_menu_type" msgid="1649143081737426246">"రకం"</string>
+    <string name="mmp_menu_phototext" msgid="7836919472204616006">"ఫోటో"</string>
+    <string name="mmp_menu_music" msgid="5387149570422271841">"సంగీతం"</string>
+    <string name="mmp_menu_video" msgid="5189292319328786647">"వీడియో"</string>
+    <string name="mmp_menu_text" msgid="5962796217247350807">"వచనం"</string>
+    <string name="mmp_menu_small" msgid="4105561830760841729">"చిన్నగా"</string>
+    <string name="mmp_menu_medium" msgid="7564524044246800587">"మధ్యస్థం"</string>
+    <string name="mmp_menu_large" msgid="5005608858465935364">"పెద్దగా"</string>
+    <string name="mmp_menu_onephotomode" msgid="6864735135037376411">"ఒక ఫోటో మోడ్"</string>
+    <string name="mmp_menu_none" msgid="7926890038540120590">"ఏదీ వద్దు"</string>
+    <string name="mmp_menu_repeatone" msgid="7788100339932357215">"ఒకదాన్ని పునరావృతం చేయి"</string>
+    <string name="mmp_menu_repeatall" msgid="6158142728959841974">"అన్నీ పునరావృతం చేయి"</string>
+    <string name="mmp_menu_shuffleoff" msgid="5629298854768064250">"షఫుల్ ఆఫ్ చేయి"</string>
+    <string name="mmp_menu_shuffleon" msgid="308830560936676103">"షఫుల్ ఆన్ చేయి"</string>
+    <string name="mmp_menu_short" msgid="5777774655121984779">"స్వల్ప వ్యవధి"</string>
+    <string name="mmp_menu_long" msgid="3882136219055983996">"దీర్ఘ వ్యవధి"</string>
+    <string name="mmp_menu_1x" msgid="5285128498963238352">"1 X"</string>
+    <string name="mmp_menu_2x" msgid="5203852169875721932">"2 X"</string>
+    <string name="mmp_menu_4x" msgid="4526236448038226345">"4 X"</string>
+    <string name="mmp_menu_dissolve" msgid="7113502065311218484">"కరిగించే ప్రభావం"</string>
+    <string name="mmp_menu_wiperight" msgid="1484246629923871092">"కుడికి తుడువు"</string>
+    <string name="mmp_menu_wipeleft" msgid="2398173785822262445">"ఎడమకు తుడువు"</string>
+    <string name="mmp_menu_wipeup" msgid="59996185178096696">"పైకి తుడువు"</string>
+    <string name="mmp_menu_wipedown" msgid="1719128764041925790">"కిందికి తుడువు"</string>
+    <string name="mmp_menu_boxin" msgid="7047199484148726413">"బాక్స్ లోపల"</string>
+    <string name="mmp_menu_boxout" msgid="6759124402362929260">"బాక్స్ బయట"</string>
+    <string name="mmp_menu_random" msgid="2389161930234842696">"యాదృచ్ఛికం"</string>
+    <string name="mmp_menu_off" msgid="386038732335984329">"ఆఫ్"</string>
+    <string name="mmp_menu_singleline" msgid="7431120586848806664">"ఒకే పంక్తి"</string>
+    <string name="mmp_menu_multiline" msgid="7052296904664940357">"బహుళ పంక్తలు"</string>
+    <string name="mmp_menu_auto" msgid="6817452675899749723">"ఆటోమేటిక్"</string>
+    <string name="mmp_menu_userdefine" msgid="4876094705350753243">"వినియోగదారు నిర్వచించేది"</string>
+    <string name="mmp_menu_zoom" msgid="1195420639323452586">"జూమ్"</string>
+    <string name="mmp_menu_regular" msgid="7949610806181219455">"సాధారణం"</string>
+    <string name="mmp_menu_italic" msgid="3823262772644701909">"ఇటాలిక్"</string>
+    <string name="mmp_menu_bold" msgid="1573884329277707594">"బోల్డ్"</string>
+    <string name="mmp_menu_outline" msgid="6135759649381327350">"Bold Italic"</string>
+    <string name="mmp_menu_white" msgid="8719113369246148681">"తెలుపు"</string>
+    <string name="mmp_menu_blue" msgid="5473608042810495615">"నీలం"</string>
+    <string name="mmp_menu_red" msgid="4218204192222522501">"ఎరుపు"</string>
+    <string name="mmp_menu_green" msgid="34696038896883398">"ఆకుపచ్చ"</string>
+    <string name="mmp_menu_black" msgid="5628264820914306931">"నలుపు"</string>
+    <string name="mmp_menu_lyricoptions" msgid="1348924294626050138">"సాహిత్యం ఎంపికలు"</string>
+    <string name="mmp_menu_showscore" msgid="3018721062927128088">"స్పెక్ట్రమ్‌ను చూపు"</string>
+    <string name="mmp_menu_hidescore" msgid="4381535154938875554">"స్పెక్ట్రమ్‌ను దాచు"</string>
+    <string name="mmp_photo" msgid="8843390942428145152">"ఫోటో"</string>
+    <string name="mmp_audio" msgid="8706227639060679235">"సంగీతం"</string>
+    <string name="mmp_video" msgid="2680263982702698720">"వీడియో"</string>
+    <string name="mmp_text" msgid="4077978808166924627">"వచనం"</string>
+    <string name="mmp_select" msgid="4407585001484425898">"ఎంచుకోండి"</string>
+    <string name="mmp_input" msgid="8592845546999906622">"ఎంటర్"</string>
+    <string name="mmp_exit" msgid="6051283891356437825">"నిష్క్రమించు"</string>
+    <string name="mmp_emptyfile" msgid="7299272765998117529">"ప్రస్తుత ఫోల్డర్ ఖాళీగా ఉంది!"</string>
+    <string name="mmp_reutip" msgid="8603627514980705968">"ఈ ఫోల్డర్‌ను అన్వయించే ప్రక్రియ ప్రోగ్రెస్‌లో ఉంది. దయచేసి వేచి ఉండండి..."</string>
+    <string name="mmp_pop_zoomscale" msgid="4444610414043102239">"X"</string>
+    <string name="mmp_info_album" msgid="7720981179637224588">"ఆల్బమ్:"</string>
+    <string name="mmp_info_orientation" msgid="3830902756642165426">"ఓరియంటేషన్:"</string>
+    <string name="mmp_info_artist" msgid="6966050205975687821">"కళాకారుడు:"</string>
+    <string name="mmp_info_name" msgid="8058742280848190551">"పేరు:"</string>
+    <string name="mmp_info_date" msgid="4300927192893785690">"తేదీ:"</string>
+    <string name="mmp_info_size" msgid="959025658391753505">"పరిమాణం:"</string>
+    <string name="mmp_info_next" msgid="4380397773389543174">"తర్వాత:"</string>
+    <string name="mmp_info_audio" msgid="1267866496055028627">"ఆడియో:"</string>
+    <string name="mmp_info_exposure" msgid="1297476777953501472">"ఎక్స్‌పోజర్ సమయం:"</string>
+    <string name="mmp_info_fnumber" msgid="2220709797456364777">"F-స్టాప్:"</string>
+    <string name="mmp_info_program" msgid="2062980080114642715">"ఎక్స్‌పోజర్ ప్రోగ్రామ్:"</string>
+    <string name="mmp_info_colorspace" msgid="991833052722703084">"కలర్ స్పేస్:"</string>
+    <string name="mmp_info_title" msgid="7820876214484582645">"శీర్షిక:"</string>
+    <string name="mmp_info_genre" msgid="2473418313212427139">"జోనర్:"</string>
+    <string name="mmp_info_year" msgid="2941904149668986691">"సంవత్సరం:"</string>
+    <string name="mmp_info_duration" msgid="7689265303365835747">"వ్యవధి:"</string>
+    <string name="mmp_info_director" msgid="8050309676555265722">"దర్శకులు:"</string>
+    <string name="mmp_info_copyrght" msgid="2260484851899108080">"కాపీరైట్:"</string>
+    <string name="mmp_info_lastpage" msgid="2276225818924525010">"చివరి పేజీ"</string>
+    <string name="mmp_info_nextpage" msgid="6044269836515584059">"తర్వాతి పేజీ"</string>
+    <string name="mmp_info_nolrc" msgid="2011077578197667092">"సాహిత్యం లేదు"</string>
+    <string name="mmp_loading_tip" msgid="6373109875045173807">"ఈ ఫోల్డర్‌ను అన్వయించే ప్రక్రియ ప్రోగ్రెస్‌లో ఉంది. దయచేసి వేచి ఉండండి..."</string>
+    <string name="mmp_user_name" msgid="4038160189084155137">"వినియోగదారు పేరు"</string>
+    <string name="mmp_password" msgid="52423781427686112">"పాస్‌‌వర్డ్"</string>
+    <string name="mmp_confirm" msgid="3987501643229207065">"నిర్ధారించు"</string>
+    <string name="mmp_vkb" msgid="879524843720392844">"ఇన్‌పుట్"</string>
+    <string name="mmp_ok" msgid="7246671616128389098">"సరే"</string>
+    <string name="mmp_cancel" msgid="3261313315531378417">"రద్దు చేయి"</string>
+    <string name="mmp_login_failed_tip" msgid="1843731122426925591">"వినియోగదారు పేరు లేదా పాస్‌వర్డ్ తప్పు!"</string>
+    <string name="mmp_dlnaserver_disconnected" msgid="6189648564456332471">"DLNA సర్వర్ డిస్‌కనెక్ట్ అయింది. దయచేసి నెట్‌వర్క్‌ను, సర్వర్ స్థితిని సరిచూసుకోండి!"</string>
+    <string name="mmp_pvr_play_from_tv_cannot_pip" msgid="6500393214807298054">"PVR ప్లేబ్యాక్ సమయంలో PIP మోడ్‌లోకి ప్రవేశించలేరు!"</string>
+    <string name="mmp_list_mode_cannot_pip" msgid="5562820685064587733">"ఫైల్ లిస్ట్‌ మోడ్‌లో ఉన్నప్పుడు PIP మోడ్‌లోకి ప్రవేశించలేరు!"</string>
+    <string name="mmp_title_copy" msgid="8583348774130086919">"కాపీ చేస్తోంది"</string>
+    <string name="mmp_title_confirm_replace" msgid="4771822119501444534">"ఫైల్ భర్తీని నిర్ధారించండి"</string>
+    <string name="mmp_title_confirm_delete" msgid="8377725312373475404">"ఫైల్(ల) తొలగింపును నిర్ధారించండి"</string>
+    <string name="mmp_message_copy" msgid="4808547807069922623">"<xliff:g id="MMP_MESSAGE_COPY_TWO_XLI">%2$s</xliff:g> నుండి\n<xliff:g id="MMP_MESSAGE_COPY_THREE_XLI">%3$s</xliff:g> వరకు\n<xliff:g id="MMP_MESSAGE_COPY_ONE_XLI">%1$s</xliff:g>"</string>
+    <string name="mmp_message_confirm_replace" msgid="5868285892080714347">"ఈ ఫోల్డర్‌లో \'<xliff:g id="MMP_MESSAGE_CONFIRM_REPLACE_XLI">%s</xliff:g>\' పేరుతో ఇప్పటికే\nఒక ఫైల్ ఉంది"</string>
+    <string name="mmp_message_confirm_delete" msgid="6777614659086530912">"మీరు ఎంచుకున్న ఫైల్‌ను ఖచ్చితంగా తొలగించాలనుకుంటున్నారా?"</string>
+    <string name="mmp_yes" msgid="8825062653561586733">"అవును"</string>
+    <string name="mmp_yes_to_all" msgid="2188249996394727534">"అన్నింటికీ అవును"</string>
+    <string name="mmp_no" msgid="6819583620403834086">"వద్దు"</string>
+    <string name="mmp_capture_title" msgid="7209687460094347177">"క్యాప్చర్ లోగో"</string>
+    <string name="mmp_capture_confirm" msgid="824603266897705710">"మీరు ఈ స్క్రీన్‌ను క్యాప్చర్ చేయాలనుకుంటున్నారా?"</string>
+    <string name="mmp_toast_no_photoframe" msgid="881397136260176005">"ప్లే చేయడానికి ఫోటో ఫ్రేమ్ ఏదీ లేదు"</string>
+    <string name="mmp_before_pip_exit_dot_by_dot" msgid="1724158907378873072">"మీరు PIP మోడ్‌లోకి ప్రవేశిస్తున్నప్పుడు, స్క్రీన్ మోడ్ సాధారణ స్థితికి మారుతుంది."</string>
+    <string name="mmp_before_pip_zoom_1x" msgid="632844846305154273">"మీరు PIP మోడ్‌లోకి ప్రవేశిస్తున్నప్పుడు, జూమ్ స్థితి \'సాధారణం\'కు మారుతుంది."</string>
+    <string name="mmp_video_notsupport" msgid="3746654153060516549">"వీడియో కోడెక్‌కు మద్దతు లేదు"</string>
+    <string name="mmp_audio_notsupport" msgid="298426631612159434">"ఆడియో ఫార్మాట్‌కు మద్దతు లేదు"</string>
+    <string name="mmp_video_only" msgid="7278869886485261082">"కేవలం వీడియో"</string>
+    <string name="mmp_frame_photo_sleeptime" msgid="3684111810245692657">"నిద్ర సమయం"</string>
+    <string name="mmp_video_stopresume" msgid="1769167470574168506">"తిరిగి కొనసాగింపు ఆపివేయి"</string>
+    <string name="mmp_photo_type_notsupport" msgid="1102594345605622608">"ఫైల్‌కు మద్దతు లేదు"</string>
+    <string name="mmp_lable_rorate" msgid="5707789973312733102">"తిప్పు"</string>
+    <string name="mmp_info_whitebalance" msgid="4243391745350656248">"తెలుపు సమతుల్యత:"</string>
+    <string name="mmp_info_make" msgid="5019160699386040694">"కెమెరా మేకర్:"</string>
+    <string name="mmp_info_model" msgid="2555791677451848012">"కెమెరా మోడల్:"</string>
+    <string name="mmp_info_flash" msgid="1482374643316448288">"ఫ్లాష్:"</string>
+    <string name="mmp_info_focallength" msgid="7185730465171519772">"ఫోకల్ పొడవు:"</string>
+    <string name="mmp_menu_pic_setting" msgid="8682447848318300605">"ఫోటో సెట్టింగ్‌లు"</string>
+    <string name="mmp_menu_audio_setting" msgid="4297665618950944208">"ఆడియో సెట్టింగ్‌‍లు"</string>
+    <string name="mmp_menu_sound_setting" msgid="1341976547098523497">"ధ్వని సెట్టింగ్‌లు"</string>
+    <string name="mmp_file_notsupport" msgid="7808733987932045433">"ఫైల్‌కు మద్దతు లేదు"</string>
+    <string name="mmp_notsupport" msgid="5351498401675171534">"మద్దతు లేదు"</string>
+    <string name="mmp_seek_notsupport" msgid="7212075520894633540">"దాటవేతకు మద్దతు లేదు"</string>
+    <string name="mmp_step_notsupport" msgid="6858087783268138488">"దశకు మద్దతు లేదు"</string>
+    <string name="mmp_featue_notsupport" msgid="8285945520158433641">"ఫీచర్ అందుబాటులో లేదు"</string>
+    <string name="mmp_buffer_not_enough" msgid="7729296381668175272">"తగినంత బఫరింగ్ లేదు"</string>
+    <string name="mmp_nodevice" msgid="6634130010421915083">"పరికరం ఏదీ కనెక్ట్ చేయబడలేదు!"</string>
+    <string name="mmp_time_out" msgid="2771473755878694067">"మీరు నమోదు చేసిన సమయ కోడ్ తప్పు!\nదయచేసి మొత్తం సమయం కంటే తక్కువగానే అందించారని నిర్ధారించుకోండి."</string>
+    <string name="mmp_file_corrupt" msgid="3689294857477023502">"ఫైల్ పాడైంది"</string>
+    <string name="mmp_menu_mount_iso" msgid="7959098173252455354">"ప్రస్తుత iso ఫైల్‌ను మౌంట్ చేస్తుంది"</string>
+    <string name="mmp_menu_unmount_iso" msgid="8948169787009591217">"ప్రస్తుత పరికరాన్ని అన్‌మౌంట్ చేస్తుంది"</string>
+    <string name="mmp_media_file_lost" msgid="1073430028079692146">"ప్రస్తుత పరికరం కనెక్ట్ చేయబడలేదు!"</string>
+    <string name="mmp_media_info_scrambled_audio_video_service" msgid="7436208224667913266">"వీడియో మరియు ఆడియో సంఘర్షణ"</string>
+    <string name="mmp_media_info_scrambled_audio_clear_video_service" msgid="9128160029441897577">"ఆడియో సంఘర్షణ"</string>
+    <string name="mmp_media_info_scrambled_audio_no_video_service" msgid="2572785485574211543">"ఆడియో సంఘర్షణ, ఆడియో మాత్రమే వస్తోంది"</string>
+    <string name="mmp_media_info_scrambled_video_clear_audio_service" msgid="7830438018396694250">"వీడియో వల్ల అవరోధం"</string>
+    <string name="mmp_media_info_scrambled_video_no_audio_service" msgid="854977936934627520">"వీడియో సంఘర్షణ, దృశ్యం మాత్రమే వస్తోంది"</string>
+    <string name="mmp_drm_register" msgid="675462032122703604">"Divx@ రక్షణ కలిగి ఉన్న ఈ వీడియోను ప్లే చేయడానికి \n మీ పరికరానికి అధికారం మంజూరు చేయబడలేదు."</string>
+    <string name="mmp_drm_register_expired" msgid="130018121204117964">"Divx@ అద్దె అంశం గడువు ముగిసింది"</string>
+    <string name="mmp_drm_register_used" msgid="1308738041895750904">"Divx@ అద్దె అంశం \n <xliff:g id="MMP_DRM_REGISTER_USED_TWO_XLI">%2$s</xliff:g> వీక్షణలలో<xliff:g id="MMP_DRM_REGISTER_USED_XLI">%1$s</xliff:g> వినియోగించింది"</string>
+    <string name="mmp_drm_register_continue" msgid="4545823732483395837">"కొనసాగించాలా?"</string>
+    <string name="mmp_divx_title" msgid="6437496733832500819">"పేరు"</string>
+    <string name="mmp_divx_edition" msgid="5306846019024910826">"ఎడిషన్"</string>
+    <string name="mmp_divx_chapter" msgid="3487487752488508131">"అధ్యాయం"</string>
+    <string name="mmp_divx_audioName" msgid="7031672633853273745">"ఆడియో:"</string>
+    <string name="mmp_divx_subtitleName" msgid="904348339487006815">"ఉపశీర్షిక:"</string>
+    <string name="mmp_dmr_starting" msgid="1846715628857289261">"DMRను ప్రారంభిస్తోంది."</string>
+    <string name="mmp_dmr_started" msgid="4516534251149034263">"DMR ప్రారంభించబడింది."</string>
+    <string name="mmp_dmr_network_failed" msgid="1069917251011513121">"DMRను ప్రారంభించడంలో విఫలమైంది. నెట్‌వర్క్ అందుబాటులో లేదు."</string>
+    <string name="mmp_dmr_url_failed" msgid="1998446749263931258">"చెల్లని URL"</string>
+    <string name="mmp_wrong_psw" msgid="2220959537681782417">"పాస్‌వర్డ్ తప్పు. మొత్తం <xliff:g id="MMP_WRONG_PSW_ONE_XLI">%1$s</xliff:g> అవకాశాలు ఉన్నాయి. మీరు <xliff:g id="MMP_WRONG_PSW_TWO_XLI">%2$s</xliff:g> సార్లు ప్రయత్నించారు. మళ్లీ ప్రయత్నించండి!"</string>
+    <string name="mmp_last_memory" msgid="445353399276221319">"చివరిది గుర్తుంచుకో"</string>
+    <string name="mmp_last_memory_time" msgid="8257690755872409500">"సమయం"</string>
+    <string name="mmp_last_memory_position" msgid="4214666976622254352">"స్థానం"</string>
+    <string name="ci_menu_pin_correct" msgid="2811258922733489547">"సరైనది!"</string>
+    <string name="ci_menu_pin_outoftry" msgid="44306490349881239">"మూడు సార్లు విఫలమైంది"</string>
+    <string name="mmp_buffering_tip" msgid="2518565216632544676">"వీడియో బఫర్ అవుతోంది. దయచేసి వేచి ఉండండి..."</string>
+    <string name="audio_type_normal" msgid="2694538341761232347">"సాధారణం"</string>
+    <string name="audio_type_hearing_impaired" msgid="2118182303039653332">"వినికిడి సమస్య"</string>
+    <string name="audio_type_visually_impaired" msgid="1123879394721652732">"కంటి చూపు సమస్య"</string>
+    <string name="audio_visually_speaker_on" msgid="370608298755159880">"ఆన్"</string>
+    <string name="audio_downmixmode_stereo" msgid="9198344825777497057">"స్టీరియో"</string>
+    <string name="audio_downmixmode_auto_stereo" msgid="6252486888542859420">"ఆటో స్టీరియో"</string>
+    <string name="audio_downmixmode_surround" msgid="334719632751452503">"సరౌండ్"</string>
+    <string name="nav_parent_psw" msgid="5129848968977804299">"మీ పాస్‌వర్డ్‌ను నమోదు చేయండి"</string>
+    <string name="mmp_change_mode" msgid="1676194732557780029">"బ్రౌజ్ మోడ్"</string>
+    <string name="mmp_menu_picture_off" msgid="4197984410377941805">"చిత్రాన్ని ఆఫ్ చేయండి"</string>
+    <string name="mmp_menu_jump_time" msgid="7424577337890603197">"వెతుకు"</string>
+    <string name="mmp_pop_repeat_tvsingle" msgid="1573762708654838975">"ఒక్కటే"</string>
+    <string name="mmp_bt_mode_notsupport" msgid="6018333824877204292">"BT మోడ్‌కు మద్దతు లేదు"</string>
+    <string name="mmp_menu_full_screen" msgid="3602706448625133614">"ఫుల్-స్క్రీన్‌"</string>
+    <string name="mmp_menu_over_scan" msgid="6417694118168861647">"ఓవర్‌ స్కాన్"</string>
+    <string name="mmp_menu_subtitle_encoding" msgid="6717942460780111286">"ఉపశీర్షిక ఎన్‌కోడింగ్"</string>
+    <string name="mmp_sleeptime_lable" msgid="552336639790838524">"నిద్ర సమయం:"</string>
+    <string name="mmp_menu_audio" msgid="7290654328973000754">"ఆడియో"</string>
+    <string name="mmp_no_devices_tips" msgid="361057196557407981">"పరికరాలు ఏవీ కనుగొనబడలేదు. దయచేసి పరికరాన్ని లోపలికి పెట్టండి లేదా మళ్ళీ ట్రై చేయండి!"</string>
+    <string name="mmp_video_info_resolution" msgid="8392200579627394727">"రిజల్యూషన్:"</string>
+    <string name="mmp_video_info_size" msgid="5161911583717273611">"సైజ్:"</string>
+    <string name="mmp_video_info_bitrate" msgid="7276989523119391715">"బిట్ రేట్:"</string>
+    <string name="mmp_video_info_last_Modified_date" msgid="6216504677173286907">"చివరిగా ఎడిట్ చేసిన తేదీ:"</string>
+    <string name="mmp_play_speed_notsupport_ff" msgid="5406970534491698132">"స్పీడ్ ప్లే మోడ్‌లో ఫాస్ట్-ఫార్వర్డ్ డిజేబుల్ చేయబడింది"</string>
+    <string name="mmp_play_speed_notsupport_fb" msgid="5335593605293341055">"స్పీడ్ ప్లే మోడ్‌లో ఫాస్ట్-బాక్‌వార్డ్ డిజేబుల్ చేయబడింది"</string>
+    <string name="mmp_menu_play_speed" msgid="8078405319367563721">"ప్లే వేగం"</string>
+    <string name="mmp_seamless_mode" msgid="2794517051734603832">"సీమ్‌లెస్"</string>
+    <string name="mmp_seamless_mode_off" msgid="6502962176792078529">"ఆఫ్ చేయండి"</string>
+    <string name="mmp_seamless_mode_on" msgid="2680879271354894946">"ఆన్ చేయండి"</string>
+    <string name="mmp_menu_rotate_0" msgid="2525882655804508677">"0 డిగ్రీ రొటేషన్"</string>
+    <string name="mmp_menu_rotate_90" msgid="5499075283143867382">"90 డిగ్రీ రొటేషన్"</string>
+    <string name="mmp_menu_rotate_180" msgid="828127129735548816">"180 డిగ్రీ రొటేషన్"</string>
+    <string name="mmp_menu_rotate_270" msgid="9010954915556187744">"270 డిగ్రీ రొటేషన్"</string>
+    <string name="mmp_menu_wallpaper" msgid="5678135140588088459">"వాల్‌పేపర్‌గా సెట్ చేయండి"</string>
+    <string name="mmp_menu_img_zoom_in" msgid="4446097703965671221">"జూమ్ - ఇన్"</string>
+    <string name="mmp_menu_img_zoom_out" msgid="9026341167144546000">"జూమ్ - అవుట్"</string>
+    <string name="mmp_img_player_max_tip" msgid="7337920113397012863">"గరిష్ఠ స్కేల్ నిష్పత్తి!"</string>
+    <string name="mmp_img_player_min_tip" msgid="4286863235386750909">"కనిష్ఠ స్కేల్ నిష్పత్తి!"</string>
+    <string name="mmp_img_player_photo_wallpaper" msgid="7812511256832915936">"ఫోటో వాల్‌పేపర్"</string>
+    <string name="mmp_img_player_setting_wallpaper_plz_wait" msgid="4696641526998650922">"ఇది వాల్‌పేపర్‌ను సెట్ చేస్తోంది,దయచేసి వేచి ఉండండి..."</string>
+    <string name="mmp_img_player_setting_wallpaper" msgid="3584202222258659321">"వాల్‌పేపర్ సెట్ చేయబడుతోంది..."</string>
+    <string name="mmp_img_player_wallpaper_not_supported" msgid="3594013303919654760">"వాల్‌పేపర్‌కు సపోర్ట్ లేదు"</string>
+    <string name="mmp_img_player_can_not_decode" msgid="1532417882851899990">"ఈ ఫోటోను డీకోడ్ చేయడం సాధ్యపడదు!"</string>
+    <string name="mmp_img_player_decoding" msgid="5237697103906052112">"ఫోటో డీకోడ్ అవుతోంది..."</string>
+    <string name="mmp_img_player_decode_failed" msgid="251111120950935657">"ఫోటో డీకోడ్ విఫలమైంది!"</string>
+    <string name="mmp_img_player_gif_not_allow" msgid="5781151658958709239">"GIF యానిమేషన్ మోడ్‌లో పనిచేయకూడదు"</string>
+    <string name="mmp_img_player_scale_or_rotate_not_allow" msgid="1229810181937509638">"స్కేల్ లేదా రొటేట్ మోడ్‌లో పనిచేయకూడదు"</string>
+    <string name="mmp_img_player_low_memory" msgid="563937068344863239">"తక్కువ మెమరీ!"</string>
+    <string name="mmp_img_player_pan_success" msgid="5945675696592056557">"ఇమేజ్ విజయవంతంగా ప్యాన్ చేయబడింది!"</string>
+    <string name="mmp_img_player_pan_failed" msgid="5872051943605585443">"ఇమేజ్ ప్యాన్ విఫలమైంది!"</string>
+    <string name="mmp_img_player_pan_parameter_invalid" msgid="2926828788120735833">"ఇమేజ్ ప్యాన్ పారామీటర్ చెల్లదు!"</string>
+    <string name="mmp_img_player_file_not_support" msgid="8044505304152821864">"ఫైల్ సపోర్ట్ చేయదు"</string>
+    <string name="mmp_img_player_zooming" msgid="1589759384473792147">"ఇమేజ్ జూమింగ్..."</string>
+    <string name="mmp_img_player_rotating" msgid="8461823781551361070">"ఇమేజ్ రొటేట్ అవుతోంది..."</string>
+    <string name="mmp_img_player_net_disconnect" msgid="3644363535411515478">"నెట్ డిస్‌కనెక్ట్ చేయబడింది,దయచేసి దాన్ని చెక్ చేయండి!"</string>
+    <string name="mmp_img_player_play_error" msgid="123735832200732918">"ప్లే ఎర్రర్"</string>
+    <string name="mmp_img_player_play_error_message" msgid="3430663918858289760">"ప్లే చేయడానికి సూచనల ఫోటోను కొనసాగించాలా?"</string>
+    <string name="mmp_img_player_ok" msgid="8356204143754819176">"సరే"</string>
+    <string name="mmp_img_player_cancel" msgid="3518159083198557236">"రద్దు చేయండి"</string>
+    <string name="mmp_menu_audio_output_setting" msgid="460478476807807452">"ఆడియో అవుట్‌పుట్"</string>
+</resources>

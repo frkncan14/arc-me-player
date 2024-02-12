@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_header_name" msgid="1511134859611073545">"MMP सेटिंग्ज"</string>
+    <string name="menu_interface_name" msgid="5344652034012728056">"मेनू"</string>
+    <string name="menu_ok" msgid="1093655261469491523">"ओके"</string>
+    <string name="menu_setup_divx_cancel" msgid="8064350612522047642">"रद्द करा"</string>
+    <string name="menu_audio_type" msgid="3925035178729537764">"प्रकार"</string>
+    <string name="menu_audio_visually_impaired" msgid="890324054395264387">"दृष्टीदोष"</string>
+    <string name="menu_audio_visually_speaker" msgid="3395844900051508934">"स्पीकर"</string>
+    <string name="menu_audio_visually_headphone" msgid="1021914828438131833">"हेडफोन"</string>
+    <string name="menu_audio_visually_volume" msgid="5641549986551666376">"व्हॉल्यूम"</string>
+    <string name="menu_audio_visually_pan_and_fade" msgid="254417077185821478">"पॅन आणि फेड करा"</string>
+    <string name="menu_audio_visually_impaired_audio" msgid="7971592314178467071">"दृष्टीदोष असलेल्यांसाठी ऑडिओ"</string>
+    <string name="menu_audio_downmix_mode" msgid="369622289092215581">"डाउनमिक्स मोड"</string>
+    <string name="menu_audio_sound_tracks" msgid="5301498529072828729">"साउंड ट्रॅक"</string>
+    <string name="menu_setup_network" msgid="7298518816232860684">"नेटवर्क"</string>
+    <string name="menu_setup_my_net_place" msgid="8175416643475601862">"माझी नेटवर्क ठिकाणे"</string>
+    <string name="menu_setup_ci_no_card" msgid="299413725358369465">"कोणतेही CI कार्ड सादर केलेले नाही."</string>
+    <string name="menu_setup_ci_cam_menu" msgid="6441540214352249304">"कॅम मेनू"</string>
+    <string name="menu_setup_ci_pin_code" msgid="5559565535289512930">"कृपया कॅम पिन कोड इनपुट करा"</string>
+    <string name="menu_setup_ci_pin_code_input_tip" msgid="4436890917486724920">"कृपया पिन कोड इनपुट करा"</string>
+    <string name="menu_setup_ci_pin_code_incorrect_tip" msgid="3687700881104571077">"अयोग्य. पुन्हा इनपुट करा!"</string>
+    <string name="menu_setup_auto_synchronization" msgid="2747119305523328476">"ऑटो सिंक्रोनायझेशन"</string>
+    <string name="menu_setup_exo_payer_switcher" msgid="4562213054964641645">"Exoplayer स्विचर"</string>
+    <string name="menu_ci_cam_scan" msgid="6682716298813053640">"कॅम स्कॅन"</string>
+    <string name="ci_title" msgid="7873486568190568594">"कॅम माहिती"</string>
+</resources>

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"홈 탐색"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"위로 탐색"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"옵션 더보기"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"완료"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"전체 보기"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"앱 선택"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"사용 안함"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"사용"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"삭제"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"입력"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"스페이스바"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"검색..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"검색어 삭제"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"검색어"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"검색"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"검색어 보내기"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"음성 검색"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"공유 대상"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>와(과) 공유"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"접기"</string>
+    <string msgid="6252486888542859420" name="audio_downmixmode_auto_stereo">"자동 스테레오"</string>
+    <string msgid="9198344825777497057" name="audio_downmixmode_stereo">"스테레오"</string>
+    <string msgid="334719632751452503" name="audio_downmixmode_surround">"서라운드"</string>
+    <string msgid="2118182303039653332" name="audio_type_hearing_impaired">"청각장애인"</string>
+    <string msgid="2694538341761232347" name="audio_type_normal">"일반"</string>
+    <string msgid="1123879394721652732" name="audio_type_visually_impaired">"시각장애인"</string>
+    <string msgid="370608298755159880" name="audio_visually_speaker_on">"사용"</string>
+    <string msgid="2811258922733489547" name="ci_menu_pin_correct">"정답입니다."</string>
+    <string msgid="44306490349881239" name="ci_menu_pin_outoftry">"3회 실패"</string>
+    <string msgid="7873486568190568594" name="ci_title">"Cam 정보"</string>
+    <string msgid="2721825378927619928" name="lb_control_display_fast_forward_multiplier">"%1$d배속"</string>
+    <string msgid="6173753802428649303" name="lb_control_display_rewind_multiplier">"%1$d배속"</string>
+    <string msgid="1122271825827282965" name="lb_guidedaction_continue_title">"계속"</string>
+    <string msgid="7747913934287176843" name="lb_guidedaction_finish_title">"완료"</string>
+    <string msgid="8748646000835486516" name="lb_media_player_error">"MediaPlayer 오류 코드 %1$d extra %2$d"</string>
+    <string msgid="8126335323963415494" name="lb_navigation_menu_contentDescription">"탐색 메뉴"</string>
+    <string msgid="4213611627196077555" name="lb_onboarding_accessibility_next">"다음"</string>
+    <string msgid="7674487829030291492" name="lb_onboarding_get_started">"시작하기"</string>
+    <string msgid="5508271941331836786" name="lb_playback_controls_closed_captioning_disable">"자막 사용 중지"</string>
+    <string msgid="3934392140182327163" name="lb_playback_controls_closed_captioning_enable">"자막 사용 설정"</string>
+    <string msgid="8966769845721269304" name="lb_playback_controls_fast_forward">"빨리 감기"</string>
+    <string msgid="801276177839339511" name="lb_playback_controls_fast_forward_multiplier">"%1$d배속 빨리 감기"</string>
+    <string msgid="619396299825306757" name="lb_playback_controls_hidden">"미디어 컨트롤이 숨겨져 있습니다. 표시하려면 D패드를 누르세요."</string>
+    <string msgid="3000046054608531995" name="lb_playback_controls_high_quality_disable">"고품질 사용 중지"</string>
+    <string msgid="1862669142355962638" name="lb_playback_controls_high_quality_enable">"고품질 사용 설정"</string>
+    <string msgid="2827883329510404797" name="lb_playback_controls_more_actions">"추가 작업"</string>
+    <string msgid="1769131316742618433" name="lb_playback_controls_pause">"일시중지"</string>
+    <string msgid="8800305194045609275" name="lb_playback_controls_picture_in_picture">"PIP 모드 시작"</string>
+    <string msgid="1590369760862605402" name="lb_playback_controls_play">"재생"</string>
+    <string msgid="5164826436271322261" name="lb_playback_controls_repeat_all">"전체 반복"</string>
+    <string msgid="5812341701962930499" name="lb_playback_controls_repeat_none">"반복 안함"</string>
+    <string msgid="7675097479246139440" name="lb_playback_controls_repeat_one">"한 개 반복"</string>
+    <string msgid="1412664391757869774" name="lb_playback_controls_rewind">"되감기"</string>
+    <string msgid="8651612807713092781" name="lb_playback_controls_rewind_multiplier">"%1$d배속 되감기"</string>
+    <string msgid="7794717158616536936" name="lb_playback_controls_shown">"미디어 컨트롤이 표시되었습니다."</string>
+    <string msgid="8182435535948303910" name="lb_playback_controls_shuffle_disable">"셔플 사용 중지"</string>
+    <string msgid="7809089255981448519" name="lb_playback_controls_shuffle_enable">"셔플 사용 설정"</string>
+    <string msgid="4877009494447817003" name="lb_playback_controls_skip_next">"다음으로 건너뛰기"</string>
+    <string msgid="3147124289285911980" name="lb_playback_controls_skip_previous">"이전으로 건너뛰기"</string>
+    <string msgid="5075744418630733006" name="lb_playback_controls_thumb_down">"싫어요 선택 해제"</string>
+    <string msgid="2847309435442474470" name="lb_playback_controls_thumb_down_outline">"싫어요 선택"</string>
+    <string msgid="8332816524260995892" name="lb_playback_controls_thumb_up">"좋아요 선택 해제"</string>
+    <string msgid="1038344559734334272" name="lb_playback_controls_thumb_up_outline">"좋아요 선택"</string>
+    <string msgid="6549544638083578695" name="lb_playback_time_separator">"/"</string>
+    <string msgid="4819380969103509861" name="lb_search_bar_hint">"검색"</string>
+    <string msgid="2795474673510974502" name="lb_search_bar_hint_speech">"음성 검색"</string>
+    <string msgid="7453744869467668159" name="lb_search_bar_hint_with_title">"<ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g> 검색"</string>
+    <string msgid="5851694095153624617" name="lb_search_bar_hint_with_title_speech">"<ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g> 음성 검색"</string>
+    <string msgid="369622289092215581" name="menu_audio_downmix_mode">"다운믹스 모드"</string>
+    <string msgid="5301498529072828729" name="menu_audio_sound_tracks">"사운드트랙"</string>
+    <string msgid="3925035178729537764" name="menu_audio_type">"유형"</string>
+    <string msgid="1021914828438131833" name="menu_audio_visually_headphone">"헤드폰"</string>
+    <string msgid="890324054395264387" name="menu_audio_visually_impaired">"시각장애인"</string>
+    <string msgid="7971592314178467071" name="menu_audio_visually_impaired_audio">"시각장애인용 오디오"</string>
+    <string msgid="254417077185821478" name="menu_audio_visually_pan_and_fade">"화면 이동 및 페이드 아웃"</string>
+    <string msgid="3395844900051508934" name="menu_audio_visually_speaker">"스피커"</string>
+    <string msgid="5641549986551666376" name="menu_audio_visually_volume">"볼륨"</string>
+    <string msgid="6682716298813053640" name="menu_ci_cam_scan">"Cam 검색"</string>
+    <string msgid="1511134859611073545" name="menu_header_name">"MMP 설정"</string>
+    <string msgid="5344652034012728056" name="menu_interface_name">"메뉴"</string>
+    <string msgid="1093655261469491523" name="menu_ok">"확인"</string>
+    <string msgid="2747119305523328476" name="menu_setup_auto_synchronization">"자동 동기화"</string>
+    <string msgid="6441540214352249304" name="menu_setup_ci_cam_menu">"Cam 메뉴"</string>
+    <string msgid="299413725358369465" name="menu_setup_ci_no_card">"제공된 CI 카드가 없습니다."</string>
+    <string msgid="5559565535289512930" name="menu_setup_ci_pin_code">"Cam PIN 코드 입력"</string>
+    <string msgid="3687700881104571077" name="menu_setup_ci_pin_code_incorrect_tip">"PIN이 정확하지 않습니다. 다시 입력해 주세요."</string>
+    <string msgid="4436890917486724920" name="menu_setup_ci_pin_code_input_tip">"PIN 코드 입력"</string>
+    <string msgid="8064350612522047642" name="menu_setup_divx_cancel">"취소"</string>
+    <string msgid="4562213054964641645" name="menu_setup_exo_payer_switcher">"Exoplayer 전환"</string>
+    <string msgid="8175416643475601862" name="menu_setup_my_net_place">"내 네트워크 장소"</string>
+    <string msgid="7298518816232860684" name="menu_setup_network">"네트워크"</string>
+    <string msgid="8706227639060679235" name="mmp_audio">"음악"</string>
+    <string msgid="298426631612159434" name="mmp_audio_notsupport">"지원되지 않는 오디오 형식"</string>
+    <string msgid="1724158907378873072" name="mmp_before_pip_exit_dot_by_dot">"PIP 모드를 시작하면 화면 모드가 일반으로 바뀝니다."</string>
+    <string msgid="632844846305154273" name="mmp_before_pip_zoom_1x">"PIP 모드를 시작하면 확대/축소가 일반으로 바뀝니다."</string>
+    <string msgid="6018333824877204292" name="mmp_bt_mode_notsupport">"BT 모드가 지원되지 않음"</string>
+    <string msgid="7729296381668175272" name="mmp_buffer_not_enough">"버퍼가 충분하지 않음"</string>
+    <string msgid="2518565216632544676" name="mmp_buffering_tip">"동영상이 버퍼링 중입니다. 잠시 기다려 주세요..."</string>
+    <string msgid="3261313315531378417" name="mmp_cancel">"취소"</string>
+    <string msgid="824603266897705710" name="mmp_capture_confirm">"이 화면을 캡처할까요?"</string>
+    <string msgid="7209687460094347177" name="mmp_capture_title">"로고 캡처"</string>
+    <string msgid="1676194732557780029" name="mmp_change_mode">"찾아보기 모드"</string>
+    <string msgid="3987501643229207065" name="mmp_confirm">"확인"</string>
+    <string msgid="7031672633853273745" name="mmp_divx_audioName">"오디오:"</string>
+    <string msgid="3487487752488508131" name="mmp_divx_chapter">"장"</string>
+    <string msgid="5306846019024910826" name="mmp_divx_edition">"버전"</string>
+    <string msgid="904348339487006815" name="mmp_divx_subtitleName">"부제목:"</string>
+    <string msgid="6437496733832500819" name="mmp_divx_title">"제목"</string>
+    <string msgid="6189648564456332471" name="mmp_dlnaserver_disconnected">"DLNA 서버가 연결 해제되었습니다. 네트워크 및 서버 상태를 확인해 보세요."</string>
+    <string msgid="1069917251011513121" name="mmp_dmr_network_failed">"DMR을 시작하지 못했습니다. 네트워크에 연결할 수 없습니다."</string>
+    <string msgid="4516534251149034263" name="mmp_dmr_started">"DMR이 시작되었습니다."</string>
+    <string msgid="1846715628857289261" name="mmp_dmr_starting">"DMR을 시작하는 중입니다."</string>
+    <string msgid="1998446749263931258" name="mmp_dmr_url_failed">"잘못된 URL"</string>
+    <string msgid="675462032122703604" name="mmp_drm_register">"기기에 이 Divx@ 보호 동영상을 \n 재생할 권한이 없습니다."</string>
+    <string msgid="4545823732483395837" name="mmp_drm_register_continue">"계속하시겠습니까?"</string>
+    <string msgid="130018121204117964" name="mmp_drm_register_expired">"Divx@ 대여가 만료되었습니다."</string>
+    <string msgid="1308738041895750904" name="mmp_drm_register_used">"Divx@ 대여에서 \n <ns1:g id="MMP_DRM_REGISTER_USED_TWO_XLI">%2$s</ns1:g>회의 시청 횟수 중 <ns1:g id="MMP_DRM_REGISTER_USED_XLI">%1$s</ns1:g>회를 사용했습니다."</string>
+    <string msgid="7299272765998117529" name="mmp_emptyfile">"현재 폴더가 비어 있습니다."</string>
+    <string msgid="6051283891356437825" name="mmp_exit">"종료"</string>
+    <string msgid="8285945520158433641" name="mmp_featue_notsupport">"제공되지 않는 기능"</string>
+    <string msgid="3689294857477023502" name="mmp_file_corrupt">"손상된 파일입니다."</string>
+    <string msgid="7808733987932045433" name="mmp_file_notsupport">"지원되지 않는 파일"</string>
+    <string msgid="3684111810245692657" name="mmp_frame_photo_sleeptime">"수면 시간"</string>
+    <string msgid="1532417882851899990" name="mmp_img_player_can_not_decode">"이 사진을 디코딩할 수 없습니다."</string>
+    <string msgid="3518159083198557236" name="mmp_img_player_cancel">"취소"</string>
+    <string msgid="251111120950935657" name="mmp_img_player_decode_failed">"사진을 디코딩할 수 없습니다."</string>
+    <string msgid="5237697103906052112" name="mmp_img_player_decoding">"사진을 디코딩하는 중..."</string>
+    <string msgid="8044505304152821864" name="mmp_img_player_file_not_support">"지원되지 않는 파일입니다."</string>
+    <string msgid="5781151658958709239" name="mmp_img_player_gif_not_allow">"GIF 애니메이션 모드로 작업할 수 없음"</string>
+    <string msgid="563937068344863239" name="mmp_img_player_low_memory">"메모리가 부족합니다."</string>
+    <string msgid="7337920113397012863" name="mmp_img_player_max_tip">"최대 조정 비율입니다."</string>
+    <string msgid="4286863235386750909" name="mmp_img_player_min_tip">"최소 조정 비율입니다."</string>
+    <string msgid="3644363535411515478" name="mmp_img_player_net_disconnect">"인터넷 연결이 해제되었습니다. 확인해 주세요."</string>
+    <string msgid="8356204143754819176" name="mmp_img_player_ok">"확인"</string>
+    <string msgid="5872051943605585443" name="mmp_img_player_pan_failed">"이미지를 이동할 수 없습니다."</string>
+    <string msgid="2926828788120735833" name="mmp_img_player_pan_parameter_invalid">"이미지 이동 매개변수가 유효하지 않습니다."</string>
+    <string msgid="5945675696592056557" name="mmp_img_player_pan_success">"이미지를 이동했습니다."</string>
+    <string msgid="7812511256832915936" name="mmp_img_player_photo_wallpaper">"사진 배경화면"</string>
+    <string msgid="123735832200732918" name="mmp_img_player_play_error">"재생 오류"</string>
+    <string msgid="3430663918858289760" name="mmp_img_player_play_error_message">"다음 사진을 재생하시겠습니까?"</string>
+    <string msgid="8461823781551361070" name="mmp_img_player_rotating">"이미지 회전 중..."</string>
+    <string msgid="1229810181937509638" name="mmp_img_player_scale_or_rotate_not_allow">"조정 또는 회전 모드로 작업할 수 없음"</string>
+    <string msgid="3584202222258659321" name="mmp_img_player_setting_wallpaper">"배경화면 설정 중..."</string>
+    <string msgid="4696641526998650922" name="mmp_img_player_setting_wallpaper_plz_wait">"배경화면을 설정하는 중입니다. 잠시 기다려 주세요."</string>
+    <string msgid="3594013303919654760" name="mmp_img_player_wallpaper_not_supported">"배경화면이 지원되지 않습니다."</string>
+    <string msgid="1589759384473792147" name="mmp_img_player_zooming">"이미지 확대/축소 중..."</string>
+    <string msgid="7720981179637224588" name="mmp_info_album">"앨범:"</string>
+    <string msgid="6966050205975687821" name="mmp_info_artist">"아티스트:"</string>
+    <string msgid="1267866496055028627" name="mmp_info_audio">"오디오:"</string>
+    <string msgid="991833052722703084" name="mmp_info_colorspace">"색상 공간:"</string>
+    <string msgid="2260484851899108080" name="mmp_info_copyrght">"저작권:"</string>
+    <string msgid="4300927192893785690" name="mmp_info_date">"날짜:"</string>
+    <string msgid="8050309676555265722" name="mmp_info_director">"감독:"</string>
+    <string msgid="7689265303365835747" name="mmp_info_duration">"재생 시간:"</string>
+    <string msgid="1297476777953501472" name="mmp_info_exposure">"노출 시간:"</string>
+    <string msgid="1482374643316448288" name="mmp_info_flash">"플래시:"</string>
+    <string msgid="2220709797456364777" name="mmp_info_fnumber">"F 스톱:"</string>
+    <string msgid="7185730465171519772" name="mmp_info_focallength">"초점 거리:"</string>
+    <string msgid="2473418313212427139" name="mmp_info_genre">"장르:"</string>
+    <string msgid="2276225818924525010" name="mmp_info_lastpage">"마지막 페이지"</string>
+    <string msgid="5019160699386040694" name="mmp_info_make">"카메라 제조업체:"</string>
+    <string msgid="2555791677451848012" name="mmp_info_model">"카메라 모델:"</string>
+    <string msgid="8058742280848190551" name="mmp_info_name">"이름:"</string>
+    <string msgid="4380397773389543174" name="mmp_info_next">"다음:"</string>
+    <string msgid="6044269836515584059" name="mmp_info_nextpage">"다음 페이지"</string>
+    <string msgid="2011077578197667092" name="mmp_info_nolrc">"가사 없음"</string>
+    <string msgid="3830902756642165426" name="mmp_info_orientation">"방향:"</string>
+    <string msgid="2062980080114642715" name="mmp_info_program">"노출 프로그램:"</string>
+    <string msgid="959025658391753505" name="mmp_info_size">"크기:"</string>
+    <string msgid="7820876214484582645" name="mmp_info_title">"제목:"</string>
+    <string msgid="4243391745350656248" name="mmp_info_whitebalance">"화이트 밸런스:"</string>
+    <string msgid="2941904149668986691" name="mmp_info_year">"연도:"</string>
+    <string msgid="8592845546999906622" name="mmp_input">"입력"</string>
+    <string msgid="5707789973312733102" name="mmp_lable_rorate">"회전"</string>
+    <string msgid="445353399276221319" name="mmp_last_memory">"마지막 재생 위치"</string>
+    <string msgid="4214666976622254352" name="mmp_last_memory_position">"위치"</string>
+    <string msgid="8257690755872409500" name="mmp_last_memory_time">"시간"</string>
+    <string msgid="5562820685064587733" name="mmp_list_mode_cannot_pip">"파일 목록 모드에서는 PIP 모드로 이동할 수 없습니다."</string>
+    <string msgid="6373109875045173807" name="mmp_loading_tip">"이 폴더를 파싱 중입니다. 잠시 기다려 주세요..."</string>
+    <string msgid="1843731122426925591" name="mmp_login_failed_tip">"사용자 이름 또는 비밀번호가 잘못되었습니다."</string>
+    <string msgid="1073430028079692146" name="mmp_media_file_lost">"현재 기기가 지원되지 않습니다."</string>
+    <string msgid="9128160029441897577" name="mmp_media_info_scrambled_audio_clear_video_service">"스크램블 오디오"</string>
+    <string msgid="2572785485574211543" name="mmp_media_info_scrambled_audio_no_video_service">"스크램블 오디오, 오디오만"</string>
+    <string msgid="7436208224667913266" name="mmp_media_info_scrambled_audio_video_service">"스크램블 동영상 및 오디오"</string>
+    <string msgid="7830438018396694250" name="mmp_media_info_scrambled_video_clear_audio_service">"스크램블 동영상"</string>
+    <string msgid="854977936934627520" name="mmp_media_info_scrambled_video_no_audio_service">"스크램블 동영상, 동영상만"</string>
+    <string msgid="9079948768207079095" name="mmp_menu">"메뉴"</string>
+    <string msgid="5285128498963238352" name="mmp_menu_1x">"1배"</string>
+    <string msgid="5203852169875721932" name="mmp_menu_2x">"2배"</string>
+    <string msgid="4983366475199077876" name="mmp_menu_3d_photo">"3D 사진"</string>
+    <string msgid="4526236448038226345" name="mmp_menu_4x">"4배"</string>
+    <string msgid="2114499624068654079" name="mmp_menu_album">"앨범"</string>
+    <string msgid="2764300205206905274" name="mmp_menu_artist">"아티스트"</string>
+    <string msgid="7290654328973000754" name="mmp_menu_audio">"오디오"</string>
+    <string msgid="460478476807807452" name="mmp_menu_audio_output_setting">"오디오 출력"</string>
+    <string msgid="4297665618950944208" name="mmp_menu_audio_setting">"오디오 설정"</string>
+    <string msgid="6817452675899749723" name="mmp_menu_auto">"자동"</string>
+    <string msgid="5628264820914306931" name="mmp_menu_black">"검은색"</string>
+    <string msgid="5473608042810495615" name="mmp_menu_blue">"파란색"</string>
+    <string msgid="1573884329277707594" name="mmp_menu_bold">"굵게"</string>
+    <string msgid="7047199484148726413" name="mmp_menu_boxin">"박스 인"</string>
+    <string msgid="6759124402362929260" name="mmp_menu_boxout">"박스 아웃"</string>
+    <string msgid="2136070988230279780" name="mmp_menu_color">"색상"</string>
+    <string msgid="7728066670652565778" name="mmp_menu_copy">"복사"</string>
+    <string msgid="8666017604362763396" name="mmp_menu_date">"날짜"</string>
+    <string msgid="8911245550314385994" name="mmp_menu_delete">"삭제"</string>
+    <string msgid="7054330190938975189" name="mmp_menu_display">"행 표시"</string>
+    <string msgid="7113502065311218484" name="mmp_menu_dissolve">"디졸브"</string>
+    <string msgid="3457072780002542559" name="mmp_menu_duration">"길이"</string>
+    <string msgid="1095076262850741888" name="mmp_menu_effect">"효과"</string>
+    <string msgid="1550879051107028343" name="mmp_menu_encoding">"인코딩"</string>
+    <string msgid="7375862916728883987" name="mmp_menu_font">"글꼴"</string>
+    <string msgid="7986960666934851018" name="mmp_menu_frame">"디지털 액자 이미지"</string>
+    <string msgid="3602706448625133614" name="mmp_menu_full_screen">"전체 화면"</string>
+    <string msgid="263980932337808189" name="mmp_menu_genre">"장르"</string>
+    <string msgid="34696038896883398" name="mmp_menu_green">"녹색"</string>
+    <string msgid="4381535154938875554" name="mmp_menu_hidescore">"스펙트럼 숨기기"</string>
+    <string msgid="4446097703965671221" name="mmp_menu_img_zoom_in">"확대"</string>
+    <string msgid="9026341167144546000" name="mmp_menu_img_zoom_out">"축소"</string>
+    <string msgid="3823262772644701909" name="mmp_menu_italic">"기울임꼴"</string>
+    <string msgid="7424577337890603197" name="mmp_menu_jump_time">"탐색"</string>
+    <string msgid="5005608858465935364" name="mmp_menu_large">"크게"</string>
+    <string msgid="3882136219055983996" name="mmp_menu_long">"길게"</string>
+    <string msgid="1348924294626050138" name="mmp_menu_lyricoptions">"가사 옵션"</string>
+    <string msgid="7324251596256819138" name="mmp_menu_mediatype">"미디어 유형"</string>
+    <string msgid="7564524044246800587" name="mmp_menu_medium">"보통"</string>
+    <string msgid="7959098173252455354" name="mmp_menu_mount_iso">"현재 iso 파일 마운트"</string>
+    <string msgid="7052296904664940357" name="mmp_menu_multiline">"여러 행"</string>
+    <string msgid="5387149570422271841" name="mmp_menu_music">"음악"</string>
+    <string msgid="812493345015711141" name="mmp_menu_name">"이름"</string>
+    <string msgid="7926890038540120590" name="mmp_menu_none">"없음"</string>
+    <string msgid="7112174768461191390" name="mmp_menu_not_recur">"일반 파서"</string>
+    <string msgid="386038732335984329" name="mmp_menu_off">"사용 안함"</string>
+    <string msgid="6864735135037376411" name="mmp_menu_onephotomode">"사진 한 장 모드"</string>
+    <string msgid="6135759649381327350" name="mmp_menu_outline">"굵은 기울임꼴"</string>
+    <string msgid="6417694118168861647" name="mmp_menu_over_scan">"오버스캔"</string>
+    <string msgid="1289836061276427065" name="mmp_menu_paste">"붙여넣기"</string>
+    <string msgid="2009629214475280978" name="mmp_menu_pause">"일시중지"</string>
+    <string msgid="7297221471059815216" name="mmp_menu_photo_frame">"디지털 액자가 설정됨"</string>
+    <string msgid="1214517932766614549" name="mmp_menu_photoframe">"디지털 액자"</string>
+    <string msgid="7836919472204616006" name="mmp_menu_phototext">"사진"</string>
+    <string msgid="8682447848318300605" name="mmp_menu_pic_setting">"사진 설정"</string>
+    <string msgid="4197984410377941805" name="mmp_menu_picture_off">"화면 끄기"</string>
+    <string msgid="4868172328224771042" name="mmp_menu_picturemode">"사진 모드"</string>
+    <string msgid="544799819593204858" name="mmp_menu_play">"재생"</string>
+    <string msgid="8078405319367563721" name="mmp_menu_play_speed">"재생 속도"</string>
+    <string msgid="2389161930234842696" name="mmp_menu_random">"무작위"</string>
+    <string msgid="4965264343654944343" name="mmp_menu_recur">"반복 파서"</string>
+    <string msgid="4218204192222522501" name="mmp_menu_red">"빨간색"</string>
+    <string msgid="7949610806181219455" name="mmp_menu_regular">"일반"</string>
+    <string msgid="7258120466270016557" name="mmp_menu_repeat">"반복"</string>
+    <string msgid="6158142728959841974" name="mmp_menu_repeatall">"전체 반복"</string>
+    <string msgid="7788100339932357215" name="mmp_menu_repeatone">"한 개 반복"</string>
+    <string msgid="8190003337362481311" name="mmp_menu_rotate">"회전"</string>
+    <string msgid="2525882655804508677" name="mmp_menu_rotate_0">"0도 회전"</string>
+    <string msgid="828127129735548816" name="mmp_menu_rotate_180">"180도 회전"</string>
+    <string msgid="9010954915556187744" name="mmp_menu_rotate_270">"270도 회전"</string>
+    <string msgid="5499075283143867382" name="mmp_menu_rotate_90">"90도 회전"</string>
+    <string msgid="4412352992234044423" name="mmp_menu_screenmode">"화면 모드"</string>
+    <string msgid="5777774655121984779" name="mmp_menu_short">"짧게"</string>
+    <string msgid="4691897570336226826" name="mmp_menu_showinfo">"정보 표시"</string>
+    <string msgid="3018721062927128088" name="mmp_menu_showscore">"스펙트럼 표시"</string>
+    <string msgid="3397849470999515065" name="mmp_menu_shuffle">"셔플"</string>
+    <string msgid="5629298854768064250" name="mmp_menu_shuffleoff">"셔플 사용 안함"</string>
+    <string msgid="308830560936676103" name="mmp_menu_shuffleon">"셔플 사용"</string>
+    <string msgid="7431120586848806664" name="mmp_menu_singleline">"단일 행"</string>
+    <string msgid="2228124380030616200" name="mmp_menu_size">"크기"</string>
+    <string msgid="4105561830760841729" name="mmp_menu_small">"작게"</string>
+    <string msgid="8373528614821710603" name="mmp_menu_sort">"정렬"</string>
+    <string msgid="1341976547098523497" name="mmp_menu_sound_setting">"소리 설정"</string>
+    <string msgid="4128151098473753722" name="mmp_menu_style">"스타일"</string>
+    <string msgid="6717942460780111286" name="mmp_menu_subtitle_encoding">"자막 인코딩"</string>
+    <string msgid="5962796217247350807" name="mmp_menu_text">"텍스트"</string>
+    <string msgid="2613417042892386301" name="mmp_menu_thumb">"미리보기 이미지 크기"</string>
+    <string msgid="100700072644603332" name="mmp_menu_timeoffset">"시차"</string>
+    <string msgid="1649143081737426246" name="mmp_menu_type">"유형"</string>
+    <string msgid="8948169787009591217" name="mmp_menu_unmount_iso">"현재 기기 마운트 해제"</string>
+    <string msgid="4876094705350753243" name="mmp_menu_userdefine">"사용자 정의"</string>
+    <string msgid="5189292319328786647" name="mmp_menu_video">"동영상"</string>
+    <string msgid="5678135140588088459" name="mmp_menu_wallpaper">"배경화면으로 설정"</string>
+    <string msgid="8719113369246148681" name="mmp_menu_white">"흰색"</string>
+    <string msgid="1719128764041925790" name="mmp_menu_wipedown">"아래쪽으로 닦아내기"</string>
+    <string msgid="2398173785822262445" name="mmp_menu_wipeleft">"왼쪽으로 닦아내기"</string>
+    <string msgid="1484246629923871092" name="mmp_menu_wiperight">"오른쪽으로 닦아내기"</string>
+    <string msgid="59996185178096696" name="mmp_menu_wipeup">"위쪽으로 닦아내기"</string>
+    <string msgid="1195420639323452586" name="mmp_menu_zoom">"확대"</string>
+    <string msgid="6777614659086530912" name="mmp_message_confirm_delete">"선택한 파일을 삭제하시겠습니까?"</string>
+    <string msgid="5868285892080714347" name="mmp_message_confirm_replace">"이 폴더에 <ns1:g id="MMP_MESSAGE_CONFIRM_REPLACE_XLI">%s</ns1:g>(이)라는 이름의 파일이 이미 있습니다.\n"</string>
+    <string msgid="4808547807069922623" name="mmp_message_copy">"<ns1:g id="MMP_MESSAGE_COPY_ONE_XLI">%1$s</ns1:g>\n<ns1:g id="MMP_MESSAGE_COPY_TWO_XLI">%2$s</ns1:g>에서\n<ns1:g id="MMP_MESSAGE_COPY_THREE_XLI">%3$s</ns1:g>(으)로"</string>
+    <string msgid="6819583620403834086" name="mmp_no">"아니요"</string>
+    <string msgid="361057196557407981" name="mmp_no_devices_tips">"기기가 없습니다. 기기를 삽입하거나 나중에 다시 시도해 보세요."</string>
+    <string msgid="6634130010421915083" name="mmp_nodevice">"연결된 기기가 없습니다."</string>
+    <string msgid="5351498401675171534" name="mmp_notsupport">"지원되지 않음"</string>
+    <string msgid="7246671616128389098" name="mmp_ok">"확인"</string>
+    <string msgid="52423781427686112" name="mmp_password">"비밀번호"</string>
+    <string msgid="8843390942428145152" name="mmp_photo">"사진"</string>
+    <string msgid="1102594345605622608" name="mmp_photo_type_notsupport">"지원되지 않는 파일"</string>
+    <string msgid="5335593605293341055" name="mmp_play_speed_notsupport_fb">"빠른 재생 모드에서는 빨리 되감기가 사용 중지됩니다."</string>
+    <string msgid="5406970534491698132" name="mmp_play_speed_notsupport_ff">"빠른 재생 모드에서는 빨리 감기가 사용 중지됩니다."</string>
+    <string msgid="1573762708654838975" name="mmp_pop_repeat_tvsingle">"하나만 반복"</string>
+    <string msgid="4444610414043102239" name="mmp_pop_zoomscale">"배속"</string>
+    <string msgid="6500393214807298054" name="mmp_pvr_play_from_tv_cannot_pip">"PVR 재생에서는 PIP 모드로 이동할 수 없습니다."</string>
+    <string msgid="8603627514980705968" name="mmp_reutip">"이 폴더를 파싱 중입니다. 잠시 기다려 주세요..."</string>
+    <string msgid="2794517051734603832" name="mmp_seamless_mode">"원활함"</string>
+    <string msgid="6502962176792078529" name="mmp_seamless_mode_off">"꺼짐"</string>
+    <string msgid="2680879271354894946" name="mmp_seamless_mode_on">"켜짐"</string>
+    <string msgid="7212075520894633540" name="mmp_seek_notsupport">"지원되지 않는 탐색"</string>
+    <string msgid="4407585001484425898" name="mmp_select">"선택"</string>
+    <string msgid="552336639790838524" name="mmp_sleeptime_lable">"절전 모드 시간:"</string>
+    <string msgid="6858087783268138488" name="mmp_step_notsupport">"지원되지 않는 단계"</string>
+    <string msgid="4077978808166924627" name="mmp_text">"텍스트"</string>
+    <string msgid="2771473755878694067" name="mmp_time_out">"입력한 시간 코드가 잘못되었습니다.\n전체 길이보다 적어야 합니다."</string>
+    <string msgid="8377725312373475404" name="mmp_title_confirm_delete">"파일 삭제 확인"</string>
+    <string msgid="4771822119501444534" name="mmp_title_confirm_replace">"파일 대체 확인"</string>
+    <string msgid="8583348774130086919" name="mmp_title_copy">"복사 중"</string>
+    <string msgid="881397136260176005" name="mmp_toast_no_photoframe">"표시할 디지털 액자가 없습니다."</string>
+    <string msgid="4038160189084155137" name="mmp_user_name">"사용자 이름"</string>
+    <string msgid="2680263982702698720" name="mmp_video">"동영상"</string>
+    <string msgid="7276989523119391715" name="mmp_video_info_bitrate">"비트 전송률:"</string>
+    <string msgid="6216504677173286907" name="mmp_video_info_last_Modified_date">"최종 수정일:"</string>
+    <string msgid="8392200579627394727" name="mmp_video_info_resolution">"해상도:"</string>
+    <string msgid="5161911583717273611" name="mmp_video_info_size">"크기:"</string>
+    <string msgid="3746654153060516549" name="mmp_video_notsupport">"지원되지 않는 동영상 코덱"</string>
+    <string msgid="7278869886485261082" name="mmp_video_only">"동영상만"</string>
+    <string msgid="1769167470574168506" name="mmp_video_stopresume">"작업 재개 중지"</string>
+    <string msgid="879524843720392844" name="mmp_vkb">"입력"</string>
+    <string msgid="2220959537681782417" name="mmp_wrong_psw">"잘못된 비밀번호입니다. <ns1:g id="MMP_WRONG_PSW_TWO_XLI">%2$s</ns1:g>회 시도했으며 남은 시도 횟수는 총 <ns1:g id="MMP_WRONG_PSW_ONE_XLI">%1$s</ns1:g>회입니다. 다시 시도해 주세요."</string>
+    <string msgid="8825062653561586733" name="mmp_yes">"예"</string>
+    <string msgid="2188249996394727534" name="mmp_yes_to_all">"예를 눌러 전체 적용"</string>
+    <string msgid="5129848968977804299" name="nav_parent_psw">"비밀번호를 입력해 주세요."</string>
+    <string msgid="7534843523462177008" name="orb_search_action">"검색 작업"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"검색"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

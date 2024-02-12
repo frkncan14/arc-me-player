@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Felfelé mozgatás"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Összes megtekintése"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Válasszon ki egy alkalmazást"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"KI"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"BE"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Delete"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Enter"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"Szóköz"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Megosztás a következő alkalmazással: <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <string msgid="6252486888542859420" name="audio_downmixmode_auto_stereo">"Automatikus sztereó"</string>
+    <string msgid="9198344825777497057" name="audio_downmixmode_stereo">"Sztereó"</string>
+    <string msgid="334719632751452503" name="audio_downmixmode_surround">"Térhatású hangzás"</string>
+    <string msgid="2118182303039653332" name="audio_type_hearing_impaired">"Hallássérült"</string>
+    <string msgid="2694538341761232347" name="audio_type_normal">"Normál"</string>
+    <string msgid="1123879394721652732" name="audio_type_visually_impaired">"Látássérült"</string>
+    <string msgid="370608298755159880" name="audio_visually_speaker_on">"Bekapcsolva"</string>
+    <string msgid="2811258922733489547" name="ci_menu_pin_correct">"Helyes!"</string>
+    <string msgid="44306490349881239" name="ci_menu_pin_outoftry">"Háromszor hibás kódot adott meg"</string>
+    <string msgid="7873486568190568594" name="ci_title">"CA modul információi"</string>
+    <string msgid="2721825378927619928" name="lb_control_display_fast_forward_multiplier">"%1$dX"</string>
+    <string msgid="6173753802428649303" name="lb_control_display_rewind_multiplier">"%1$dX"</string>
+    <string msgid="1122271825827282965" name="lb_guidedaction_continue_title">"Tovább"</string>
+    <string msgid="7747913934287176843" name="lb_guidedaction_finish_title">"Befejezés"</string>
+    <string msgid="8748646000835486516" name="lb_media_player_error">"MediaPlayer-hibakód: %1$d extra %2$d"</string>
+    <string msgid="8126335323963415494" name="lb_navigation_menu_contentDescription">"Navigációs menü"</string>
+    <string msgid="4213611627196077555" name="lb_onboarding_accessibility_next">"Tovább"</string>
+    <string msgid="7674487829030291492" name="lb_onboarding_get_started">"KEZDŐ LÉPÉSEK"</string>
+    <string msgid="5508271941331836786" name="lb_playback_controls_closed_captioning_disable">"Feliratok letiltása"</string>
+    <string msgid="3934392140182327163" name="lb_playback_controls_closed_captioning_enable">"Feliratok engedélyezése"</string>
+    <string msgid="8966769845721269304" name="lb_playback_controls_fast_forward">"Gyors előretekerés"</string>
+    <string msgid="801276177839339511" name="lb_playback_controls_fast_forward_multiplier">"Előretekerés %1$dX"</string>
+    <string msgid="619396299825306757" name="lb_playback_controls_hidden">"A médiavezérlők el vannak rejtve. Megjelenítésükhöz nyomja le a d-padet."</string>
+    <string msgid="3000046054608531995" name="lb_playback_controls_high_quality_disable">"Jó minőségű lejátszás letiltása"</string>
+    <string msgid="1862669142355962638" name="lb_playback_controls_high_quality_enable">"Jó minőségű lejátszás engedélyezése"</string>
+    <string msgid="2827883329510404797" name="lb_playback_controls_more_actions">"További műveletek"</string>
+    <string msgid="1769131316742618433" name="lb_playback_controls_pause">"Szünet"</string>
+    <string msgid="8800305194045609275" name="lb_playback_controls_picture_in_picture">"Kép a képben mód indítása"</string>
+    <string msgid="1590369760862605402" name="lb_playback_controls_play">"Lejátszás"</string>
+    <string msgid="5164826436271322261" name="lb_playback_controls_repeat_all">"Összes ismétlése"</string>
+    <string msgid="5812341701962930499" name="lb_playback_controls_repeat_none">"Nincs ismétlés"</string>
+    <string msgid="7675097479246139440" name="lb_playback_controls_repeat_one">"Egy ismétlése"</string>
+    <string msgid="1412664391757869774" name="lb_playback_controls_rewind">"Visszatekerés"</string>
+    <string msgid="8651612807713092781" name="lb_playback_controls_rewind_multiplier">"Visszatekerés %1$dX"</string>
+    <string msgid="7794717158616536936" name="lb_playback_controls_shown">"Médiavezérlők megjelenítve"</string>
+    <string msgid="8182435535948303910" name="lb_playback_controls_shuffle_disable">"Véletlenszerű lejátszás letiltása"</string>
+    <string msgid="7809089255981448519" name="lb_playback_controls_shuffle_enable">"Véletlenszerű lejátszás engedélyezése"</string>
+    <string msgid="4877009494447817003" name="lb_playback_controls_skip_next">"Ugrás a következőre"</string>
+    <string msgid="3147124289285911980" name="lb_playback_controls_skip_previous">"Ugrás az előzőre"</string>
+    <string msgid="5075744418630733006" name="lb_playback_controls_thumb_down">"„Nem tetszik” értékelés visszavonása"</string>
+    <string msgid="2847309435442474470" name="lb_playback_controls_thumb_down_outline">"„Nem tetszik” értékelés kiválasztása"</string>
+    <string msgid="8332816524260995892" name="lb_playback_controls_thumb_up">"„Tetszik” értékelés visszavonása"</string>
+    <string msgid="1038344559734334272" name="lb_playback_controls_thumb_up_outline">"„Tetszik” értékelés kiválasztása"</string>
+    <string msgid="6549544638083578695" name="lb_playback_time_separator">"/"</string>
+    <string msgid="4819380969103509861" name="lb_search_bar_hint">"Keresés"</string>
+    <string msgid="2795474673510974502" name="lb_search_bar_hint_speech">"Beszéljen a keresés indításához"</string>
+    <string msgid="7453744869467668159" name="lb_search_bar_hint_with_title">"Keresés itt: <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="5851694095153624617" name="lb_search_bar_hint_with_title_speech">"Mondjon valamit, hogy itt keressen: <ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="369622289092215581" name="menu_audio_downmix_mode">"Downmix mód"</string>
+    <string msgid="5301498529072828729" name="menu_audio_sound_tracks">"Hangsávok"</string>
+    <string msgid="3925035178729537764" name="menu_audio_type">"Típus"</string>
+    <string msgid="1021914828438131833" name="menu_audio_visually_headphone">"Fejhallgató"</string>
+    <string msgid="890324054395264387" name="menu_audio_visually_impaired">"Látássérült"</string>
+    <string msgid="7971592314178467071" name="menu_audio_visually_impaired_audio">"Hang látássérülteknek"</string>
+    <string msgid="254417077185821478" name="menu_audio_visually_pan_and_fade">"Pásztázás és elhalkítás"</string>
+    <string msgid="3395844900051508934" name="menu_audio_visually_speaker">"Hangszóró"</string>
+    <string msgid="5641549986551666376" name="menu_audio_visually_volume">"Hangerő"</string>
+    <string msgid="6682716298813053640" name="menu_ci_cam_scan">"CA modul keresése"</string>
+    <string msgid="1511134859611073545" name="menu_header_name">"MMP-beállítások"</string>
+    <string msgid="5344652034012728056" name="menu_interface_name">"Menü"</string>
+    <string msgid="1093655261469491523" name="menu_ok">"OK"</string>
+    <string msgid="2747119305523328476" name="menu_setup_auto_synchronization">"Automatikus szinkronizálás"</string>
+    <string msgid="6441540214352249304" name="menu_setup_ci_cam_menu">"CA-modul menüje"</string>
+    <string msgid="299413725358369465" name="menu_setup_ci_no_card">"Nem található CI kártya."</string>
+    <string msgid="5559565535289512930" name="menu_setup_ci_pin_code">"Adja meg a CA modul PIN-kódját"</string>
+    <string msgid="3687700881104571077" name="menu_setup_ci_pin_code_incorrect_tip">"Helytelen. Adja meg újra."</string>
+    <string msgid="4436890917486724920" name="menu_setup_ci_pin_code_input_tip">"Adja meg PIN-kódját"</string>
+    <string msgid="8064350612522047642" name="menu_setup_divx_cancel">"Mégse"</string>
+    <string msgid="4562213054964641645" name="menu_setup_exo_payer_switcher">"ExoPlayer váltása"</string>
+    <string msgid="8175416643475601862" name="menu_setup_my_net_place">"Saját hálózati helyek"</string>
+    <string msgid="7298518816232860684" name="menu_setup_network">"Hálózat"</string>
+    <string msgid="8706227639060679235" name="mmp_audio">"Zene"</string>
+    <string msgid="298426631612159434" name="mmp_audio_notsupport">"A hangformátumot a rendszer nem támogatja"</string>
+    <string msgid="1724158907378873072" name="mmp_before_pip_exit_dot_by_dot">"A képernyőmód normálra vált, amikor belép a PIP módba."</string>
+    <string msgid="632844846305154273" name="mmp_before_pip_zoom_1x">"A nagyítás normál szintre vált, amikor belép a PIP módba."</string>
+    <string msgid="6018333824877204292" name="mmp_bt_mode_notsupport">"A BT-mód nem támogatott"</string>
+    <string msgid="7729296381668175272" name="mmp_buffer_not_enough">"Nincs elegendő puffer"</string>
+    <string msgid="2518565216632544676" name="mmp_buffering_tip">"A videó pufferel. Kérjük, várjon…"</string>
+    <string msgid="3261313315531378417" name="mmp_cancel">"Mégse"</string>
+    <string msgid="824603266897705710" name="mmp_capture_confirm">"Szeretne képernyőképet készíteni?"</string>
+    <string msgid="7209687460094347177" name="mmp_capture_title">"Embléma rögzítése"</string>
+    <string msgid="1676194732557780029" name="mmp_change_mode">"Böngészőmód"</string>
+    <string msgid="3987501643229207065" name="mmp_confirm">"Megerősítés"</string>
+    <string msgid="7031672633853273745" name="mmp_divx_audioName">"Hang:"</string>
+    <string msgid="3487487752488508131" name="mmp_divx_chapter">"Fejezet"</string>
+    <string msgid="5306846019024910826" name="mmp_divx_edition">"Kiadás"</string>
+    <string msgid="904348339487006815" name="mmp_divx_subtitleName">"Felirat:"</string>
+    <string msgid="6437496733832500819" name="mmp_divx_title">"Cím"</string>
+    <string msgid="6189648564456332471" name="mmp_dlnaserver_disconnected">"Megszakadt a DLNA-szerverrel való kapcsolat. Ellenőrizze a hálózat és a szerver állapotát."</string>
+    <string msgid="1069917251011513121" name="mmp_dmr_network_failed">"Nem sikerült a DMR elindítása. A hálózat nem áll rendelkezésre."</string>
+    <string msgid="4516534251149034263" name="mmp_dmr_started">"DMR elindítva."</string>
+    <string msgid="1846715628857289261" name="mmp_dmr_starting">"A DMR indítása folyamatban van."</string>
+    <string msgid="1998446749263931258" name="mmp_dmr_url_failed">"Érvénytelen URL"</string>
+    <string msgid="675462032122703604" name="mmp_drm_register">"Az eszköznek nincs jogosultsága \n e Divx@-védelemmel rendelkező videó lejátszásához."</string>
+    <string msgid="4545823732483395837" name="mmp_drm_register_continue">"Folytatja?"</string>
+    <string msgid="130018121204117964" name="mmp_drm_register_expired">"Lejárt a Divx@-kölcsönzés"</string>
+    <string msgid="1308738041895750904" name="mmp_drm_register_used">"A Divx@-kölcsönzésnél \n <ns1:g id="MMP_DRM_REGISTER_USED_XLI">%1$s</ns1:g> lehetőséget használt fel (összesen: <ns1:g id="MMP_DRM_REGISTER_USED_TWO_XLI">%2$s</ns1:g> megtekintés)"</string>
+    <string msgid="7299272765998117529" name="mmp_emptyfile">"A jelenlegi mappa üres."</string>
+    <string msgid="6051283891356437825" name="mmp_exit">"Kilépés"</string>
+    <string msgid="8285945520158433641" name="mmp_featue_notsupport">"A funkció nem áll rendelkezésre"</string>
+    <string msgid="3689294857477023502" name="mmp_file_corrupt">"A fájl sérült"</string>
+    <string msgid="7808733987932045433" name="mmp_file_notsupport">"Nem támogatott fájl"</string>
+    <string msgid="3684111810245692657" name="mmp_frame_photo_sleeptime">"Alvás ideje"</string>
+    <string msgid="1532417882851899990" name="mmp_img_player_can_not_decode">"Ezt a képet nem lehet dekódolni!"</string>
+    <string msgid="3518159083198557236" name="mmp_img_player_cancel">"Mégse"</string>
+    <string msgid="251111120950935657" name="mmp_img_player_decode_failed">"a képdekódolás sikertelen!"</string>
+    <string msgid="5237697103906052112" name="mmp_img_player_decoding">"kép dekódolása folyamatban…"</string>
+    <string msgid="8044505304152821864" name="mmp_img_player_file_not_support">"A fájl nem támogatott"</string>
+    <string msgid="5781151658958709239" name="mmp_img_player_gif_not_allow">"nem használandó GIF-animációs módban"</string>
+    <string msgid="563937068344863239" name="mmp_img_player_low_memory">"Kevés a memória!"</string>
+    <string msgid="7337920113397012863" name="mmp_img_player_max_tip">"A maximális méretarány!"</string>
+    <string msgid="4286863235386750909" name="mmp_img_player_min_tip">"A minimális méretarány!"</string>
+    <string msgid="3644363535411515478" name="mmp_img_player_net_disconnect">"Hálózat leválasztva. Kérjük, ellenőrizze!"</string>
+    <string msgid="8356204143754819176" name="mmp_img_player_ok">"OK"</string>
+    <string msgid="5872051943605585443" name="mmp_img_player_pan_failed">"a képpásztázás sikertelen!"</string>
+    <string msgid="2926828788120735833" name="mmp_img_player_pan_parameter_invalid">"a képpásztázás paramétere érvénytelen!"</string>
+    <string msgid="5945675696592056557" name="mmp_img_player_pan_success">"a képpásztázás sikeres!"</string>
+    <string msgid="7812511256832915936" name="mmp_img_player_photo_wallpaper">"fotóból készült háttérkép"</string>
+    <string msgid="123735832200732918" name="mmp_img_player_play_error">"Lejátszási hiba"</string>
+    <string msgid="3430663918858289760" name="mmp_img_player_play_error_message">"Folytatja a következő fotó lejátszásával?"</string>
+    <string msgid="8461823781551361070" name="mmp_img_player_rotating">"kép elforgatása…"</string>
+    <string msgid="1229810181937509638" name="mmp_img_player_scale_or_rotate_not_allow">"nem működtethető átméretezési vagy elforgatási módban"</string>
+    <string msgid="3584202222258659321" name="mmp_img_player_setting_wallpaper">"A háttérkép beállítása folyamatban van…"</string>
+    <string msgid="4696641526998650922" name="mmp_img_player_setting_wallpaper_plz_wait">"A háttérkép beállítása folyamatban van. Kérjük, várjon…"</string>
+    <string msgid="3594013303919654760" name="mmp_img_player_wallpaper_not_supported">"A háttérkép nem támogatott"</string>
+    <string msgid="1589759384473792147" name="mmp_img_player_zooming">"kép nagyítása/kicsinyítése…"</string>
+    <string msgid="7720981179637224588" name="mmp_info_album">"Album:"</string>
+    <string msgid="6966050205975687821" name="mmp_info_artist">"Előadó:"</string>
+    <string msgid="1267866496055028627" name="mmp_info_audio">"Hang:"</string>
+    <string msgid="991833052722703084" name="mmp_info_colorspace">"Színtér:"</string>
+    <string msgid="2260484851899108080" name="mmp_info_copyrght">"Szerzői jog:"</string>
+    <string msgid="4300927192893785690" name="mmp_info_date">"Dátum:"</string>
+    <string msgid="8050309676555265722" name="mmp_info_director">"Rendező:"</string>
+    <string msgid="7689265303365835747" name="mmp_info_duration">"Időtartam:"</string>
+    <string msgid="1297476777953501472" name="mmp_info_exposure">"Exponálási idő:"</string>
+    <string msgid="1482374643316448288" name="mmp_info_flash">"Vaku:"</string>
+    <string msgid="2220709797456364777" name="mmp_info_fnumber">"F-szám:"</string>
+    <string msgid="7185730465171519772" name="mmp_info_focallength">"Fókusztávolság:"</string>
+    <string msgid="2473418313212427139" name="mmp_info_genre">"Műfaj:"</string>
+    <string msgid="2276225818924525010" name="mmp_info_lastpage">"Utolsó oldal"</string>
+    <string msgid="5019160699386040694" name="mmp_info_make">"Kamera gyártója:"</string>
+    <string msgid="2555791677451848012" name="mmp_info_model">"Kameramodell:"</string>
+    <string msgid="8058742280848190551" name="mmp_info_name">"Név:"</string>
+    <string msgid="4380397773389543174" name="mmp_info_next">"Következő:"</string>
+    <string msgid="6044269836515584059" name="mmp_info_nextpage">"Következő oldal"</string>
+    <string msgid="2011077578197667092" name="mmp_info_nolrc">"Nincs dalszöveg"</string>
+    <string msgid="3830902756642165426" name="mmp_info_orientation">"Tájolás:"</string>
+    <string msgid="2062980080114642715" name="mmp_info_program">"Exponálási program:"</string>
+    <string msgid="959025658391753505" name="mmp_info_size">"Méret:"</string>
+    <string msgid="7820876214484582645" name="mmp_info_title">"Cím:"</string>
+    <string msgid="4243391745350656248" name="mmp_info_whitebalance">"Fehéregyensúly:"</string>
+    <string msgid="2941904149668986691" name="mmp_info_year">"Év:"</string>
+    <string msgid="8592845546999906622" name="mmp_input">"Enter"</string>
+    <string msgid="5707789973312733102" name="mmp_lable_rorate">"Elforgatás"</string>
+    <string msgid="445353399276221319" name="mmp_last_memory">"Legutóbbi pozíció"</string>
+    <string msgid="4214666976622254352" name="mmp_last_memory_position">"Pozíció"</string>
+    <string msgid="8257690755872409500" name="mmp_last_memory_time">"Idő"</string>
+    <string msgid="5562820685064587733" name="mmp_list_mode_cannot_pip">"Fájllista módban nem lehet megnyitni a PIP módot."</string>
+    <string msgid="6373109875045173807" name="mmp_loading_tip">"Folyamatban van a mappa elemzése. Kérjük, várjon…"</string>
+    <string msgid="1843731122426925591" name="mmp_login_failed_tip">"Helytelen felhasználónév vagy jelszó."</string>
+    <string msgid="1073430028079692146" name="mmp_media_file_lost">"Nem észlelhető a jelenlegi eszköz."</string>
+    <string msgid="9128160029441897577" name="mmp_media_info_scrambled_audio_clear_video_service">"Kódolt videó"</string>
+    <string msgid="2572785485574211543" name="mmp_media_info_scrambled_audio_no_video_service">"Kódolt audio, csak audio"</string>
+    <string msgid="7436208224667913266" name="mmp_media_info_scrambled_audio_video_service">"Kódolt videó és audio"</string>
+    <string msgid="7830438018396694250" name="mmp_media_info_scrambled_video_clear_audio_service">"Kódolt videó"</string>
+    <string msgid="854977936934627520" name="mmp_media_info_scrambled_video_no_audio_service">"Kódolt videó, csak videó"</string>
+    <string msgid="9079948768207079095" name="mmp_menu">"Menü"</string>
+    <string msgid="5285128498963238352" name="mmp_menu_1x">"1×"</string>
+    <string msgid="5203852169875721932" name="mmp_menu_2x">"2×"</string>
+    <string msgid="4983366475199077876" name="mmp_menu_3d_photo">"3D-s fotó"</string>
+    <string msgid="4526236448038226345" name="mmp_menu_4x">"4×"</string>
+    <string msgid="2114499624068654079" name="mmp_menu_album">"Album"</string>
+    <string msgid="2764300205206905274" name="mmp_menu_artist">"Előadó"</string>
+    <string msgid="7290654328973000754" name="mmp_menu_audio">"Hang"</string>
+    <string msgid="460478476807807452" name="mmp_menu_audio_output_setting">"Hangkimenet"</string>
+    <string msgid="4297665618950944208" name="mmp_menu_audio_setting">"Hangbeállítások"</string>
+    <string msgid="6817452675899749723" name="mmp_menu_auto">"Automatikus"</string>
+    <string msgid="5628264820914306931" name="mmp_menu_black">"Fekete"</string>
+    <string msgid="5473608042810495615" name="mmp_menu_blue">"Kék"</string>
+    <string msgid="1573884329277707594" name="mmp_menu_bold">"Félkövér"</string>
+    <string msgid="7047199484148726413" name="mmp_menu_boxin">"Csökkenő keret"</string>
+    <string msgid="6759124402362929260" name="mmp_menu_boxout">"Növekvő keret"</string>
+    <string msgid="2136070988230279780" name="mmp_menu_color">"Szín"</string>
+    <string msgid="7728066670652565778" name="mmp_menu_copy">"Másolás"</string>
+    <string msgid="8666017604362763396" name="mmp_menu_date">"Dátum"</string>
+    <string msgid="8911245550314385994" name="mmp_menu_delete">"Törlés"</string>
+    <string msgid="7054330190938975189" name="mmp_menu_display">"Megjelenített sorok száma"</string>
+    <string msgid="7113502065311218484" name="mmp_menu_dissolve">"Szétoszlás"</string>
+    <string msgid="3457072780002542559" name="mmp_menu_duration">"Időtartam"</string>
+    <string msgid="1095076262850741888" name="mmp_menu_effect">"Effektus"</string>
+    <string msgid="1550879051107028343" name="mmp_menu_encoding">"Kódolás"</string>
+    <string msgid="7375862916728883987" name="mmp_menu_font">"Betűtípus"</string>
+    <string msgid="7986960666934851018" name="mmp_menu_frame">"Fényképkeretes kép"</string>
+    <string msgid="3602706448625133614" name="mmp_menu_full_screen">"Teljes képernyős mód"</string>
+    <string msgid="263980932337808189" name="mmp_menu_genre">"Műfaj"</string>
+    <string msgid="34696038896883398" name="mmp_menu_green">"Zöld"</string>
+    <string msgid="4381535154938875554" name="mmp_menu_hidescore">"Spektrum elrejtése"</string>
+    <string msgid="4446097703965671221" name="mmp_menu_img_zoom_in">"Nagyítás"</string>
+    <string msgid="9026341167144546000" name="mmp_menu_img_zoom_out">"Kicsinyítés"</string>
+    <string msgid="3823262772644701909" name="mmp_menu_italic">"Dőlt"</string>
+    <string msgid="7424577337890603197" name="mmp_menu_jump_time">"Pozicionálás"</string>
+    <string msgid="5005608858465935364" name="mmp_menu_large">"Nagy"</string>
+    <string msgid="3882136219055983996" name="mmp_menu_long">"Hosszú"</string>
+    <string msgid="1348924294626050138" name="mmp_menu_lyricoptions">"Dalszöveg-beállítás"</string>
+    <string msgid="7324251596256819138" name="mmp_menu_mediatype">"Médiatípus"</string>
+    <string msgid="7564524044246800587" name="mmp_menu_medium">"Közepes"</string>
+    <string msgid="7959098173252455354" name="mmp_menu_mount_iso">"Jelenlegi ISO-fájl csatlakoztatása"</string>
+    <string msgid="7052296904664940357" name="mmp_menu_multiline">"Többsoros"</string>
+    <string msgid="5387149570422271841" name="mmp_menu_music">"Zene"</string>
+    <string msgid="812493345015711141" name="mmp_menu_name">"Név"</string>
+    <string msgid="7926890038540120590" name="mmp_menu_none">"Nincs"</string>
+    <string msgid="7112174768461191390" name="mmp_menu_not_recur">"Normál elemző"</string>
+    <string msgid="386038732335984329" name="mmp_menu_off">"Kikapcsolva"</string>
+    <string msgid="6864735135037376411" name="mmp_menu_onephotomode">"Egyfotós mód"</string>
+    <string msgid="6135759649381327350" name="mmp_menu_outline">"Félkövér dőlt"</string>
+    <string msgid="6417694118168861647" name="mmp_menu_over_scan">"Túlpásztázás"</string>
+    <string msgid="1289836061276427065" name="mmp_menu_paste">"Beillesztés"</string>
+    <string msgid="2009629214475280978" name="mmp_menu_pause">"Szüneteltetés"</string>
+    <string msgid="7297221471059815216" name="mmp_menu_photo_frame">"Fényképkeret beállítva"</string>
+    <string msgid="1214517932766614549" name="mmp_menu_photoframe">"Fényképkeret"</string>
+    <string msgid="7836919472204616006" name="mmp_menu_phototext">"Fotó"</string>
+    <string msgid="8682447848318300605" name="mmp_menu_pic_setting">"Képbeállítások"</string>
+    <string msgid="4197984410377941805" name="mmp_menu_picture_off">"Kép kikapcsolva"</string>
+    <string msgid="4868172328224771042" name="mmp_menu_picturemode">"Képmód"</string>
+    <string msgid="544799819593204858" name="mmp_menu_play">"Lejátszás"</string>
+    <string msgid="8078405319367563721" name="mmp_menu_play_speed">"Lejátszási sebesség"</string>
+    <string msgid="2389161930234842696" name="mmp_menu_random">"Véletlenszerű"</string>
+    <string msgid="4965264343654944343" name="mmp_menu_recur">"Rekurzív elemző"</string>
+    <string msgid="4218204192222522501" name="mmp_menu_red">"Piros"</string>
+    <string msgid="7949610806181219455" name="mmp_menu_regular">"Normál"</string>
+    <string msgid="7258120466270016557" name="mmp_menu_repeat">"Ismétlés"</string>
+    <string msgid="6158142728959841974" name="mmp_menu_repeatall">"Összes ismétlése"</string>
+    <string msgid="7788100339932357215" name="mmp_menu_repeatone">"Egy ismétlése"</string>
+    <string msgid="8190003337362481311" name="mmp_menu_rotate">"Elforgatás"</string>
+    <string msgid="2525882655804508677" name="mmp_menu_rotate_0">"0 fokos elforgatás"</string>
+    <string msgid="828127129735548816" name="mmp_menu_rotate_180">"180 fokos elforgatás"</string>
+    <string msgid="9010954915556187744" name="mmp_menu_rotate_270">"270 fokos elforgatás"</string>
+    <string msgid="5499075283143867382" name="mmp_menu_rotate_90">"90 fokos elforgatás"</string>
+    <string msgid="4412352992234044423" name="mmp_menu_screenmode">"Képernyőmód"</string>
+    <string msgid="5777774655121984779" name="mmp_menu_short">"Rövid"</string>
+    <string msgid="4691897570336226826" name="mmp_menu_showinfo">"Információk megjelenítése"</string>
+    <string msgid="3018721062927128088" name="mmp_menu_showscore">"Spektrum megjelenítése"</string>
+    <string msgid="3397849470999515065" name="mmp_menu_shuffle">"Keverés"</string>
+    <string msgid="5629298854768064250" name="mmp_menu_shuffleoff">"Véletlenszerű lejátszás: Ki"</string>
+    <string msgid="308830560936676103" name="mmp_menu_shuffleon">"Véletlenszerű lejátszás: Be"</string>
+    <string msgid="7431120586848806664" name="mmp_menu_singleline">"Egysoros"</string>
+    <string msgid="2228124380030616200" name="mmp_menu_size">"Méret"</string>
+    <string msgid="4105561830760841729" name="mmp_menu_small">"Kicsi"</string>
+    <string msgid="8373528614821710603" name="mmp_menu_sort">"Rendezés"</string>
+    <string msgid="1341976547098523497" name="mmp_menu_sound_setting">"Hangbeállítások"</string>
+    <string msgid="4128151098473753722" name="mmp_menu_style">"Stílus"</string>
+    <string msgid="6717942460780111286" name="mmp_menu_subtitle_encoding">"Feliratkódolás"</string>
+    <string msgid="5962796217247350807" name="mmp_menu_text">"Szöveg"</string>
+    <string msgid="2613417042892386301" name="mmp_menu_thumb">"Indexkép mérete"</string>
+    <string msgid="100700072644603332" name="mmp_menu_timeoffset">"Időzítés eltolása"</string>
+    <string msgid="1649143081737426246" name="mmp_menu_type">"Típus"</string>
+    <string msgid="8948169787009591217" name="mmp_menu_unmount_iso">"Jelenlegi eszköz leválasztása"</string>
+    <string msgid="4876094705350753243" name="mmp_menu_userdefine">"Felhasználó által definiált"</string>
+    <string msgid="5189292319328786647" name="mmp_menu_video">"Videó"</string>
+    <string msgid="5678135140588088459" name="mmp_menu_wallpaper">"Beállítás háttérképként"</string>
+    <string msgid="8719113369246148681" name="mmp_menu_white">"Fehér"</string>
+    <string msgid="1719128764041925790" name="mmp_menu_wipedown">"Törlés lefelé"</string>
+    <string msgid="2398173785822262445" name="mmp_menu_wipeleft">"Törlés balra"</string>
+    <string msgid="1484246629923871092" name="mmp_menu_wiperight">"Törlés jobbra"</string>
+    <string msgid="59996185178096696" name="mmp_menu_wipeup">"Törlés felfelé"</string>
+    <string msgid="1195420639323452586" name="mmp_menu_zoom">"Nagyítás"</string>
+    <string msgid="6777614659086530912" name="mmp_message_confirm_delete">"Biztosan törli a kijelölt fájlt?"</string>
+    <string msgid="5868285892080714347" name="mmp_message_confirm_replace">"Ez a mappa már tartalmaz egy fájlt a következő névvel:\n<ns1:g id="MMP_MESSAGE_CONFIRM_REPLACE_XLI">%s</ns1:g>"</string>
+    <string msgid="4808547807069922623" name="mmp_message_copy">"<ns1:g id="MMP_MESSAGE_COPY_ONE_XLI">%1$s</ns1:g>\nInnen: <ns1:g id="MMP_MESSAGE_COPY_TWO_XLI">%2$s</ns1:g>\nIde: <ns1:g id="MMP_MESSAGE_COPY_THREE_XLI">%3$s</ns1:g>"</string>
+    <string msgid="6819583620403834086" name="mmp_no">"Nem"</string>
+    <string msgid="361057196557407981" name="mmp_no_devices_tips">"Nem található eszköz. Helyezze be az eszközt, vagy próbálja újra később"</string>
+    <string msgid="6634130010421915083" name="mmp_nodevice">"Nincs csatlakoztatott eszköz."</string>
+    <string msgid="5351498401675171534" name="mmp_notsupport">"Nem támogatott"</string>
+    <string msgid="7246671616128389098" name="mmp_ok">"OK"</string>
+    <string msgid="52423781427686112" name="mmp_password">"Jelszó"</string>
+    <string msgid="8843390942428145152" name="mmp_photo">"Fotó"</string>
+    <string msgid="1102594345605622608" name="mmp_photo_type_notsupport">"Nem támogatott fájl"</string>
+    <string msgid="5335593605293341055" name="mmp_play_speed_notsupport_fb">"A gyors visszatekerés ki van kapcsolva a gyors lejátszás módban"</string>
+    <string msgid="5406970534491698132" name="mmp_play_speed_notsupport_ff">"A gyors előretekerés ki van kapcsolva a gyors lejátszás módban"</string>
+    <string msgid="1573762708654838975" name="mmp_pop_repeat_tvsingle">"Egyetlen"</string>
+    <string msgid="4444610414043102239" name="mmp_pop_zoomscale">"×"</string>
+    <string msgid="6500393214807298054" name="mmp_pvr_play_from_tv_cannot_pip">"PVR-lejátszás esetén nem lehet megnyitni a PIP módot."</string>
+    <string msgid="8603627514980705968" name="mmp_reutip">"Folyamatban van a mappa elemzése. Kérjük, várjon…"</string>
+    <string msgid="2794517051734603832" name="mmp_seamless_mode">"Zökkenőmentes"</string>
+    <string msgid="6502962176792078529" name="mmp_seamless_mode_off">"Ki"</string>
+    <string msgid="2680879271354894946" name="mmp_seamless_mode_on">"Be"</string>
+    <string msgid="7212075520894633540" name="mmp_seek_notsupport">"Az ugrás nem támogatott"</string>
+    <string msgid="4407585001484425898" name="mmp_select">"Kiválasztás"</string>
+    <string msgid="552336639790838524" name="mmp_sleeptime_lable">"Alvás ideje:"</string>
+    <string msgid="6858087783268138488" name="mmp_step_notsupport">"Nem támogatott lépés"</string>
+    <string msgid="4077978808166924627" name="mmp_text">"Szöveg"</string>
+    <string msgid="2771473755878694067" name="mmp_time_out">"A megadott időkód helytelen.\nMindenképp kisebbnek kell lennie a teljes időnél."</string>
+    <string msgid="8377725312373475404" name="mmp_title_confirm_delete">"Erősítse meg a fájlok törlését"</string>
+    <string msgid="4771822119501444534" name="mmp_title_confirm_replace">"Erősítse meg a fájlcserét"</string>
+    <string msgid="8583348774130086919" name="mmp_title_copy">"Másolás…"</string>
+    <string msgid="881397136260176005" name="mmp_toast_no_photoframe">"Nincs fényképkeret a lejátszáshoz"</string>
+    <string msgid="4038160189084155137" name="mmp_user_name">"Felhasználói név"</string>
+    <string msgid="2680263982702698720" name="mmp_video">"Videó"</string>
+    <string msgid="7276989523119391715" name="mmp_video_info_bitrate">"Bitsebesség:"</string>
+    <string msgid="6216504677173286907" name="mmp_video_info_last_Modified_date">"Utolsó módosítás dátuma:"</string>
+    <string msgid="8392200579627394727" name="mmp_video_info_resolution">"Felbontás:"</string>
+    <string msgid="5161911583717273611" name="mmp_video_info_size">"Méret:"</string>
+    <string msgid="3746654153060516549" name="mmp_video_notsupport">"Nem támogatott videokodek"</string>
+    <string msgid="7278869886485261082" name="mmp_video_only">"Csak videó"</string>
+    <string msgid="1769167470574168506" name="mmp_video_stopresume">"Folytatás leállítása"</string>
+    <string msgid="879524843720392844" name="mmp_vkb">"Bevitel"</string>
+    <string msgid="2220959537681782417" name="mmp_wrong_psw">"Helytelen jelszó. Összesen <ns1:g id="MMP_WRONG_PSW_ONE_XLI">%1$s</ns1:g> próbálkozási lehetőség maradt. Eddig <ns1:g id="MMP_WRONG_PSW_TWO_XLI">%2$s</ns1:g> alkalommal próbálkozott. Próbálja újra."</string>
+    <string msgid="8825062653561586733" name="mmp_yes">"Igen"</string>
+    <string msgid="2188249996394727534" name="mmp_yes_to_all">"Igen mindre"</string>
+    <string msgid="5129848968977804299" name="nav_parent_psw">"Adja meg jelszavát"</string>
+    <string msgid="7534843523462177008" name="orb_search_action">"Keresési művelet"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Keresés"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

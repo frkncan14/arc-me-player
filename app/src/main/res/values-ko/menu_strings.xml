@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_header_name" msgid="1511134859611073545">"MMP 설정"</string>
+    <string name="menu_interface_name" msgid="5344652034012728056">"메뉴"</string>
+    <string name="menu_ok" msgid="1093655261469491523">"확인"</string>
+    <string name="menu_setup_divx_cancel" msgid="8064350612522047642">"취소"</string>
+    <string name="menu_audio_type" msgid="3925035178729537764">"유형"</string>
+    <string name="menu_audio_visually_impaired" msgid="890324054395264387">"시각장애인"</string>
+    <string name="menu_audio_visually_speaker" msgid="3395844900051508934">"스피커"</string>
+    <string name="menu_audio_visually_headphone" msgid="1021914828438131833">"헤드폰"</string>
+    <string name="menu_audio_visually_volume" msgid="5641549986551666376">"볼륨"</string>
+    <string name="menu_audio_visually_pan_and_fade" msgid="254417077185821478">"화면 이동 및 페이드 아웃"</string>
+    <string name="menu_audio_visually_impaired_audio" msgid="7971592314178467071">"시각장애인용 오디오"</string>
+    <string name="menu_audio_downmix_mode" msgid="369622289092215581">"다운믹스 모드"</string>
+    <string name="menu_audio_sound_tracks" msgid="5301498529072828729">"사운드트랙"</string>
+    <string name="menu_setup_network" msgid="7298518816232860684">"네트워크"</string>
+    <string name="menu_setup_my_net_place" msgid="8175416643475601862">"내 네트워크 장소"</string>
+    <string name="menu_setup_ci_no_card" msgid="299413725358369465">"제공된 CI 카드가 없습니다."</string>
+    <string name="menu_setup_ci_cam_menu" msgid="6441540214352249304">"Cam 메뉴"</string>
+    <string name="menu_setup_ci_pin_code" msgid="5559565535289512930">"Cam PIN 코드 입력"</string>
+    <string name="menu_setup_ci_pin_code_input_tip" msgid="4436890917486724920">"PIN 코드 입력"</string>
+    <string name="menu_setup_ci_pin_code_incorrect_tip" msgid="3687700881104571077">"PIN이 정확하지 않습니다. 다시 입력해 주세요."</string>
+    <string name="menu_setup_auto_synchronization" msgid="2747119305523328476">"자동 동기화"</string>
+    <string name="menu_setup_exo_payer_switcher" msgid="4562213054964641645">"Exoplayer 전환"</string>
+    <string name="menu_ci_cam_scan" msgid="6682716298813053640">"Cam 검색"</string>
+    <string name="ci_title" msgid="7873486568190568594">"Cam 정보"</string>
+</resources>

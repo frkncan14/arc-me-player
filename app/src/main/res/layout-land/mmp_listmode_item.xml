@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:gravity="center_vertical"
+	android:orientation="horizontal"
+	android:paddingStart="20dp"
+	android:paddingLeft="20dp">
+
+	<ImageView
+		android:id="@+id/mmp_listmode_icon"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_marginTop="8dp"
+		android:layout_marginBottom="8dp"
+		android:src="@drawable/mmp_list_icon_selected"></ImageView>
+
+	<RelativeLayout
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content">
+
+		<TextView
+			android:id="@+id/mmp_listmode_foldername"
+			style="@style/mmp_gridview_text"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginStart="5dp"
+			android:ellipsize="end"
+			android:gravity="center_vertical"
+			android:singleLine="true"
+			android:text="Screens"
+			android:textColor="@color/mmp_grid_item_text_color"></TextView>
+
+		<ImageView
+			android:id="@+id/mmp_listmode_copyicon"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignParentRight="true"
+			android:layout_marginRight="5dip"></ImageView>
+	</RelativeLayout>
+</LinearLayout>

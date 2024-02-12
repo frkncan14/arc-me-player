@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="mmp_menu" msgid="9079948768207079095">"Меню"</string>
+    <string name="mmp_menu_sort" msgid="8373528614821710603">"Сортувати"</string>
+    <string name="mmp_menu_mediatype" msgid="7324251596256819138">"Тип медіа"</string>
+    <string name="mmp_menu_thumb" msgid="2613417042892386301">"Розмір ескізу"</string>
+    <string name="mmp_menu_copy" msgid="7728066670652565778">"Копіювати"</string>
+    <string name="mmp_menu_paste" msgid="1289836061276427065">"Вставити"</string>
+    <string name="mmp_menu_delete" msgid="8911245550314385994">"Видалити"</string>
+    <string name="mmp_menu_recur" msgid="4965264343654944343">"Рекурсивний синтаксичний аналізатор"</string>
+    <string name="mmp_menu_not_recur" msgid="7112174768461191390">"Звичайний синтаксичний аналізатор"</string>
+    <string name="mmp_menu_photoframe" msgid="1214517932766614549">"Фоторамка"</string>
+    <string name="mmp_menu_photo_frame" msgid="7297221471059815216">"Фоторамку налаштовано"</string>
+    <string name="mmp_menu_play" msgid="544799819593204858">"Відтворити"</string>
+    <string name="mmp_menu_pause" msgid="2009629214475280978">"Призупинити"</string>
+    <string name="mmp_menu_repeat" msgid="7258120466270016557">"Повторити"</string>
+    <string name="mmp_menu_shuffle" msgid="3397849470999515065">"Перемішати"</string>
+    <string name="mmp_menu_duration" msgid="3457072780002542559">"Тривалість"</string>
+    <string name="mmp_menu_effect" msgid="1095076262850741888">"Ефект"</string>
+    <string name="mmp_menu_showinfo" msgid="4691897570336226826">"Показати інформацію"</string>
+    <string name="mmp_menu_frame" msgid="7986960666934851018">"Зображення фоторамки"</string>
+    <string name="mmp_menu_rotate" msgid="8190003337362481311">"Обернути"</string>
+    <string name="mmp_menu_3d_photo" msgid="4983366475199077876">"3D-фотографія"</string>
+    <string name="mmp_menu_display" msgid="7054330190938975189">"Лінія відображення"</string>
+    <string name="mmp_menu_timeoffset" msgid="100700072644603332">"Зміщення часу"</string>
+    <string name="mmp_menu_encoding" msgid="1550879051107028343">"Кодування"</string>
+    <string name="mmp_menu_picturemode" msgid="4868172328224771042">"Режим зображення"</string>
+    <string name="mmp_menu_screenmode" msgid="4412352992234044423">"Режим екрана"</string>
+    <string name="mmp_menu_font" msgid="7375862916728883987">"Шрифт"</string>
+    <string name="mmp_menu_size" msgid="2228124380030616200">"Розмір"</string>
+    <string name="mmp_menu_style" msgid="4128151098473753722">"Стиль"</string>
+    <string name="mmp_menu_color" msgid="2136070988230279780">"Колір"</string>
+    <string name="mmp_menu_date" msgid="8666017604362763396">"Дата"</string>
+    <string name="mmp_menu_name" msgid="812493345015711141">"Назва"</string>
+    <string name="mmp_menu_album" msgid="2114499624068654079">"Альбом"</string>
+    <string name="mmp_menu_artist" msgid="2764300205206905274">"Виконавець"</string>
+    <string name="mmp_menu_genre" msgid="263980932337808189">"Жанр"</string>
+    <string name="mmp_menu_type" msgid="1649143081737426246">"Тип"</string>
+    <string name="mmp_menu_phototext" msgid="7836919472204616006">"Фотографія"</string>
+    <string name="mmp_menu_music" msgid="5387149570422271841">"Музика"</string>
+    <string name="mmp_menu_video" msgid="5189292319328786647">"Відео"</string>
+    <string name="mmp_menu_text" msgid="5962796217247350807">"Текст"</string>
+    <string name="mmp_menu_small" msgid="4105561830760841729">"Малий"</string>
+    <string name="mmp_menu_medium" msgid="7564524044246800587">"Середній"</string>
+    <string name="mmp_menu_large" msgid="5005608858465935364">"Великий"</string>
+    <string name="mmp_menu_onephotomode" msgid="6864735135037376411">"Режим \"Одна фотографія\""</string>
+    <string name="mmp_menu_none" msgid="7926890038540120590">"Немає"</string>
+    <string name="mmp_menu_repeatone" msgid="7788100339932357215">"Повторити один медіафайл"</string>
+    <string name="mmp_menu_repeatall" msgid="6158142728959841974">"Повторити все"</string>
+    <string name="mmp_menu_shuffleoff" msgid="5629298854768064250">"Перемішування вимкнено"</string>
+    <string name="mmp_menu_shuffleon" msgid="308830560936676103">"Перемішування ввімкнено"</string>
+    <string name="mmp_menu_short" msgid="5777774655121984779">"Коротка"</string>
+    <string name="mmp_menu_long" msgid="3882136219055983996">"Довго"</string>
+    <string name="mmp_menu_1x" msgid="5285128498963238352">"1x"</string>
+    <string name="mmp_menu_2x" msgid="5203852169875721932">"2x"</string>
+    <string name="mmp_menu_4x" msgid="4526236448038226345">"4x"</string>
+    <string name="mmp_menu_dissolve" msgid="7113502065311218484">"Розчинення"</string>
+    <string name="mmp_menu_wiperight" msgid="1484246629923871092">"Витіснення праворуч"</string>
+    <string name="mmp_menu_wipeleft" msgid="2398173785822262445">"Витіснення ліворуч"</string>
+    <string name="mmp_menu_wipeup" msgid="59996185178096696">"Витіснення вгору"</string>
+    <string name="mmp_menu_wipedown" msgid="1719128764041925790">"Витіснення вниз"</string>
+    <string name="mmp_menu_boxin" msgid="7047199484148726413">"Зникнення"</string>
+    <string name="mmp_menu_boxout" msgid="6759124402362929260">"Виникнення"</string>
+    <string name="mmp_menu_random" msgid="2389161930234842696">"Довільно"</string>
+    <string name="mmp_menu_off" msgid="386038732335984329">"Вимкнено"</string>
+    <string name="mmp_menu_singleline" msgid="7431120586848806664">"В одному рядку"</string>
+    <string name="mmp_menu_multiline" msgid="7052296904664940357">"Багаторядковий"</string>
+    <string name="mmp_menu_auto" msgid="6817452675899749723">"Автоматично"</string>
+    <string name="mmp_menu_userdefine" msgid="4876094705350753243">"Визначений користувачем"</string>
+    <string name="mmp_menu_zoom" msgid="1195420639323452586">"Масштабування"</string>
+    <string name="mmp_menu_regular" msgid="7949610806181219455">"Звичайний"</string>
+    <string name="mmp_menu_italic" msgid="3823262772644701909">"Курсив"</string>
+    <string name="mmp_menu_bold" msgid="1573884329277707594">"Жирний"</string>
+    <string name="mmp_menu_outline" msgid="6135759649381327350">"Жирний курсив"</string>
+    <string name="mmp_menu_white" msgid="8719113369246148681">"Білий"</string>
+    <string name="mmp_menu_blue" msgid="5473608042810495615">"Синій"</string>
+    <string name="mmp_menu_red" msgid="4218204192222522501">"Червоний"</string>
+    <string name="mmp_menu_green" msgid="34696038896883398">"Зелений"</string>
+    <string name="mmp_menu_black" msgid="5628264820914306931">"Чорний"</string>
+    <string name="mmp_menu_lyricoptions" msgid="1348924294626050138">"Опції тексту пісні"</string>
+    <string name="mmp_menu_showscore" msgid="3018721062927128088">"Показувати діапазон"</string>
+    <string name="mmp_menu_hidescore" msgid="4381535154938875554">"Сховати діапазон"</string>
+    <string name="mmp_photo" msgid="8843390942428145152">"Фотографія"</string>
+    <string name="mmp_audio" msgid="8706227639060679235">"Музика"</string>
+    <string name="mmp_video" msgid="2680263982702698720">"Відео"</string>
+    <string name="mmp_text" msgid="4077978808166924627">"Текст"</string>
+    <string name="mmp_select" msgid="4407585001484425898">"Вибрати"</string>
+    <string name="mmp_input" msgid="8592845546999906622">"Ввести"</string>
+    <string name="mmp_exit" msgid="6051283891356437825">"Вийти"</string>
+    <string name="mmp_emptyfile" msgid="7299272765998117529">"Поточна папка порожня."</string>
+    <string name="mmp_reutip" msgid="8603627514980705968">"Синтаксичний аналіз цієї папки триває. Зачекайте…"</string>
+    <string name="mmp_pop_zoomscale" msgid="4444610414043102239">"х"</string>
+    <string name="mmp_info_album" msgid="7720981179637224588">"Альбом:"</string>
+    <string name="mmp_info_orientation" msgid="3830902756642165426">"Орієнтація:"</string>
+    <string name="mmp_info_artist" msgid="6966050205975687821">"Виконавець:"</string>
+    <string name="mmp_info_name" msgid="8058742280848190551">"Ім\'я:"</string>
+    <string name="mmp_info_date" msgid="4300927192893785690">"Дата:"</string>
+    <string name="mmp_info_size" msgid="959025658391753505">"Розмір:"</string>
+    <string name="mmp_info_next" msgid="4380397773389543174">"Далі:"</string>
+    <string name="mmp_info_audio" msgid="1267866496055028627">"Аудіо:"</string>
+    <string name="mmp_info_exposure" msgid="1297476777953501472">"Час експозиції:"</string>
+    <string name="mmp_info_fnumber" msgid="2220709797456364777">"Діафрагмове число:"</string>
+    <string name="mmp_info_program" msgid="2062980080114642715">"Програма експозиції:"</string>
+    <string name="mmp_info_colorspace" msgid="991833052722703084">"Кольоровий простір:"</string>
+    <string name="mmp_info_title" msgid="7820876214484582645">"Назва:"</string>
+    <string name="mmp_info_genre" msgid="2473418313212427139">"Жанр:"</string>
+    <string name="mmp_info_year" msgid="2941904149668986691">"Рік:"</string>
+    <string name="mmp_info_duration" msgid="7689265303365835747">"Тривалість:"</string>
+    <string name="mmp_info_director" msgid="8050309676555265722">"Режисер:"</string>
+    <string name="mmp_info_copyrght" msgid="2260484851899108080">"Авторське право:"</string>
+    <string name="mmp_info_lastpage" msgid="2276225818924525010">"Остання сторінка"</string>
+    <string name="mmp_info_nextpage" msgid="6044269836515584059">"Наступна сторінка"</string>
+    <string name="mmp_info_nolrc" msgid="2011077578197667092">"Немає тексту пісні"</string>
+    <string name="mmp_loading_tip" msgid="6373109875045173807">"Синтаксичний аналіз цієї папки триває. Зачекайте…"</string>
+    <string name="mmp_user_name" msgid="4038160189084155137">"Ім\'я користувача"</string>
+    <string name="mmp_password" msgid="52423781427686112">"Пароль"</string>
+    <string name="mmp_confirm" msgid="3987501643229207065">"Підтвердити"</string>
+    <string name="mmp_vkb" msgid="879524843720392844">"Вхід"</string>
+    <string name="mmp_ok" msgid="7246671616128389098">"OK"</string>
+    <string name="mmp_cancel" msgid="3261313315531378417">"Скасувати"</string>
+    <string name="mmp_login_failed_tip" msgid="1843731122426925591">"Ім\'я користувача або пароль неправильні."</string>
+    <string name="mmp_dlnaserver_disconnected" msgid="6189648564456332471">"Сервер DLNA відключено. Перевірте стан мережі й сервера."</string>
+    <string name="mmp_pvr_play_from_tv_cannot_pip" msgid="6500393214807298054">"Не можна ввімкнути функцію \"картинка в картинці\" під час відтворення в режимі цифрового відеомагнітофона."</string>
+    <string name="mmp_list_mode_cannot_pip" msgid="5562820685064587733">"Не можна ввімкнути функцію \"картинка в картинці\" в режимі списку файлів."</string>
+    <string name="mmp_title_copy" msgid="8583348774130086919">"Копіювання"</string>
+    <string name="mmp_title_confirm_replace" msgid="4771822119501444534">"Підтвердьте заміну файлу"</string>
+    <string name="mmp_title_confirm_delete" msgid="8377725312373475404">"Підтвердьте видалення файлів"</string>
+    <string name="mmp_message_copy" msgid="4808547807069922623">"<xliff:g id="MMP_MESSAGE_COPY_ONE_XLI">%1$s</xliff:g>\nЗ <xliff:g id="MMP_MESSAGE_COPY_TWO_XLI">%2$s</xliff:g>\nДо <xliff:g id="MMP_MESSAGE_COPY_THREE_XLI">%3$s</xliff:g>"</string>
+    <string name="mmp_message_confirm_replace" msgid="5868285892080714347">"Ця папка вже містить файл із назвою\n<xliff:g id="MMP_MESSAGE_CONFIRM_REPLACE_XLI">%s</xliff:g>"</string>
+    <string name="mmp_message_confirm_delete" msgid="6777614659086530912">"Видалити вибраний файл?"</string>
+    <string name="mmp_yes" msgid="8825062653561586733">"Так"</string>
+    <string name="mmp_yes_to_all" msgid="2188249996394727534">"Підтвердити все"</string>
+    <string name="mmp_no" msgid="6819583620403834086">"Ні"</string>
+    <string name="mmp_capture_title" msgid="7209687460094347177">"Зняти логотип"</string>
+    <string name="mmp_capture_confirm" msgid="824603266897705710">"Зробити знімок екрана?"</string>
+    <string name="mmp_toast_no_photoframe" msgid="881397136260176005">"Немає фоторамок, які можна відтворити"</string>
+    <string name="mmp_before_pip_exit_dot_by_dot" msgid="1724158907378873072">"Режим екрана переключається на звичайний, коли ввімкнено функцію \"картинка в картинці\"."</string>
+    <string name="mmp_before_pip_zoom_1x" msgid="632844846305154273">"Масштаб переключається на звичайний, коли ввімкнено функцію \"картинка в картинці\"."</string>
+    <string name="mmp_video_notsupport" msgid="3746654153060516549">"Відеокодек не підтримується"</string>
+    <string name="mmp_audio_notsupport" msgid="298426631612159434">"Аудіоформат не підтримується"</string>
+    <string name="mmp_video_only" msgid="7278869886485261082">"Лише відео"</string>
+    <string name="mmp_frame_photo_sleeptime" msgid="3684111810245692657">"Час сну"</string>
+    <string name="mmp_video_stopresume" msgid="1769167470574168506">"Зупинити відновлення"</string>
+    <string name="mmp_photo_type_notsupport" msgid="1102594345605622608">"Файл не підтримується"</string>
+    <string name="mmp_lable_rorate" msgid="5707789973312733102">"Обернути"</string>
+    <string name="mmp_info_whitebalance" msgid="4243391745350656248">"Баланс білого:"</string>
+    <string name="mmp_info_make" msgid="5019160699386040694">"Виробник камери:"</string>
+    <string name="mmp_info_model" msgid="2555791677451848012">"Модель камери:"</string>
+    <string name="mmp_info_flash" msgid="1482374643316448288">"Спалах:"</string>
+    <string name="mmp_info_focallength" msgid="7185730465171519772">"Фокусна відстань:"</string>
+    <string name="mmp_menu_pic_setting" msgid="8682447848318300605">"Налаштування зображення"</string>
+    <string name="mmp_menu_audio_setting" msgid="4297665618950944208">"Налаштування звуку"</string>
+    <string name="mmp_menu_sound_setting" msgid="1341976547098523497">"Налаштування звуку"</string>
+    <string name="mmp_file_notsupport" msgid="7808733987932045433">"Файл не підтримується"</string>
+    <string name="mmp_notsupport" msgid="5351498401675171534">"Не підтримується"</string>
+    <string name="mmp_seek_notsupport" msgid="7212075520894633540">"Пошук не підтримується"</string>
+    <string name="mmp_step_notsupport" msgid="6858087783268138488">"Дія не підтримується"</string>
+    <string name="mmp_featue_notsupport" msgid="8285945520158433641">"Функція недоступна"</string>
+    <string name="mmp_buffer_not_enough" msgid="7729296381668175272">"Недостатньо пам\'яті буфера"</string>
+    <string name="mmp_nodevice" msgid="6634130010421915083">"Немає під\'єднаних пристроїв."</string>
+    <string name="mmp_time_out" msgid="2771473755878694067">"Введено неправильний часовий код.\nВін має бути меншим ніж загальна тривалість."</string>
+    <string name="mmp_file_corrupt" msgid="3689294857477023502">"Файл пошкоджено"</string>
+    <string name="mmp_menu_mount_iso" msgid="7959098173252455354">"Підключити поточний файл ISO"</string>
+    <string name="mmp_menu_unmount_iso" msgid="8948169787009591217">"Відключити поточний пристрій"</string>
+    <string name="mmp_media_file_lost" msgid="1073430028079692146">"Поточний пристрій не підключено."</string>
+    <string name="mmp_media_info_scrambled_audio_video_service" msgid="7436208224667913266">"Відео й аудіо зашифровано"</string>
+    <string name="mmp_media_info_scrambled_audio_clear_video_service" msgid="9128160029441897577">"Аудіо шифрується"</string>
+    <string name="mmp_media_info_scrambled_audio_no_video_service" msgid="2572785485574211543">"Аудіо зашифровано, лише аудіопотік"</string>
+    <string name="mmp_media_info_scrambled_video_clear_audio_service" msgid="7830438018396694250">"Зашифроване відео"</string>
+    <string name="mmp_media_info_scrambled_video_no_audio_service" msgid="854977936934627520">"Відео зашифровано, лише відеопотік"</string>
+    <string name="mmp_drm_register" msgid="675462032122703604">"Ваш пристрій не авторизовано для \n відтворення цього відео, захищеного Divx@."</string>
+    <string name="mmp_drm_register_expired" msgid="130018121204117964">"Термін прокату Divx@ закінчився"</string>
+    <string name="mmp_drm_register_used" msgid="1308738041895750904">"Прокат Divx@ використав переглядів: \n <xliff:g id="MMP_DRM_REGISTER_USED_XLI">%1$s</xliff:g> з <xliff:g id="MMP_DRM_REGISTER_USED_TWO_XLI">%2$s</xliff:g>"</string>
+    <string name="mmp_drm_register_continue" msgid="4545823732483395837">"Продовжити?"</string>
+    <string name="mmp_divx_title" msgid="6437496733832500819">"Назва"</string>
+    <string name="mmp_divx_edition" msgid="5306846019024910826">"Випуск"</string>
+    <string name="mmp_divx_chapter" msgid="3487487752488508131">"Розділ"</string>
+    <string name="mmp_divx_audioName" msgid="7031672633853273745">"Аудіо:"</string>
+    <string name="mmp_divx_subtitleName" msgid="904348339487006815">"Субтитри:"</string>
+    <string name="mmp_dmr_starting" msgid="1846715628857289261">"DMR запускається."</string>
+    <string name="mmp_dmr_started" msgid="4516534251149034263">"DMR запущено."</string>
+    <string name="mmp_dmr_network_failed" msgid="1069917251011513121">"Не вдалося запустити DMR. Мережа недоступна."</string>
+    <string name="mmp_dmr_url_failed" msgid="1998446749263931258">"Недійсна URL-адреса"</string>
+    <string name="mmp_wrong_psw" msgid="2220959537681782417">"Неправильний пароль. Всього спроб: <xliff:g id="MMP_WRONG_PSW_ONE_XLI">%1$s</xliff:g>. Використаних спроб: <xliff:g id="MMP_WRONG_PSW_TWO_XLI">%2$s</xliff:g>. Повторіть знову."</string>
+    <string name="mmp_last_memory" msgid="445353399276221319">"Пам\'ять відтворення"</string>
+    <string name="mmp_last_memory_time" msgid="8257690755872409500">"Час"</string>
+    <string name="mmp_last_memory_position" msgid="4214666976622254352">"Місце"</string>
+    <string name="ci_menu_pin_correct" msgid="2811258922733489547">"Правильно!"</string>
+    <string name="ci_menu_pin_outoftry" msgid="44306490349881239">"Три невдалі спроби"</string>
+    <string name="mmp_buffering_tip" msgid="2518565216632544676">"Буферизація відео триває. Зачекайте…"</string>
+    <string name="audio_type_normal" msgid="2694538341761232347">"Звичайний"</string>
+    <string name="audio_type_hearing_impaired" msgid="2118182303039653332">"Я маю вади слуху"</string>
+    <string name="audio_type_visually_impaired" msgid="1123879394721652732">"Я маю вади зору"</string>
+    <string name="audio_visually_speaker_on" msgid="370608298755159880">"Увімкнено"</string>
+    <string name="audio_downmixmode_stereo" msgid="9198344825777497057">"Стерео"</string>
+    <string name="audio_downmixmode_auto_stereo" msgid="6252486888542859420">"Автоматично вмикати стерео"</string>
+    <string name="audio_downmixmode_surround" msgid="334719632751452503">"Об\'ємний звук"</string>
+    <string name="nav_parent_psw" msgid="5129848968977804299">"Введіть пароль"</string>
+    <string name="mmp_change_mode" msgid="1676194732557780029">"Режим перегляду"</string>
+    <string name="mmp_menu_picture_off" msgid="4197984410377941805">"Вимкнути зображення"</string>
+    <string name="mmp_menu_jump_time" msgid="7424577337890603197">"Пошук"</string>
+    <string name="mmp_pop_repeat_tvsingle" msgid="1573762708654838975">"Сингл"</string>
+    <string name="mmp_bt_mode_notsupport" msgid="6018333824877204292">"Bluetooth не підтримується"</string>
+    <string name="mmp_menu_full_screen" msgid="3602706448625133614">"На весь екран"</string>
+    <string name="mmp_menu_over_scan" msgid="6417694118168861647">"Облямівка екрана"</string>
+    <string name="mmp_menu_subtitle_encoding" msgid="6717942460780111286">"Кодування субтитрів"</string>
+    <string name="mmp_sleeptime_lable" msgid="552336639790838524">"Час сну:"</string>
+    <string name="mmp_menu_audio" msgid="7290654328973000754">"Аудіо"</string>
+    <string name="mmp_no_devices_tips" msgid="361057196557407981">"Пристрої не знайдено. Вставте пристрій або повторіть спробу пізніше."</string>
+    <string name="mmp_video_info_resolution" msgid="8392200579627394727">"Роздільна здатність:"</string>
+    <string name="mmp_video_info_size" msgid="5161911583717273611">"Розмір:"</string>
+    <string name="mmp_video_info_bitrate" msgid="7276989523119391715">"Бітова швидкість:"</string>
+    <string name="mmp_video_info_last_Modified_date" msgid="6216504677173286907">"Дата останнього змінення:"</string>
+    <string name="mmp_play_speed_notsupport_ff" msgid="5406970534491698132">"Перемотування вперед недоступне в режимі швидкого відтворення"</string>
+    <string name="mmp_play_speed_notsupport_fb" msgid="5335593605293341055">"Перемотування назад недоступне в режимі швидкого відтворення"</string>
+    <string name="mmp_menu_play_speed" msgid="8078405319367563721">"Швидкість відтворення"</string>
+    <string name="mmp_seamless_mode" msgid="2794517051734603832">"Плавний перехід"</string>
+    <string name="mmp_seamless_mode_off" msgid="6502962176792078529">"Вимкнено"</string>
+    <string name="mmp_seamless_mode_on" msgid="2680879271354894946">"Увімкнено"</string>
+    <string name="mmp_menu_rotate_0" msgid="2525882655804508677">"Поворот на 0 градусів"</string>
+    <string name="mmp_menu_rotate_90" msgid="5499075283143867382">"Поворот на 90 градусів"</string>
+    <string name="mmp_menu_rotate_180" msgid="828127129735548816">"Поворот на 180 градусів"</string>
+    <string name="mmp_menu_rotate_270" msgid="9010954915556187744">"Поворот на 270 градусів"</string>
+    <string name="mmp_menu_wallpaper" msgid="5678135140588088459">"Зробити фоновим малюнком"</string>
+    <string name="mmp_menu_img_zoom_in" msgid="4446097703965671221">"Наблизити"</string>
+    <string name="mmp_menu_img_zoom_out" msgid="9026341167144546000">"Віддалити"</string>
+    <string name="mmp_img_player_max_tip" msgid="7337920113397012863">"Максимальний коефіцієнт масштабування."</string>
+    <string name="mmp_img_player_min_tip" msgid="4286863235386750909">"Мінімальний коефіцієнт масштабування."</string>
+    <string name="mmp_img_player_photo_wallpaper" msgid="7812511256832915936">"фотошпалери"</string>
+    <string name="mmp_img_player_setting_wallpaper_plz_wait" msgid="4696641526998650922">"Встановлюється фоновий малюнок. Зачекайте…"</string>
+    <string name="mmp_img_player_setting_wallpaper" msgid="3584202222258659321">"Встановлюється фоновий малюнок…"</string>
+    <string name="mmp_img_player_wallpaper_not_supported" msgid="3594013303919654760">"Фоновий малюнок не підтримується"</string>
+    <string name="mmp_img_player_can_not_decode" msgid="1532417882851899990">"Це зображення не можна розкодувати."</string>
+    <string name="mmp_img_player_decoding" msgid="5237697103906052112">"розкодування зображення…"</string>
+    <string name="mmp_img_player_decode_failed" msgid="251111120950935657">"Не вдалося розкодувати зображення."</string>
+    <string name="mmp_img_player_gif_not_allow" msgid="5781151658958709239">"не працювати в режимі анімації GIF"</string>
+    <string name="mmp_img_player_scale_or_rotate_not_allow" msgid="1229810181937509638">"не працювати в режимі масштабування або обертання"</string>
+    <string name="mmp_img_player_low_memory" msgid="563937068344863239">"Недостатньо пам’яті."</string>
+    <string name="mmp_img_player_pan_success" msgid="5945675696592056557">"Ефект панорамування застосовано до зображення."</string>
+    <string name="mmp_img_player_pan_failed" msgid="5872051943605585443">"Не вдалося панорамувати зображення."</string>
+    <string name="mmp_img_player_pan_parameter_invalid" msgid="2926828788120735833">"Недійсний параметр панорамування зображення."</string>
+    <string name="mmp_img_player_file_not_support" msgid="8044505304152821864">"Файл не підтримується"</string>
+    <string name="mmp_img_player_zooming" msgid="1589759384473792147">"масштабування зображення…"</string>
+    <string name="mmp_img_player_rotating" msgid="8461823781551361070">"обертання зображення…"</string>
+    <string name="mmp_img_player_net_disconnect" msgid="3644363535411515478">"Немає Інтернет-з’єднання. Перевірте."</string>
+    <string name="mmp_img_player_play_error" msgid="123735832200732918">"Помилка відтворення"</string>
+    <string name="mmp_img_player_play_error_message" msgid="3430663918858289760">"Перейти до відтворення наступної фотографії?"</string>
+    <string name="mmp_img_player_ok" msgid="8356204143754819176">"OK"</string>
+    <string name="mmp_img_player_cancel" msgid="3518159083198557236">"Скасувати"</string>
+    <string name="mmp_menu_audio_output_setting" msgid="460478476807807452">"Аудіовихід"</string>
+</resources>

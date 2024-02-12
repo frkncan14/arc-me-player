@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="screen_mode_array_us">
+		<item>@string/screen_mode_1</item>
+		<item>@string/screen_mode_2</item>
+		<item>@string/screen_mode_3</item>
+		<item>@string/screen_mode_4</item>
+		<item>@string/screen_mode_5</item>
+		<item>@string/screen_mode_6</item>
+		<item>@string/screen_mode_7</item>
+		<item>@string/screen_mode_8</item>
+		<item>@string/screen_mode_9</item>
+		<item>@string/screen_mode_10</item>
+		<item>@string/screen_mode_11</item>
+		<item>@string/screen_mode_12</item>
+		<item>@string/screen_mode_13</item>
+		<item>@string/screen_mode_14</item>
+		<item>@string/screen_mode_15</item>
+		<item>@string/screen_mode_16</item>
+		<item>@string/screen_mode_17</item>
+		<item>@string/screen_mode_18</item>
+		<item>@string/screen_mode_19</item>
+	</string-array>
+
+	<!--Picture effect-->
+	<!--
+	<string-array name="picture_effect_array">
+		<item>User</item>
+		<item>Cinema</item>
+		<item>Sport</item>
+		<item>Vivid</item>
+		<item>Hi-Bright</item>
+	</string-array>
+
+	<string-array name="picture_effect_array_dovi">
+		<item>Dolby Vision Bright</item>
+		<item>Dolby Vision Dark</item>
+	</string-array>
+
+
+	<string-array name="dolby_vision_restore">
+		<item>restore</item>
+	</string-array>
+
+	<string-array name="dolby_vision_notification">
+		<item>Off</item>
+		<item>On</item>
+	</string-array>
+      -->
+</resources>

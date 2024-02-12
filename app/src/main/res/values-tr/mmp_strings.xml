@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string msgid="9079948768207079095" name="mmp_menu">"Menü"</string>
+<string msgid="8373528614821710603" name="mmp_menu_sort">"Sırala"</string>
+<string msgid="7324251596256819138" name="mmp_menu_mediatype">"Medya Türü"</string>
+<string msgid="2613417042892386301" name="mmp_menu_thumb">"Küçük Resim Boyutu"</string>
+<string msgid="7728066670652565778" name="mmp_menu_copy">"Kopyala"</string>
+<string msgid="1289836061276427065" name="mmp_menu_paste">"Yapıştır"</string>
+<string msgid="8911245550314385994" name="mmp_menu_delete">"Sil"</string>
+<string msgid="4965264343654944343" name="mmp_menu_recur">"Yinelemeli Ayrıştırıcı"</string>
+<string msgid="7112174768461191390" name="mmp_menu_not_recur">"Normal Ayrıştırıcı"</string>
+<string msgid="1214517932766614549" name="mmp_menu_photoframe">"Fotoğraf Çerçevesi"</string>
+<string msgid="7297221471059815216" name="mmp_menu_photo_frame">"Fotoğraf Çerçevesi ayarlandı"</string>
+<string msgid="544799819593204858" name="mmp_menu_play">"Oynat"</string>
+<string msgid="2009629214475280978" name="mmp_menu_pause">"Duraklat"</string>
+<string msgid="7258120466270016557" name="mmp_menu_repeat">"Tekrarla"</string>
+<string msgid="3397849470999515065" name="mmp_menu_shuffle">"Karıştır"</string>
+<string msgid="3457072780002542559" name="mmp_menu_duration">"Süre"</string>
+<string msgid="1095076262850741888" name="mmp_menu_effect">"Etki"</string>
+<string msgid="4691897570336226826" name="mmp_menu_showinfo">"Bilgileri Göster"</string>
+<string msgid="7986960666934851018" name="mmp_menu_frame">"Fotoğraf Çerçevesi Görüntüsü"</string>
+<string msgid="8190003337362481311" name="mmp_menu_rotate">"Döndür"</string>
+<string msgid="4983366475199077876" name="mmp_menu_3d_photo">"3D fotoğraf"</string>
+<string msgid="7054330190938975189" name="mmp_menu_display">"Satırı Görüntüle"</string>
+<string msgid="100700072644603332" name="mmp_menu_timeoffset">"Zaman farkı"</string>
+<string msgid="1550879051107028343" name="mmp_menu_encoding">"Kodlama"</string>
+<string msgid="4868172328224771042" name="mmp_menu_picturemode">"Resim Modu"</string>
+<string msgid="4412352992234044423" name="mmp_menu_screenmode">"Ekran Modu"</string>
+<string msgid="7375862916728883987" name="mmp_menu_font">"Yazı tipi"</string>
+<string msgid="2228124380030616200" name="mmp_menu_size">"Boyut"</string>
+<string msgid="4128151098473753722" name="mmp_menu_style">"Stil"</string>
+<string msgid="2136070988230279780" name="mmp_menu_color">"Renk"</string>
+<string msgid="8666017604362763396" name="mmp_menu_date">"Tarih"</string>
+<string msgid="812493345015711141" name="mmp_menu_name">"Ad"</string>
+<string msgid="2114499624068654079" name="mmp_menu_album">"Albüm"</string>
+<string msgid="2764300205206905274" name="mmp_menu_artist">"Sanatçı"</string>
+<string msgid="263980932337808189" name="mmp_menu_genre">"Tür"</string>
+<string msgid="1649143081737426246" name="mmp_menu_type">"Tür"</string>
+<string msgid="7836919472204616006" name="mmp_menu_phototext">"Fotoğraf"</string>
+<string msgid="5387149570422271841" name="mmp_menu_music">"Müzik"</string>
+<string msgid="5189292319328786647" name="mmp_menu_video">"Video"</string>
+<string msgid="5962796217247350807" name="mmp_menu_text">"SMS"</string>
+<string msgid="4105561830760841729" name="mmp_menu_small">"Küçük"</string>
+<string msgid="7564524044246800587" name="mmp_menu_medium">"Orta"</string>
+<string msgid="5005608858465935364" name="mmp_menu_large">"Büyük"</string>
+<string msgid="6864735135037376411" name="mmp_menu_onephotomode">"Tek Fotoğraf Modu"</string>
+<string msgid="7926890038540120590" name="mmp_menu_none">"Yok"</string>
+<string msgid="7788100339932357215" name="mmp_menu_repeatone">"Birini Tekrarla"</string>
+<string msgid="6158142728959841974" name="mmp_menu_repeatall">"Tümünü Tekrarla"</string>
+<string msgid="5629298854768064250" name="mmp_menu_shuffleoff">"Karıştırma Kapalı"</string>
+<string msgid="308830560936676103" name="mmp_menu_shuffleon">"Karıştırma Açık"</string>
+<string msgid="5777774655121984779" name="mmp_menu_short">"Kısa"</string>
+<string msgid="3882136219055983996" name="mmp_menu_long">"Uzun"</string>
+<string msgid="5285128498963238352" name="mmp_menu_1x">"1 X"</string>
+<string msgid="5203852169875721932" name="mmp_menu_2x">"2 X"</string>
+<string msgid="4526236448038226345" name="mmp_menu_4x">"4 X"</string>
+<string msgid="7113502065311218484" name="mmp_menu_dissolve">"Çözülme"</string>
+<string msgid="1484246629923871092" name="mmp_menu_wiperight">"Sağa Silme"</string>
+<string msgid="2398173785822262445" name="mmp_menu_wipeleft">"Sola Silme"</string>
+<string msgid="59996185178096696" name="mmp_menu_wipeup">"Wipe Up"</string>
+<string msgid="1719128764041925790" name="mmp_menu_wipedown">"Aşağı Silme"</string>
+<string msgid="7047199484148726413" name="mmp_menu_boxin">"İçe Kutu"</string>
+<string msgid="6759124402362929260" name="mmp_menu_boxout">"Dışa Kutu"</string>
+<string msgid="2389161930234842696" name="mmp_menu_random">"Karışık"</string>
+<string msgid="386038732335984329" name="mmp_menu_off">"Kapalı"</string>
+<string msgid="7431120586848806664" name="mmp_menu_singleline">"Tek Satır"</string>
+<string msgid="7052296904664940357" name="mmp_menu_multiline">"Çok Satırlı"</string>
+<string msgid="6817452675899749723" name="mmp_menu_auto">"Otomatik"</string>
+<string msgid="4876094705350753243" name="mmp_menu_userdefine">"Kullanıcı Tanımlı"</string>
+<string msgid="1195420639323452586" name="mmp_menu_zoom">"Yakınlaştır"</string>
+<string msgid="7949610806181219455" name="mmp_menu_regular">"Normal"</string>
+<string msgid="3823262772644701909" name="mmp_menu_italic">"İtalik"</string>
+<string msgid="1573884329277707594" name="mmp_menu_bold">"Kalın"</string>
+<string msgid="6135759649381327350" name="mmp_menu_outline">"Kalın İtalik"</string>
+<string msgid="8719113369246148681" name="mmp_menu_white">"Beyaz"</string>
+<string msgid="5473608042810495615" name="mmp_menu_blue">"Mavi"</string>
+<string msgid="4218204192222522501" name="mmp_menu_red">"Kırmızı"</string>
+<string msgid="34696038896883398" name="mmp_menu_green">"Yeşil"</string>
+<string msgid="5628264820914306931" name="mmp_menu_black">"Siyah"</string>
+<string msgid="1348924294626050138" name="mmp_menu_lyricoptions">"Şarkı Sözü Seçen."</string>
+<string msgid="3018721062927128088" name="mmp_menu_showscore">"Spektrumu Göster"</string>
+<string msgid="4381535154938875554" name="mmp_menu_hidescore">"Spektrum\'u Gizle"</string>
+<string msgid="8843390942428145152" name="mmp_photo">"Fotoğraf"</string>
+<string msgid="8706227639060679235" name="mmp_audio">"Müzik"</string>
+<string msgid="2680263982702698720" name="mmp_video">"Video"</string>
+<string msgid="4077978808166924627" name="mmp_text">"SMS"</string>
+<string msgid="4407585001484425898" name="mmp_select">"Seç"</string>
+<string msgid="8592845546999906622" name="mmp_input">"Gir"</string>
+<string msgid="6051283891356437825" name="mmp_exit">"Çık"</string>
+<string msgid="7299272765998117529" name="mmp_emptyfile">"Mevcut klasör boş!"</string>
+<string msgid="8603627514980705968" name="mmp_reutip">"Bu klasör ayrıştırılıyor. Lütfen bekleyin..."</string>
+<string msgid="4444610414043102239" name="mmp_pop_zoomscale">"X"</string>
+<string msgid="7720981179637224588" name="mmp_info_album">"Albüm:"</string>
+<string msgid="3830902756642165426" name="mmp_info_orientation">"Yön:"</string>
+<string msgid="6966050205975687821" name="mmp_info_artist">"Sanatçı:"</string>
+<string msgid="8058742280848190551" name="mmp_info_name">"Ad:"</string>
+<string msgid="4300927192893785690" name="mmp_info_date">"Tarih:"</string>
+<string msgid="959025658391753505" name="mmp_info_size">"Boyut:"</string>
+<string msgid="4380397773389543174" name="mmp_info_next">"Sonraki:"</string>
+<string msgid="1267866496055028627" name="mmp_info_audio">"Ses:"</string>
+<string msgid="1297476777953501472" name="mmp_info_exposure">"Pozlama süresi:"</string>
+<string msgid="2220709797456364777" name="mmp_info_fnumber">"F durağı"</string>
+<string msgid="2062980080114642715" name="mmp_info_program">"Pozlama programı:"</string>
+<string msgid="991833052722703084" name="mmp_info_colorspace">"Renk alanı:"</string>
+<string msgid="7820876214484582645" name="mmp_info_title">"Başlık:"</string>
+<string msgid="2473418313212427139" name="mmp_info_genre">"Tür:"</string>
+<string msgid="2941904149668986691" name="mmp_info_year">"Yıl:"</string>
+<string msgid="7689265303365835747" name="mmp_info_duration">"Süre:"</string>
+<string msgid="8050309676555265722" name="mmp_info_director">"Yönetmen:"</string>
+<string msgid="2260484851899108080" name="mmp_info_copyrght">"Telif hakkı"</string>
+<string msgid="2276225818924525010" name="mmp_info_lastpage">"Son Sayfa"</string>
+<string msgid="6044269836515584059" name="mmp_info_nextpage">"Sonraki Sayfa"</string>
+<string msgid="2011077578197667092" name="mmp_info_nolrc">"Şarkı sözü yok"</string>
+<string msgid="6373109875045173807" name="mmp_loading_tip">"Bu klasör ayrıştırılıyor. Lütfen bekleyin..."</string>
+<string msgid="4038160189084155137" name="mmp_user_name">"Kullanıcı Adı"</string>
+<string msgid="52423781427686112" name="mmp_password">"Şifre"</string>
+<string msgid="3987501643229207065" name="mmp_confirm">"Onayla"</string>
+<string msgid="879524843720392844" name="mmp_vkb">"Giriş"</string>
+<string msgid="7246671616128389098" name="mmp_ok">"Tamam"</string>
+<string msgid="3261313315531378417" name="mmp_cancel">"İptal"</string>
+<string msgid="1843731122426925591" name="mmp_login_failed_tip">"Kullanıcı Adı veya Şifre Yanlış!"</string>
+<string msgid="6189648564456332471" name="mmp_dlnaserver_disconnected">"DLNA sunucusu ile bağlantı kesildi. Lütfen ağı ve sunucu durumunu kontrol edin!"</string>
+<string msgid="6500393214807298054" name="mmp_pvr_play_from_tv_cannot_pip">"PVR oynatma, PIP Moduna geçemiyor!"</string>
+<string msgid="5562820685064587733" name="mmp_list_mode_cannot_pip">"Dosya Liste Modu PIP moduna geçemiyor!"</string>
+<string msgid="8583348774130086919" name="mmp_title_copy">"Kopyalanıyor"</string>
+<string msgid="4771822119501444534" name="mmp_title_confirm_replace">"Dosya Değiştirmeyi Onayla"</string>
+<string msgid="8377725312373475404" name="mmp_title_confirm_delete">"Dosya Silmeyi Onayla"</string>
+<string msgid="4808547807069922623" name="mmp_message_copy">"<xliff:g id="MMP_MESSAGE_COPY_ONE_XLI">%1$s</xliff:g>\n<xliff:g id="MMP_MESSAGE_COPY_TWO_XLI">%2$s</xliff:g>\n-<xliff:g id="MMP_MESSAGE_COPY_THREE_XLI">%3$s</xliff:g> arası"</string>
+<string msgid="5868285892080714347" name="mmp_message_confirm_replace">"Bu klasörde zaten \n<xliff:g id="MMP_MESSAGE_CONFIRM_REPLACE_XLI">%s</xliff:g> isminde bir dosya var."</string>
+<string msgid="6777614659086530912" name="mmp_message_confirm_delete">"Seçili dosyayı·silmek istediğinizden emin misiniz?"</string>
+<string msgid="8825062653561586733" name="mmp_yes">"Evet"</string>
+<string msgid="2188249996394727534" name="mmp_yes_to_all">"Tümüne Evet"</string>
+<string msgid="6819583620403834086" name="mmp_no">"Hayır"</string>
+<string msgid="7209687460094347177" name="mmp_capture_title">"Logoyu Yakala"</string>
+<string msgid="824603266897705710" name="mmp_capture_confirm">"Bu ekranı yakalamak istiyor musunuz?"</string>
+<string msgid="881397136260176005" name="mmp_toast_no_photoframe">"Gösterilecek bir fotoğraf çerçevesi yok"</string>
+<string msgid="1724158907378873072" name="mmp_before_pip_exit_dot_by_dot">"Ekran Modu, PIP Moduna geçerken normale döner."</string>
+<string msgid="632844846305154273" name="mmp_before_pip_zoom_1x">"PIP moduna geçerken yakınlaştırma normal seviyeye döner."</string>
+<string msgid="3746654153060516549" name="mmp_video_notsupport">"Video Codec Desteklenmiyor"</string>
+<string msgid="298426631612159434" name="mmp_audio_notsupport">"Ses Biçimi Desteklenmiyor"</string>
+<string msgid="7278869886485261082" name="mmp_video_only">"Yalnızca Video"</string>
+<string msgid="3684111810245692657" name="mmp_frame_photo_sleeptime">"Uyku Zamanı"</string>
+<string msgid="1769167470574168506" name="mmp_video_stopresume">"Devam Ettirmeyi Durdur"</string>
+<string msgid="1102594345605622608" name="mmp_photo_type_notsupport">"Dosya Desteklenmiyor"</string>
+<string msgid="5707789973312733102" name="mmp_lable_rorate">"Döndür"</string>
+<string msgid="4243391745350656248" name="mmp_info_whitebalance">"Beyaz Dengesi:"</string>
+<string msgid="5019160699386040694" name="mmp_info_make">"Fotoğraf Makinesi Üreticisi"</string>
+<string msgid="2555791677451848012" name="mmp_info_model">"Kamera Modeli:"</string>
+<string msgid="1482374643316448288" name="mmp_info_flash">"Flaş:"</string>
+<string msgid="7185730465171519772" name="mmp_info_focallength">"Odak Uzaklığı:"</string>
+<string msgid="8682447848318300605" name="mmp_menu_pic_setting">"Resim Ayarları"</string>
+<string msgid="4297665618950944208" name="mmp_menu_audio_setting">"Ses Ayarları"</string>
+<string msgid="1341976547098523497" name="mmp_menu_sound_setting">"Ses Ayarları"</string>
+<string msgid="7808733987932045433" name="mmp_file_notsupport">"Dosya Desteklenmiyor"</string>
+<string msgid="5351498401675171534" name="mmp_notsupport">"Desteklenmez"</string>
+<string msgid="7212075520894633540" name="mmp_seek_notsupport">"Sarma Özelliği Desteklenmiyor"</string>
+<string msgid="6858087783268138488" name="mmp_step_notsupport">"Adım Desteklenmiyor"</string>
+<string msgid="8285945520158433641" name="mmp_featue_notsupport">"Özellik Kullanılamıyor"</string>
+<string msgid="7729296381668175272" name="mmp_buffer_not_enough">"Arabellek Yeterli Değil"</string>
+<string msgid="6634130010421915083" name="mmp_nodevice">"Bağlı cihaz yok"</string>
+<string msgid="2771473755878694067" name="mmp_time_out">"Girdiğiniz zaman kodu yanlış!\nLütfen bunun toplam süreden kısa olduğundan emin olun."</string>
+<string msgid="3689294857477023502" name="mmp_file_corrupt">"Dosya bozuk"</string>
+<string msgid="7959098173252455354" name="mmp_menu_mount_iso">"Mevcut iso dosyasını ekle"</string>
+<string msgid="8948169787009591217" name="mmp_menu_unmount_iso">"Mevcut cihazı kaldır"</string>
+<string msgid="1073430028079692146" name="mmp_media_file_lost">"Mevcut Cihaz Bağlı Değil!"</string>
+<string msgid="7436208224667913266" name="mmp_media_info_scrambled_audio_video_service">"Karmaşık Video ve Ses"</string>
+<string msgid="9128160029441897577" name="mmp_media_info_scrambled_audio_clear_video_service">"Karmaşık Ses"</string>
+<string msgid="2572785485574211543" name="mmp_media_info_scrambled_audio_no_video_service">"Karmaşık Ses, Sadece ses"</string>
+<string msgid="7830438018396694250" name="mmp_media_info_scrambled_video_clear_audio_service">"Karmaşık Video"</string>
+<string msgid="854977936934627520" name="mmp_media_info_scrambled_video_no_audio_service">"Karmaşık Video, Sadece video"</string>
+<string msgid="675462032122703604" name="mmp_drm_register">"Cihazınız, \n bu Divx@ korumalı videoyu oynatma iznine sahip değil."</string>
+<string msgid="130018121204117964" name="mmp_drm_register_expired">"Divx@ kiralamanın süresi doldu"</string>
+<string msgid="1308738041895750904" name="mmp_drm_register_used">"Divx@ kiralama \n <xliff:g id="MMP_DRM_REGISTER_USED_XLI">%1$s</xliff:g>/<xliff:g id="MMP_DRM_REGISTER_USED_TWO_XLI">%2$s</xliff:g> görüntülemeyi kullandı."</string>
+<string msgid="4545823732483395837" name="mmp_drm_register_continue">"Devam etmek istiyor musunuz?"</string>
+<string msgid="6437496733832500819" name="mmp_divx_title">"Başlık"</string>
+<string msgid="5306846019024910826" name="mmp_divx_edition">"Sürüm"</string>
+<string msgid="3487487752488508131" name="mmp_divx_chapter">"Bölüm"</string>
+<string msgid="7031672633853273745" name="mmp_divx_audioName">"Ses:"</string>
+<string msgid="904348339487006815" name="mmp_divx_subtitleName">"Altyazı:"</string>
+<string msgid="1846715628857289261" name="mmp_dmr_starting">"DMR başlatılıyor."</string>
+<string msgid="4516534251149034263" name="mmp_dmr_started">"DMR başlatıldı"</string>
+<string msgid="1069917251011513121" name="mmp_dmr_network_failed">"DMR başlatılamadı. Ağ kullanılamıyor."</string>
+<string msgid="1998446749263931258" name="mmp_dmr_url_failed">"Geçersiz URL"</string>
+<string msgid="2220959537681782417" name="mmp_wrong_psw">"Yanlış Şifre. Toplam <xliff:g id="MMP_WRONG_PSW_ONE_XLI">%1$s</xliff:g> deneme hakkınız var. <xliff:g id="MMP_WRONG_PSW_TWO_XLI">%2$s</xliff:g> defa denediniz. Tekrar deneyin!"</string>
+<string msgid="445353399276221319" name="mmp_last_memory">"Son Hafıza"</string>
+<string msgid="8257690755872409500" name="mmp_last_memory_time">"Saat"</string>
+<string msgid="4214666976622254352" name="mmp_last_memory_position">"Yer"</string>
+<string msgid="2811258922733489547" name="ci_menu_pin_correct">"Doğru!"</string>
+<string msgid="44306490349881239" name="ci_menu_pin_outoftry">"Üç hatalı giriş"</string>
+<string msgid="2518565216632544676" name="mmp_buffering_tip">"Video arabelleğe alınıyor. Lütfen bekleyin..."</string>
+<string msgid="2694538341761232347" name="audio_type_normal">"Normal"</string>
+<string msgid="2118182303039653332" name="audio_type_hearing_impaired">"İşitme Engelli seçeneği"</string>
+<string msgid="1123879394721652732" name="audio_type_visually_impaired">"Görme Engelli"</string>
+<string msgid="370608298755159880" name="audio_visually_speaker_on">"Açık"</string>
+<string msgid="9198344825777497057" name="audio_downmixmode_stereo">"Stereo"</string>
+<string msgid="6252486888542859420" name="audio_downmixmode_auto_stereo">"Otomatik Stereo"</string>
+<string msgid="334719632751452503" name="audio_downmixmode_surround">"Surround"</string>
+<string msgid="5129848968977804299" name="nav_parent_psw">"Şifrenizi girin"</string>
+<string msgid="1676194732557780029" name="mmp_change_mode">"Göz Atma Modu"</string>
+<string msgid="4197984410377941805" name="mmp_menu_picture_off">"Görüntüyü Kapat"</string>
+<string msgid="7424577337890603197" name="mmp_menu_jump_time">"Ara"</string>
+<string msgid="1573762708654838975" name="mmp_pop_repeat_tvsingle">"Tekli"</string>
+<string msgid="6018333824877204292" name="mmp_bt_mode_notsupport">"BT modu Desteklenmiyor"</string>
+<string msgid="3602706448625133614" name="mmp_menu_full_screen">"Tam Ekran"</string>
+<string msgid="6417694118168861647" name="mmp_menu_over_scan">"Fazla Tarama"</string>
+<string msgid="6717942460780111286" name="mmp_menu_subtitle_encoding">"Altyazı Kodlaması"</string>
+<string msgid="552336639790838524" name="mmp_sleeptime_lable">"Uyku Zamanı:"</string>
+<string msgid="7290654328973000754" name="mmp_menu_audio">"Ses"</string>
+<string msgid="361057196557407981" name="mmp_no_devices_tips">"Cihaz bulunamadı. Lütfen cihazı takıp tekrar deneyin."</string>
+<string msgid="8392200579627394727" name="mmp_video_info_resolution">"Çözünürlük:"</string>
+<string msgid="5161911583717273611" name="mmp_video_info_size">"Boyut:"</string>
+<string msgid="7276989523119391715" name="mmp_video_info_bitrate">"Bit Hızı:"</string>
+<string msgid="6216504677173286907" name="mmp_video_info_last_Modified_date">"Son değiştirilme tarihi:"</string>
+<string msgid="5406970534491698132" name="mmp_play_speed_notsupport_ff">"Hızlı ileri sarma, hızlı oynatma modunda devre dışıdır"</string>
+<string msgid="5335593605293341055" name="mmp_play_speed_notsupport_fb">"Hızlı geri sarma, hızlı oynatma modunda devre dışıdır"</string>
+<string msgid="8078405319367563721" name="mmp_menu_play_speed">"Oynatma Hızı"</string>
+<string msgid="2794517051734603832" name="mmp_seamless_mode">"Kesintisiz"</string>
+<string msgid="6502962176792078529" name="mmp_seamless_mode_off">"Kapat"</string>
+<string msgid="2680879271354894946" name="mmp_seamless_mode_on">"Açık"</string>
+<string msgid="2525882655804508677" name="mmp_menu_rotate_0">"0 derece döndürme"</string>
+<string msgid="5499075283143867382" name="mmp_menu_rotate_90">"90 derece döndürme"</string>
+<string msgid="828127129735548816" name="mmp_menu_rotate_180">"180 derece döndürme"</string>
+<string msgid="9010954915556187744" name="mmp_menu_rotate_270">"270 derece döndürme"</string>
+<string msgid="5678135140588088459" name="mmp_menu_wallpaper">"Duvar kağıdı yap"</string>
+<string msgid="4446097703965671221" name="mmp_menu_img_zoom_in">"Yakınlaştır"</string>
+<string msgid="9026341167144546000" name="mmp_menu_img_zoom_out">"Uzaklaştır"</string>
+<string msgid="7337920113397012863" name="mmp_img_player_max_tip">"Maksimum ölçeklendirme oranı"</string>
+<string msgid="4286863235386750909" name="mmp_img_player_min_tip">"Minimum ölçeklendirme oranı"</string>
+<string msgid="7812511256832915936" name="mmp_img_player_photo_wallpaper">"fotoğraf duvar kağıdı"</string>
+<string msgid="4696641526998650922" name="mmp_img_player_setting_wallpaper_plz_wait">"Duvar kağıdı ayarlanıyor, lütfen bekleyin..."</string>
+<string msgid="3584202222258659321" name="mmp_img_player_setting_wallpaper">"Duvar kağıdı ayarlanıyor..."</string>
+<string msgid="3594013303919654760" name="mmp_img_player_wallpaper_not_supported">"Duvar kağıdı desteklenmiyor"</string>
+<string msgid="1532417882851899990" name="mmp_img_player_can_not_decode">"Bu resmin kodu çözülemiyor."</string>
+<string msgid="5237697103906052112" name="mmp_img_player_decoding">"resmin kodu çözülüyor..."</string>
+<string msgid="251111120950935657" name="mmp_img_player_decode_failed">"resmin kodu çözülemedi."</string>
+<string msgid="5781151658958709239" name="mmp_img_player_gif_not_allow">"GIF animasyon modunda çalışmaz"</string>
+<string msgid="1229810181937509638" name="mmp_img_player_scale_or_rotate_not_allow">"ölçeklendirme veya döndürme modunda çalışmaz"</string>
+<string msgid="563937068344863239" name="mmp_img_player_low_memory">"Bellek Az"</string>
+<string msgid="5945675696592056557" name="mmp_img_player_pan_success">"resim başarıyla kaydırıldı"</string>
+<string msgid="5872051943605585443" name="mmp_img_player_pan_failed">"resim kaydırılamadı"</string>
+<string msgid="2926828788120735833" name="mmp_img_player_pan_parameter_invalid">"resim kaydırma parametresi geçersiz"</string>
+<string msgid="8044505304152821864" name="mmp_img_player_file_not_support">"Dosya desteklenmiyor"</string>
+<string msgid="1589759384473792147" name="mmp_img_player_zooming">"resim yakınlaştırılıyor..."</string>
+<string msgid="8461823781551361070" name="mmp_img_player_rotating">"resim döndürülüyor..."</string>
+<string msgid="3644363535411515478" name="mmp_img_player_net_disconnect">"Ağ bağlantısı kesildi, lütfen kontrol edin."</string>
+<string msgid="123735832200732918" name="mmp_img_player_play_error">"Oynatma hatası"</string>
+<string msgid="3430663918858289760" name="mmp_img_player_play_error_message">"Sonraki fotoğrafı oynatmaya devam edilsin mi?"</string>
+<string msgid="8356204143754819176" name="mmp_img_player_ok">"Tamam"</string>
+<string msgid="3518159083198557236" name="mmp_img_player_cancel">"İptal"</string>
+<string msgid="460478476807807452" name="mmp_menu_audio_output_setting">"Ses Çıkışı"</string>
+<string name="app_name">Medya Merkezi</string></resources>

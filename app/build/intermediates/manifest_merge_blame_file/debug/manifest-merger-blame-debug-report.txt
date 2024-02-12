@@ -1,0 +1,819 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.arcelik.ArcelikMediaPlayer"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:9:5-74
+8        android:minSdkVersion="30"
+8-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:9:15-41
+9        android:targetSdkVersion="30" />
+9-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:9:42-71
+10
+11    <uses-permission android:name="android.permission.HDMI_CEC" />
+11-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:11:5-67
+11-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:11:22-64
+12    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS" />
+12-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:12:5-80
+12-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:12:22-77
+13    <uses-permission android:name="android.permission.SHUTDOWN" />
+13-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:13:5-67
+13-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:13:22-64
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:14:5-79
+14-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:14:22-76
+15    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+15-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:15:5-78
+15-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:15:22-75
+16    <uses-permission android:name="android.permission.MAINLINE_NETWORK_STACK" />
+16-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:16:5-81
+16-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:16:22-78
+17    <uses-permission android:name="android.permission.SET_TIME_ZONE" />
+17-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:17:5-72
+17-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:17:22-69
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:18:5-79
+18-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:18:22-76
+19    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+19-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:19:5-76
+19-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:19:22-73
+20    <uses-permission android:name="android.permission.INTERNET" />
+20-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:20:5-67
+20-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:20:22-64
+21    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+21-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:21:5-81
+21-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:21:22-78
+22    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+22-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:22:5-80
+22-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:22:22-77
+23    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+23-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:23:5-80
+23-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:23:22-77
+24    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+24-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:24:5-73
+24-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:24:22-70
+25    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+25-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:25:5-75
+25-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:25:22-72
+26    <uses-permission android:name="android.permission.ACCESS_CHECKIN_PROPERTTES" />
+26-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:26:5-84
+26-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:26:22-81
+27    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+27-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:19:5-76
+27-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:19:22-73
+28    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+28-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:28:5-76
+28-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:28:22-73
+29    <uses-permission android:name="android.permission.CHANGE_CONFIGURATION" />
+29-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:29:5-79
+29-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:29:22-76
+30    <uses-permission android:name="android.permission.GET_TASKS" />
+30-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:30:5-68
+30-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:30:22-65
+31    <uses-permission android:name="android.permission.REAL_GET_TASKS" />
+31-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:31:5-73
+31-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:31:22-70
+32    <uses-permission android:name="android.permission.WAKE_LOCK" />
+32-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:32:5-68
+32-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:32:22-65
+33    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+33-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:33:5-84
+33-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:33:22-81
+34    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+34-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:34:5-84
+34-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:34:22-81
+35    <uses-permission android:name="android.permission.FORCE_STOP_PACKAGES" />
+35-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:35:5-78
+35-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:35:22-75
+36    <uses-permission android:name="android.permission.REORDER_TASKS" />
+36-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:36:5-72
+36-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:36:22-69
+37    <uses-permission android:name="android.permission.REBOOT" />
+37-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:37:5-65
+37-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:37:22-62
+38    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+38-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:38:5-75
+38-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:38:22-72
+39    <uses-permission android:name="com.android.providers.tv.permission.READ_EPG_DATA" />
+39-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:39:5-89
+39-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:39:22-86
+40    <uses-permission android:name="com.android.providers.tv.permission.WRITE_EPG_DATA" />
+40-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:40:5-90
+40-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:40:22-87
+41    <uses-permission android:name="com.android.providers.tv.permission.ACCESS_ALL_EPG_DATA" />
+41-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:41:5-95
+41-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:41:22-92
+42    <uses-permission android:name="android.permission.TV_INPUT_HARDWARE" />
+42-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:42:5-76
+42-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:42:22-73
+43    <uses-permission android:name="com.google.android.tv.permission.RECEIVE_INPUT_EVENT" />
+43-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:43:5-92
+43-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:43:22-89
+44    <uses-permission android:name="com.android.tv.permission.RECEIVE_INPUT_EVENT" />
+44-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:44:5-85
+44-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:44:22-82
+45    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+45-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:22:5-80
+45-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:22:22-77
+46    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+46-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:46:5-81
+46-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:46:22-78
+47    <uses-permission android:name="android.permission.BLUETOOTH" />
+47-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:47:5-68
+47-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:47:22-65
+48    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+48-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:48:5-74
+48-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:48:22-71
+49    <uses-permission android:name="android.permission.START_ANY_ACTIVITY" />
+49-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:49:5-77
+49-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:49:22-74
+50    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+50-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:22:5-80
+50-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:22:22-77
+51
+52    <protected-broadcast android:name="mtk.intent.volume.status" />
+52-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:51:5-68
+52-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:51:26-65
+53    <protected-broadcast android:name="com.mediatek.closeAudio" />
+53-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:51:5-68
+53-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:51:26-65
+54    <protected-broadcast android:name="mtk.intent.action.exit.android.setting" />
+54-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:51:5-68
+54-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:51:26-65
+55    <protected-broadcast android:name="com.android.tv.settings.SYNC_CONFIG_VALUE" />
+55-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:51:5-68
+55-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:51:26-65
+56    <protected-broadcast android:name="mtk.intent.action.dolby.exit" />
+56-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:51:5-68
+56-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:51:26-65
+57
+58    <supports-screens android:xlargeScreens="true" />
+58-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:58:5-54
+58-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:58:23-51
+59
+60    <uses-feature
+60-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:59:5-85
+61        android:name="android.software.leanback"
+61-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:59:19-59
+62        android:required="true" />
+62-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:59:60-83
+63    <uses-feature android:name="android.hardware.usb.host" />
+63-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:60:5-62
+63-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:60:19-59
+64    <uses-feature
+64-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:61:5-63:36
+65        android:name="android.hardware.touchscreen"
+65-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:62:9-52
+66        android:required="false" />
+66-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:63:9-33
+67
+68    <queries>
+68-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:65:5-69:15
+69        <intent>
+69-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:66:9-68:18
+70            <action android:name="android.intent.action.TTS_SERVICE" />
+70-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:67:9-67
+70-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:67:17-65
+71        </intent>
+72    </queries>
+73
+74    <uses-feature
+74-->[com.alphamovie.library:alpha-movie:1.2.1] /home/furkan/.gradle/caches/transforms-3/df5f40d58c783ba8de9227c2f611b0a8/transformed/alpha-movie-1.2.1/AndroidManifest.xml:11:5-13:35
+75        android:glEsVersion="0x00020000"
+75-->[com.alphamovie.library:alpha-movie:1.2.1] /home/furkan/.gradle/caches/transforms-3/df5f40d58c783ba8de9227c2f611b0a8/transformed/alpha-movie-1.2.1/AndroidManifest.xml:12:9-41
+76        android:required="true" />
+76-->[com.alphamovie.library:alpha-movie:1.2.1] /home/furkan/.gradle/caches/transforms-3/df5f40d58c783ba8de9227c2f611b0a8/transformed/alpha-movie-1.2.1/AndroidManifest.xml:13:9-32
+77
+78    <supports-gl-texture android:name="GL_OES_compressed_ETC1_RGB8_texture" />
+78-->[com.alphamovie.library:alpha-movie:1.2.1] /home/furkan/.gradle/caches/transforms-3/df5f40d58c783ba8de9227c2f611b0a8/transformed/alpha-movie-1.2.1/AndroidManifest.xml:15:5-79
+78-->[com.alphamovie.library:alpha-movie:1.2.1] /home/furkan/.gradle/caches/transforms-3/df5f40d58c783ba8de9227c2f611b0a8/transformed/alpha-movie-1.2.1/AndroidManifest.xml:15:26-76
+79    <supports-gl-texture android:name="GL_OES_compressed_paletted_texture" /> <!-- To allow starting foreground services on Android P+ - https://developer.android.com/preview/behavior-changes#fg-svc -->
+79-->[com.alphamovie.library:alpha-movie:1.2.1] /home/furkan/.gradle/caches/transforms-3/df5f40d58c783ba8de9227c2f611b0a8/transformed/alpha-movie-1.2.1/AndroidManifest.xml:16:5-78
+79-->[com.alphamovie.library:alpha-movie:1.2.1] /home/furkan/.gradle/caches/transforms-3/df5f40d58c783ba8de9227c2f611b0a8/transformed/alpha-movie-1.2.1/AndroidManifest.xml:16:26-75
+80    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+80-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:26:5-77
+80-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:26:22-74
+81
+82    <application
+82-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:71:5-372:19
+83        android:name="com.mediatek.wwtv.mediaplayer.util.MmpApp"
+83-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:72:9-36
+84        android:allowBackup="true"
+84-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:73:9-35
+85        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+85-->[com.android.support:support-compat:28.0.0] /home/furkan/.gradle/caches/transforms-3/b31119689ab9cc24b5d6fe90e044e2c3/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+86        android:banner="@drawable/mmp_logo"
+86-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:74:9-44
+87        android:debuggable="true"
+88        android:extractNativeLibs="false"
+89        android:icon="@drawable/icon"
+89-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:75:9-38
+90        android:label="@string/app_name"
+90-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:76:9-41
+91        android:largeHeap="true"
+91-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:81:9-33
+92        android:logo="@drawable/mmp_logo"
+92-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:77:9-42
+93        android:persistent="false"
+93-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:79:9-35
+94        android:requestLegacyExternalStorage="true"
+94-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:83:9-52
+95        android:supportsRtl="true"
+95-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:78:9-35
+96        android:testOnly="true"
+97        android:theme="@style/Theme.Leanback"
+97-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:80:9-46
+98        android:usesCleartextTraffic="true" >
+98-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:82:9-44
+99
+100        <!-- MMP activity -->
+101        <activity
+101-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:87:9-101:20
+102            android:name="com.mediatek.wwtv.mediaplayer.mmp.MediaMainActivity"
+102-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:88:13-79
+103            android:configChanges="keyboardHidden|orientation|keyboard|screenSize|screenLayout"
+103-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:93:13-96
+104            android:hardwareAccelerated="true"
+104-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:89:13-47
+105            android:label="@string/app_name"
+105-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:90:13-45
+106            android:launchMode="singleTask"
+106-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:92:13-44
+107            android:theme="@style/Theme.Leanback" >
+107-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:91:13-50
+108            <intent-filter>
+108-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:95:13-100:29
+109                <action android:name="android.intent.action.MAIN" />
+109-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:96:17-69
+109-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:96:25-66
+110
+111                <category android:name="android.intent.category.DEFAULT" />
+111-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:17-76
+111-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:27-73
+112                <category android:name="android.intent.category.LAUNCHER" />
+112-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:98:17-77
+112-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:98:27-74
+113                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+113-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:99:17-86
+113-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:99:27-83
+114            </intent-filter>
+115        </activity>
+116
+117        <receiver
+117-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:102:9-106:20
+118            android:name="com.mediatek.wwtv.mediaplayer.UsbReceiver"
+118-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:102:19-46
+119            android:enabled="true" >
+119-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:102:47-69
+120            <intent-filter>
+120-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:103:13-105:29
+121                <action android:name="android.intent.action.MEDIA_MOUNTED" />
+121-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:104:17-78
+121-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:104:25-75
+122            </intent-filter>
+123        </receiver>
+124
+125        <!--
+126        MENU activity
+127        <activity android:name="com.mediatek.wwtv.mediaplayer.menu.MenuMain"
+128            android:label="@string/menu_interface_name"
+129            android:screenOrientation="landscape" android:windowSoftInputMode="stateAlwaysHidden|stateHidden"
+130            android:theme="@style/menuMain_Transparent" android:configChanges="locale|layoutDirection|keyboard|keyboardHidden">
+131        </activity>
+132        <activity android:name="com.mediatek.wwtv.mediaplayer.mmp.DmrActivity"
+133            android:hardwareAccelerated="false"
+134            android:label="@string/app_name" android:theme="@style/AnimationTheme" />
+135        <activity android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.ShowInfoActivity"
+136            android:launchMode="singleTask" android:theme="@style/AnimationTheme">
+137            <intent-filter>
+138                <action android:name="android.intent.action.VIEW" />
+139                <category android:name="android.intent.category.DEFAULT" />
+140                <data android:mimeType="*/files" />
+141            </intent-filter>
+142        </activity>
+143        <activity android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.PhotoPlayActivity"
+144            android:theme="@style/AnimationTheme" android:configChanges="keyboard|keyboardHidden"
+145                  android:hardwareAccelerated="false">
+146         </activity>
+147        <activity android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.PhotoPlayDmrActivity"
+148            android:theme="@style/AnimationTheme" android:configChanges="keyboard|keyboardHidden"
+149                  android:hardwareAccelerated="false">
+150               <intent-filter>
+151                <action android:name="android.intent.action.mmp.photo" />
+152                <category android:name="android.intent.category.DEFAULT"/>
+153            </intent-filter>
+154        </activity>
+155        <activity android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.MusicPlayActivity"
+156            android:theme="@style/AnimationTheme" android:configChanges="keyboard|keyboardHidden">
+157
+158        </activity>
+159        <activity android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.MusicPlayDmrActivity"
+160            android:theme="@style/AnimationTheme" android:configChanges="keyboard|keyboardHidden">
+161             <intent-filter>
+162                <action android:name="android.intent.action.mmp.music" />
+163                <category android:name="android.intent.category.DEFAULT"/>
+164            </intent-filter>
+165        </activity>
+166        <activity android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.VideoPlayActivity"
+167            android:theme="@style/AnimationTheme" android:configChanges="keyboard|keyboardHidden">
+168        </activity>
+169        <activity android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.VideoPlayDmrActivity"
+170            android:theme="@style/AnimationTheme" android:configChanges="keyboard|keyboardHidden">
+171                        <intent-filter>
+172                <action android:name="android.intent.action.mmp.video" />
+173                <category android:name="android.intent.category.DEFAULT"/>
+174            </intent-filter>
+175        </activity>
+176        <activity android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.TextPlayActivity"
+177            android:theme="@style/AnimationTheme" android:configChanges="keyboard|keyboardHidden"></activity>
+178
+179        <activity android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.Photo3DPlayActivity"
+180            android:theme="@style/AnimationThemePhoto" android:configChanges="keyboard|keyboardHidden"></activity>
+181        <activity android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.Photo4K2KPlayActivity"
+182            android:theme="@style/AnimationThemePhoto" android:configChanges="keyboard|keyboardHidden"
+183            android:hardwareAccelerated="true"></activity>
+184        <activity android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.Photo4K2KPlayDmrActivity"
+185            android:theme="@style/AnimationThemePhoto" android:configChanges="keyboard|keyboardHidden"
+186            android:hardwareAccelerated="true">
+187            <intent-filter>
+188                <action android:name="android.intent.action.mmp.4k2kphoto" />
+189                <category android:name="android.intent.category.DEFAULT"/>
+190            </intent-filter>
+191        </activity>
+192
+193        <activity android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.MtkFilesGridActivity"
+194            android:theme="@style/AnimationTheme" android:launchMode="singleTask"
+195            android:configChanges="keyboard|keyboardHidden"></activity>
+196        <activity android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.MtkFilesListActivity"
+197            android:launchMode="singleTask" android:theme="@style/AnimationTheme"
+198            android:configChanges="keyboard|keyboardHidden"></activity>
+199        <activity android:name="com.mediatek.wwtv.mediaplayer.mmp.gamekit.filebrowse.MtkFileFlimBrowseActivity" android:launchMode="singleTask"
+200             android:theme="@style/AnimationTheme"
+201             android:screenOrientation="landscape" android:configChanges="keyboard|keyboardHidden">
+202        </activity>
+203
+204
+205
+206        <activity android:name="com.mediatek.wwtv.mediaplayer.capturelogo.CaptureLogoActivity"
+207            android:label="@string/app_name" android:theme="@style/CaptureLogoTheme" />
+208
+209
+210
+211        <service android:name="com.mediatek.record.RecordService" />
+212        <receiver android:name="com.mediatek.wwtv.mediaplayer.timeshift_pvr.manager.PowerReceiver">
+213            <intent-filter>
+214                <action android:name="android.intent.action.ACTION_PREPARE_SHUTDOWN" />
+215            </intent-filter>
+216        </receiver>
+217
+218        <activity
+219            android:name="com.mediatek.wwtv.mediaplayer.timeshift_pvr.controller.SchedulePvrActivity"
+220            android:configChanges="locale"
+221            android:exported="false"
+222            android:label="@string/title_activity_schedule_pvr"
+223            android:launchMode="singleTop"
+224            android:theme="@style/Transparent" >
+225            <intent-filter>
+226                <action android:name="com.mediatek.wwtv.mediaplayer.schedulepvr.activity" />
+227
+228                <category android:name="android.intent.category.DEFAULT" />
+229            </intent-filter>
+230        </activity>
+231
+232
+233
+234
+235        <activity android:name="com.mediatek.wwtv.mediaplayer.vssdemo.VssDemoActivity"
+236            android:hardwareAccelerated="false"
+237            android:label="@string/app_name" android:theme="@style/menuMain_Transparent">
+238            <intent-filter>
+239                <action android:name="android.intent.action.VssDemo" />
+240                <category android:name="android.intent.category.DEFAULT" />
+241            </intent-filter>
+242        </activity>
+243
+244        <service android:name="com.mediatek.mmpcm.audioimpl.PlaybackService" />
+245        <service android:name="com.mediatek.netcm.wifi.WifiDevService"/>
+246        <service android:name="com.mediatek.record.RecordService" />
+247
+248
+249
+250
+251
+252
+253        <receiver
+254            android:name="com.mediatek.wwtv.mediaplayer.oem.AndroidHomeScreenBrdReceiver" >
+255            <intent-filter>
+256                <action android:name="com.google.android.leanbacklauncher.action.PARTNER_CUSTOMIZATION" />
+257            </intent-filter>
+258        </receiver>
+259        -->
+260        <!-- Media Player -->
+261        <activity
+261-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:244:9-254:20
+262            android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.PhotoPlayActivity"
+262-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:245:13-90
+263            android:configChanges="keyboard|keyboardHidden"
+263-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:246:13-60
+264            android:hardwareAccelerated="false"
+264-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:247:13-48
+265            android:theme="@style/AnimationTheme" >
+265-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:248:13-50
+266            <intent-filter>
+266-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:249:13-253:29
+267                <action android:name="android.mtk.intent.action.mediaplayer.photo" />
+267-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:250:17-86
+267-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:250:25-83
+268
+269                <category android:name="android.intent.category.DEFAULT" />
+269-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:17-76
+269-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:27-73
+270            </intent-filter>
+271        </activity>
+272        <activity
+272-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:255:9-264:20
+273            android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.MusicPlayActivity"
+273-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:256:13-90
+274            android:configChanges="keyboard|keyboardHidden"
+274-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:257:13-60
+275            android:theme="@style/AnimationTheme" >
+275-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:258:13-50
+276            <intent-filter>
+276-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:259:13-263:29
+277                <action android:name="android.mtk.intent.action.mediaplayer.music" />
+277-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:260:17-86
+277-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:260:25-83
+278
+279                <category android:name="android.intent.category.DEFAULT" />
+279-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:17-76
+279-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:27-73
+280            </intent-filter>
+281        </activity>
+282        <activity
+282-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:265:9-277:20
+283            android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.VideoPlayActivity"
+283-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:266:13-90
+284            android:configChanges="keyboard|keyboardHidden|screenSize|smallestScreenSize|screenLayout|orientation|layoutDirection"
+284-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:267:13-131
+285            android:launchMode="singleTask"
+285-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:269:13-44
+286            android:resizeableActivity="true"
+286-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:270:13-46
+287            android:taskAffinity="com.mediatek.wwtv.mediaplayer.mmp.multimedia.VideoPlayActivity"
+287-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:271:13-98
+288            android:theme="@style/AnimationTheme" >
+288-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:268:13-50
+289            <intent-filter>
+289-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:272:13-276:29
+290                <action android:name="android.mtk.intent.action.mediaplayer.video" />
+290-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:273:17-86
+290-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:273:25-83
+291
+292                <category android:name="android.intent.category.DEFAULT" />
+292-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:17-76
+292-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:27-73
+293            </intent-filter>
+294        </activity>
+295        <activity
+295-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:278:9-287:20
+296            android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.TextPlayActivity"
+296-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:279:13-89
+297            android:configChanges="keyboard|keyboardHidden"
+297-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:280:13-60
+298            android:theme="@style/AnimationTheme" >
+298-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:281:13-50
+299            <intent-filter>
+299-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:282:13-286:29
+300                <action android:name="android.mtk.intent.action.mediaplayer.text" />
+300-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:283:17-85
+300-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:283:25-82
+301
+302                <category android:name="android.intent.category.DEFAULT" />
+302-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:17-76
+302-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:27-73
+303            </intent-filter>
+304        </activity>
+305        <activity
+305-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:288:9-298:20
+306            android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.Photo4K2KPlayActivity"
+306-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:289:13-94
+307            android:configChanges="keyboard|keyboardHidden"
+307-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:290:13-60
+308            android:hardwareAccelerated="true"
+308-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:291:13-47
+309            android:theme="@style/AnimationThemePhoto" >
+309-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:292:13-55
+310            <intent-filter>
+310-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:293:13-297:29
+311                <action android:name="android.mtk.intent.action.mediaplayer.4k2kphoto" />
+311-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:294:17-90
+311-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:294:25-87
+312
+313                <category android:name="android.intent.category.DEFAULT" />
+313-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:17-76
+313-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:27-73
+314            </intent-filter>
+315        </activity>
+316        <activity
+316-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:299:9-311:20
+317            android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.image.ImagePlayerActivity"
+317-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:300:13-98
+318            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|locale"
+318-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:304:13-90
+319            android:launchMode="singleTask"
+319-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:301:13-44
+320            android:screenOrientation="landscape"
+320-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:302:13-50
+321            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+321-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:303:13-71
+322            <intent-filter>
+322-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:305:13-310:29
+323                <action android:name="android.mtk.intent.action.mediaplayer.ImagePlayer" />
+323-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:306:17-92
+323-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:306:25-89
+324
+325                <category android:name="android.intent.category.DEFAULT" />
+325-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:17-76
+325-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:27-73
+326
+327                <data android:scheme="http" />
+327-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:308:17-46
+327-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:308:23-44
+328                <data android:scheme="https" />
+328-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:308:17-46
+328-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:308:23-44
+329            </intent-filter>
+330        </activity>
+331
+332        <!-- DMR Media Player -->
+333        <!-- File browse Player -->
+334        <activity
+334-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:315:9-324:20
+335            android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.MtkFilesGridActivity"
+335-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:316:13-93
+336            android:configChanges="keyboard|keyboardHidden"
+336-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:317:13-60
+337            android:launchMode="singleTask"
+337-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:318:13-44
+338            android:theme="@style/AnimationTheme" >
+338-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:319:13-50
+339            <intent-filter>
+339-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:320:13-323:29
+340                <action android:name="android.mtk.intent.action.mediaplayer.grid" />
+340-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:321:17-85
+340-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:321:25-82
+341
+342                <category android:name="android.intent.category.DEFAULT" />
+342-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:17-76
+342-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:27-73
+343            </intent-filter>
+344        </activity>
+345        <activity
+345-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:325:9-335:20
+346            android:name="com.mediatek.wwtv.mediaplayer.mmp.multimedia.MtkFilesListActivity"
+346-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:326:13-93
+347            android:configChanges="keyboard|keyboardHidden"
+347-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:327:13-60
+348            android:launchMode="singleTask"
+348-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:328:13-44
+349            android:theme="@style/AnimationTheme" >
+349-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:329:13-50
+350            <intent-filter>
+350-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:330:13-334:29
+351                <action android:name="android.mtk.intent.action.mediaplayer.list" />
+351-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:331:17-85
+351-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:331:25-82
+352
+353                <category android:name="android.intent.category.DEFAULT" />
+353-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:17-76
+353-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:27-73
+354            </intent-filter>
+355        </activity>
+356        <activity
+356-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:336:9-348:20
+357            android:name="com.mediatek.wwtv.mediaplayer.setting.SettingActivity"
+357-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:337:13-81
+358            android:configChanges="locale|layoutDirection|keyboard|keyboardHidden"
+358-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:338:13-83
+359            android:label="@string/menu_interface_name"
+359-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:339:13-56
+360            android:screenOrientation="landscape"
+360-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:340:13-50
+361            android:theme="@style/menuMain_Transparent"
+361-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:341:13-56
+362            android:windowSoftInputMode="stateAlwaysHidden|stateHidden" >
+362-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:342:13-72
+363            <intent-filter>
+363-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:343:13-347:29
+364                <action android:name="android.mtk.intent.action.mediaplayer.setting" />
+364-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:344:17-88
+364-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:344:25-85
+365
+366                <category android:name="android.intent.category.DEFAULT" />
+366-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:17-76
+366-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:27-73
+367            </intent-filter>
+368        </activity>
+369        <activity
+369-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:350:9-362:20
+370            android:name="com.mediatek.wwtv.mediaplayer.setting.NetSettingActivity"
+370-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:351:13-84
+371            android:configChanges="locale|layoutDirection|keyboard|keyboardHidden"
+371-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:352:13-83
+372            android:label="@string/menu_interface_name"
+372-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:353:13-56
+373            android:screenOrientation="landscape"
+373-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:354:13-50
+374            android:theme="@style/menuMain_Transparent"
+374-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:355:13-56
+375            android:windowSoftInputMode="stateAlwaysHidden|stateHidden" >
+375-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:356:13-72
+376            <intent-filter>
+376-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:357:13-361:29
+377                <action android:name="android.mtk.intent.action.mediaplayer.netsetting" />
+377-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:358:17-91
+377-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:358:25-88
+378
+379                <category android:name="android.intent.category.DEFAULT" />
+379-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:17-76
+379-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:27-73
+380            </intent-filter>
+381        </activity>
+382
+383        <receiver android:name="com.mediatek.wwtv.util.BootBroadcastReceiver" >
+383-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:364:9-368:20
+383-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:364:19-78
+384            <intent-filter>
+384-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:365:13-367:29
+385                <action android:name="android.mediatek.intent.logcattousb" />
+385-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:366:17-78
+385-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:366:25-75
+386            </intent-filter>
+387        </receiver>
+388
+389        <service android:name="com.mediatek.wwtv.mediaplayer.mmpcm.audioimpl.PlaybackService" />
+389-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:370:9-97
+389-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:370:18-94
+390
+391        <uses-library android:name="javax.obex" />
+391-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:371:9-51
+391-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:371:23-48
+392
+393        <provider
+393-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:29:9-37:20
+394            android:name="leakcanary.internal.LeakCanaryFileProvider"
+394-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:30:13-70
+395            android:authorities="com.squareup.leakcanary.fileprovider.com.arcelik.ArcelikMediaPlayer"
+395-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:31:13-88
+396            android:exported="false"
+396-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:32:13-37
+397            android:grantUriPermissions="true" >
+397-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:33:13-47
+398            <meta-data
+398-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:34:13-36:66
+399                android:name="android.support.FILE_PROVIDER_PATHS"
+399-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:35:17-67
+400                android:resource="@xml/leak_canary_file_paths" />
+400-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:36:17-63
+401        </provider>
+402
+403        <activity
+403-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:39:9-70:20
+404            android:name="leakcanary.internal.activity.LeakActivity"
+404-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:40:13-69
+405            android:exported="true"
+405-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:41:13-36
+406            android:icon="@mipmap/leak_canary_icon"
+406-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:42:13-52
+407            android:label="@string/leak_canary_display_activity_label"
+407-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:43:13-71
+408            android:taskAffinity="com.squareup.leakcanary.com.arcelik.ArcelikMediaPlayer"
+408-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:44:13-76
+409            android:theme="@style/leak_canary_LeakCanary.Base" >
+409-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:45:13-63
+410            <intent-filter android:label="@string/leak_canary_import_hprof_file" >
+410-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:46:13-69:29
+410-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:46:28-81
+411                <action android:name="android.intent.action.VIEW" />
+411-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:47:17-69
+411-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:47:25-66
+412
+413                <category android:name="android.intent.category.DEFAULT" />
+413-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:17-76
+413-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:97:27-73
+414                <category android:name="android.intent.category.BROWSABLE" />
+414-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:50:17-78
+414-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:50:27-75
+415
+416                <data android:scheme="file" />
+416-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:308:17-46
+416-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:308:23-44
+417                <data android:scheme="content" />
+417-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:308:17-46
+417-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:308:23-44
+418                <data android:mimeType="*/*" />
+418-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:308:17-46
+419                <data android:host="*" />
+419-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:308:17-46
+420                <data android:pathPattern=".*\\.hprof" />
+420-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:308:17-46
+421                <data android:pathPattern=".*\\..*\\.hprof" />
+421-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:308:17-46
+422                <data android:pathPattern=".*\\..*\\..*\\.hprof" />
+422-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:308:17-46
+423                <data android:pathPattern=".*\\..*\\..*\\..*\\.hprof" />
+423-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:308:17-46
+424                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\.hprof" />
+424-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:308:17-46
+425                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\.hprof" />
+425-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:308:17-46
+426                <data android:pathPattern=".*\\..*\\..*\\..*\\..*\\..*\\..*\\.hprof" />
+426-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:308:17-46
+427                <!--
+428            Since hprof isn't a standard MIME type, we have to declare such patterns.
+429            Most file providers will generate URIs including their own package name,
+430            which contains `.` characters that must be explicitly escaped in pathPattern.
+431            @see https://stackoverflow.com/a/31028507/703646
+432                -->
+433            </intent-filter>
+434        </activity>
+435
+436        <activity-alias
+436-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:72:9-89:26
+437            android:name="leakcanary.internal.activity.LeakLauncherActivity"
+437-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:73:13-77
+438            android:banner="@drawable/leak_canary_tv_icon"
+438-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:74:13-59
+439            android:enabled="@bool/leak_canary_add_launcher_icon"
+439-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:75:13-66
+440            android:exported="true"
+440-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:76:13-36
+441            android:icon="@mipmap/leak_canary_icon"
+441-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:77:13-52
+442            android:label="@string/leak_canary_display_activity_label"
+442-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:78:13-71
+443            android:targetActivity="leakcanary.internal.activity.LeakActivity"
+443-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:79:13-79
+444            android:taskAffinity="com.squareup.leakcanary.com.arcelik.ArcelikMediaPlayer"
+444-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:80:13-76
+445            android:theme="@style/leak_canary_LeakCanary.Base" >
+445-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:81:13-63
+446            <intent-filter>
+446-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:82:13-88:29
+447                <action android:name="android.intent.action.MAIN" />
+447-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:96:17-69
+447-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:96:25-66
+448
+449                <category android:name="android.intent.category.LAUNCHER" />
+449-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:98:17-77
+449-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:98:27-74
+450                <!-- Android TV launcher intent -->
+451                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+451-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:99:17-86
+451-->/home/furkan/Projects/ArMedia/ArcelikMediaPlayer/app/src/main/AndroidManifest.xml:99:27-83
+452            </intent-filter>
+453        </activity-alias>
+454
+455        <activity
+455-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:91:9-97:68
+456            android:name="leakcanary.internal.RequestStoragePermissionActivity"
+456-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:92:13-80
+457            android:excludeFromRecents="true"
+457-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:93:13-46
+458            android:icon="@mipmap/leak_canary_icon"
+458-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:94:13-52
+459            android:label="@string/leak_canary_storage_permission_activity_label"
+459-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:95:13-82
+460            android:taskAffinity="com.squareup.leakcanary.com.arcelik.ArcelikMediaPlayer"
+460-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:96:13-76
+461            android:theme="@style/leak_canary_Theme.Transparent" />
+461-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:97:13-65
+462
+463        <receiver android:name="leakcanary.internal.NotificationReceiver" />
+463-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:99:9-77
+463-->[com.squareup.leakcanary:leakcanary-android-core:2.8.1] /home/furkan/.gradle/caches/transforms-3/7ee07d13cee980f67a6b8bf7d04d7252/transformed/leakcanary-android-core-2.8.1/AndroidManifest.xml:99:19-74
+464
+465        <provider
+465-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.8.1] /home/furkan/.gradle/caches/transforms-3/a039d42f044defdb6627c32ff4e2d94f/transformed/leakcanary-object-watcher-android-2.8.1/AndroidManifest.xml:8:9-12:40
+466            android:name="leakcanary.internal.MainProcessAppWatcherInstaller"
+466-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.8.1] /home/furkan/.gradle/caches/transforms-3/a039d42f044defdb6627c32ff4e2d94f/transformed/leakcanary-object-watcher-android-2.8.1/AndroidManifest.xml:9:13-78
+467            android:authorities="com.arcelik.ArcelikMediaPlayer.leakcanary-installer"
+467-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.8.1] /home/furkan/.gradle/caches/transforms-3/a039d42f044defdb6627c32ff4e2d94f/transformed/leakcanary-object-watcher-android-2.8.1/AndroidManifest.xml:10:13-72
+468            android:enabled="@bool/leak_canary_watcher_auto_install"
+468-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.8.1] /home/furkan/.gradle/caches/transforms-3/a039d42f044defdb6627c32ff4e2d94f/transformed/leakcanary-object-watcher-android-2.8.1/AndroidManifest.xml:11:13-69
+469            android:exported="false" />
+469-->[com.squareup.leakcanary:leakcanary-object-watcher-android:2.8.1] /home/furkan/.gradle/caches/transforms-3/a039d42f044defdb6627c32ff4e2d94f/transformed/leakcanary-object-watcher-android-2.8.1/AndroidManifest.xml:12:13-37
+470        <provider
+470-->[com.squareup.leakcanary:plumber-android:2.8.1] /home/furkan/.gradle/caches/transforms-3/420e0d0490de01e58a657959c0ad6d60/transformed/plumber-android-2.8.1/AndroidManifest.xml:8:9-12:40
+471            android:name="leakcanary.internal.PlumberInstaller"
+471-->[com.squareup.leakcanary:plumber-android:2.8.1] /home/furkan/.gradle/caches/transforms-3/420e0d0490de01e58a657959c0ad6d60/transformed/plumber-android-2.8.1/AndroidManifest.xml:9:13-64
+472            android:authorities="com.arcelik.ArcelikMediaPlayer.plumber-installer"
+472-->[com.squareup.leakcanary:plumber-android:2.8.1] /home/furkan/.gradle/caches/transforms-3/420e0d0490de01e58a657959c0ad6d60/transformed/plumber-android-2.8.1/AndroidManifest.xml:10:13-69
+473            android:enabled="@bool/leak_canary_plumber_auto_install"
+473-->[com.squareup.leakcanary:plumber-android:2.8.1] /home/furkan/.gradle/caches/transforms-3/420e0d0490de01e58a657959c0ad6d60/transformed/plumber-android-2.8.1/AndroidManifest.xml:11:13-69
+474            android:exported="false" />
+474-->[com.squareup.leakcanary:plumber-android:2.8.1] /home/furkan/.gradle/caches/transforms-3/420e0d0490de01e58a657959c0ad6d60/transformed/plumber-android-2.8.1/AndroidManifest.xml:12:13-37
+475    </application>
+476
+477</manifest>

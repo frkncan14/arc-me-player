@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string msgid="9079948768207079095" name="mmp_menu">"Menú"</string>
+<string msgid="8373528614821710603" name="mmp_menu_sort">"Ordenar"</string>
+<string msgid="7324251596256819138" name="mmp_menu_mediatype">"Tipo de medio"</string>
+<string msgid="2613417042892386301" name="mmp_menu_thumb">"Tamaño de miniatura"</string>
+<string msgid="7728066670652565778" name="mmp_menu_copy">"Copiar"</string>
+<string msgid="1289836061276427065" name="mmp_menu_paste">"Pegar"</string>
+<string msgid="8911245550314385994" name="mmp_menu_delete">"Eliminar"</string>
+<string msgid="4965264343654944343" name="mmp_menu_recur">"Analizador recurrente"</string>
+<string msgid="7112174768461191390" name="mmp_menu_not_recur">"Analizador normal"</string>
+<string msgid="1214517932766614549" name="mmp_menu_photoframe">"Marco de fotos"</string>
+<string msgid="7297221471059815216" name="mmp_menu_photo_frame">"Marco de fotos añadido"</string>
+<string msgid="544799819593204858" name="mmp_menu_play">"Reproducir"</string>
+<string msgid="2009629214475280978" name="mmp_menu_pause">"Pausar"</string>
+<string msgid="7258120466270016557" name="mmp_menu_repeat">"Repetir"</string>
+<string msgid="3397849470999515065" name="mmp_menu_shuffle">"Reproducir aleat."</string>
+<string msgid="3457072780002542559" name="mmp_menu_duration">"Duración"</string>
+<string msgid="1095076262850741888" name="mmp_menu_effect">"Efecto"</string>
+<string msgid="4691897570336226826" name="mmp_menu_showinfo">"Mostrar información"</string>
+<string msgid="7986960666934851018" name="mmp_menu_frame">"Imagen de marco de fotos"</string>
+<string msgid="8190003337362481311" name="mmp_menu_rotate">"Girar"</string>
+<string msgid="4983366475199077876" name="mmp_menu_3d_photo">"Foto 3D"</string>
+<string msgid="7054330190938975189" name="mmp_menu_display">"Mostrar línea"</string>
+<string msgid="100700072644603332" name="mmp_menu_timeoffset">"Compensación horaria"</string>
+<string msgid="1550879051107028343" name="mmp_menu_encoding">"Codificación"</string>
+<string msgid="4868172328224771042" name="mmp_menu_picturemode">"Modo de imagen"</string>
+<string msgid="4412352992234044423" name="mmp_menu_screenmode">"Modo de pantalla"</string>
+<string msgid="7375862916728883987" name="mmp_menu_font">"Fuente"</string>
+<string msgid="2228124380030616200" name="mmp_menu_size">"Tamaño"</string>
+<string msgid="4128151098473753722" name="mmp_menu_style">"Estilo"</string>
+<string msgid="2136070988230279780" name="mmp_menu_color">"Color"</string>
+<string msgid="8666017604362763396" name="mmp_menu_date">"Fecha"</string>
+<string msgid="812493345015711141" name="mmp_menu_name">"Nombre"</string>
+<string msgid="2114499624068654079" name="mmp_menu_album">"Álbum"</string>
+<string msgid="2764300205206905274" name="mmp_menu_artist">"Artista"</string>
+<string msgid="263980932337808189" name="mmp_menu_genre">"Género"</string>
+<string msgid="1649143081737426246" name="mmp_menu_type">"Tipo"</string>
+<string msgid="7836919472204616006" name="mmp_menu_phototext">"Foto"</string>
+<string msgid="5387149570422271841" name="mmp_menu_music">"Música"</string>
+<string msgid="5189292319328786647" name="mmp_menu_video">"Vídeo"</string>
+<string msgid="5962796217247350807" name="mmp_menu_text">"Texto"</string>
+<string msgid="4105561830760841729" name="mmp_menu_small">"Pequeño"</string>
+<string msgid="7564524044246800587" name="mmp_menu_medium">"Medio"</string>
+<string msgid="5005608858465935364" name="mmp_menu_large">"Grande"</string>
+<string msgid="6864735135037376411" name="mmp_menu_onephotomode">"Modo de una foto"</string>
+<string msgid="7926890038540120590" name="mmp_menu_none">"Ninguno"</string>
+<string msgid="7788100339932357215" name="mmp_menu_repeatone">"Repetir uno"</string>
+<string msgid="6158142728959841974" name="mmp_menu_repeatall">"Repetir todo"</string>
+<string msgid="5629298854768064250" name="mmp_menu_shuffleoff">"Reproducción aleatoria desact."</string>
+<string msgid="308830560936676103" name="mmp_menu_shuffleon">"Reproducción aleatoria"</string>
+<string msgid="5777774655121984779" name="mmp_menu_short">"Corta"</string>
+<string msgid="3882136219055983996" name="mmp_menu_long">"Larga"</string>
+<string msgid="5285128498963238352" name="mmp_menu_1x">"1x"</string>
+<string msgid="5203852169875721932" name="mmp_menu_2x">"2x"</string>
+<string msgid="4526236448038226345" name="mmp_menu_4x">"4x"</string>
+<string msgid="7113502065311218484" name="mmp_menu_dissolve">"Disolver"</string>
+<string msgid="1484246629923871092" name="mmp_menu_wiperight">"Transición derecha"</string>
+<string msgid="2398173785822262445" name="mmp_menu_wipeleft">"Transición izquierda"</string>
+<string msgid="59996185178096696" name="mmp_menu_wipeup">"Transición arriba"</string>
+<string msgid="1719128764041925790" name="mmp_menu_wipedown">"Transición abajo"</string>
+<string msgid="7047199484148726413" name="mmp_menu_boxin">"Entrada cuadro"</string>
+<string msgid="6759124402362929260" name="mmp_menu_boxout">"Salida cuadro"</string>
+<string msgid="2389161930234842696" name="mmp_menu_random">"Aleatorio"</string>
+<string msgid="386038732335984329" name="mmp_menu_off">"Desactivar"</string>
+<string msgid="7431120586848806664" name="mmp_menu_singleline">"Una sola línea"</string>
+<string msgid="7052296904664940357" name="mmp_menu_multiline">"Varias líneas"</string>
+<string msgid="6817452675899749723" name="mmp_menu_auto">"Automático"</string>
+<string msgid="4876094705350753243" name="mmp_menu_userdefine">"Definido por el usuario"</string>
+<string msgid="1195420639323452586" name="mmp_menu_zoom">"Zoom"</string>
+<string msgid="7949610806181219455" name="mmp_menu_regular">"Mediana"</string>
+<string msgid="3823262772644701909" name="mmp_menu_italic">"Cursiva"</string>
+<string msgid="1573884329277707594" name="mmp_menu_bold">"Negrita"</string>
+<string msgid="6135759649381327350" name="mmp_menu_outline">"Negrita y cursiva"</string>
+<string msgid="8719113369246148681" name="mmp_menu_white">"Blanco"</string>
+<string msgid="5473608042810495615" name="mmp_menu_blue">"Azul"</string>
+<string msgid="4218204192222522501" name="mmp_menu_red">"Rojo"</string>
+<string msgid="34696038896883398" name="mmp_menu_green">"Verde"</string>
+<string msgid="5628264820914306931" name="mmp_menu_black">"Negro"</string>
+<string msgid="1348924294626050138" name="mmp_menu_lyricoptions">"Opciones de letra"</string>
+<string msgid="3018721062927128088" name="mmp_menu_showscore">"Mostrar espectro"</string>
+<string msgid="4381535154938875554" name="mmp_menu_hidescore">"Ocultar espectro"</string>
+<string msgid="8843390942428145152" name="mmp_photo">"Foto"</string>
+<string msgid="8706227639060679235" name="mmp_audio">"Música"</string>
+<string msgid="2680263982702698720" name="mmp_video">"Vídeo"</string>
+<string msgid="4077978808166924627" name="mmp_text">"Texto"</string>
+<string msgid="4407585001484425898" name="mmp_select">"Seleccionar"</string>
+<string msgid="8592845546999906622" name="mmp_input">"Intro"</string>
+<string msgid="6051283891356437825" name="mmp_exit">"Salir"</string>
+<string msgid="7299272765998117529" name="mmp_emptyfile">"La carpeta está vacía."</string>
+<string msgid="8603627514980705968" name="mmp_reutip">"Esta carpeta se está analizando. Espera..."</string>
+<string msgid="4444610414043102239" name="mmp_pop_zoomscale">"x"</string>
+<string msgid="7720981179637224588" name="mmp_info_album">"Álbum:"</string>
+<string msgid="3830902756642165426" name="mmp_info_orientation">"Orientación:"</string>
+<string msgid="6966050205975687821" name="mmp_info_artist">"Artista:"</string>
+<string msgid="8058742280848190551" name="mmp_info_name">"Nombre:"</string>
+<string msgid="4300927192893785690" name="mmp_info_date">"Fecha:"</string>
+<string msgid="959025658391753505" name="mmp_info_size">"Tamaño:"</string>
+<string msgid="4380397773389543174" name="mmp_info_next">"Siguiente:"</string>
+<string msgid="1267866496055028627" name="mmp_info_audio">"Audio:"</string>
+<string msgid="1297476777953501472" name="mmp_info_exposure">"Tiempo de exposición:"</string>
+<string msgid="2220709797456364777" name="mmp_info_fnumber">"Número f"</string>
+<string msgid="2062980080114642715" name="mmp_info_program">"Programa de exposición:"</string>
+<string msgid="991833052722703084" name="mmp_info_colorspace">"Espacio de color:"</string>
+<string msgid="7820876214484582645" name="mmp_info_title">"Título:"</string>
+<string msgid="2473418313212427139" name="mmp_info_genre">"Género:"</string>
+<string msgid="2941904149668986691" name="mmp_info_year">"Año:"</string>
+<string msgid="7689265303365835747" name="mmp_info_duration">"Duración:"</string>
+<string msgid="8050309676555265722" name="mmp_info_director">"Director:"</string>
+<string msgid="2260484851899108080" name="mmp_info_copyrght">"Derechos de autor:"</string>
+<string msgid="2276225818924525010" name="mmp_info_lastpage">"Última página"</string>
+<string msgid="6044269836515584059" name="mmp_info_nextpage">"Página siguiente"</string>
+<string msgid="2011077578197667092" name="mmp_info_nolrc">"Sin letra"</string>
+<string msgid="6373109875045173807" name="mmp_loading_tip">"Esta carpeta se está analizando. Espera..."</string>
+<string msgid="4038160189084155137" name="mmp_user_name">"Nombre de usuario"</string>
+<string msgid="52423781427686112" name="mmp_password">"Contraseña"</string>
+<string msgid="3987501643229207065" name="mmp_confirm">"Confirmar"</string>
+<string msgid="879524843720392844" name="mmp_vkb">"Entrada"</string>
+<string msgid="7246671616128389098" name="mmp_ok">"Aceptar"</string>
+<string msgid="3261313315531378417" name="mmp_cancel">"Cancelar"</string>
+<string msgid="1843731122426925591" name="mmp_login_failed_tip">"Nombre de usuario o contraseña incorrectos."</string>
+<string msgid="6189648564456332471" name="mmp_dlnaserver_disconnected">"El servidor DLNA está desconectado. Comprueba la red y el estado del servidor."</string>
+<string msgid="6500393214807298054" name="mmp_pvr_play_from_tv_cannot_pip">"La reproducción PVR no puede activar el modo PIP."</string>
+<string msgid="5562820685064587733" name="mmp_list_mode_cannot_pip">"El modo de lista de archivos no puede activar el modo PIP."</string>
+<string msgid="8583348774130086919" name="mmp_title_copy">"Copiando"</string>
+<string msgid="4771822119501444534" name="mmp_title_confirm_replace">"Confirmar sustitución de archivo"</string>
+<string msgid="8377725312373475404" name="mmp_title_confirm_delete">"Confirmar eliminación de archivos"</string>
+<string msgid="4808547807069922623" name="mmp_message_copy">"<xliff:g id="MMP_MESSAGE_COPY_ONE_XLI">%1$s</xliff:g>\nDe <xliff:g id="MMP_MESSAGE_COPY_TWO_XLI">%2$s</xliff:g>\na<xliff:g id="MMP_MESSAGE_COPY_THREE_XLI">%3$s</xliff:g>"</string>
+<string msgid="5868285892080714347" name="mmp_message_confirm_replace">"Esta carpeta ya contiene un archivo con el nombre\n<xliff:g id="MMP_MESSAGE_CONFIRM_REPLACE_XLI">%s</xliff:g>"</string>
+<string msgid="6777614659086530912" name="mmp_message_confirm_delete">"¿Seguro que quieres eliminar el archivo seleccionado?"</string>
+<string msgid="8825062653561586733" name="mmp_yes">"Sí"</string>
+<string msgid="2188249996394727534" name="mmp_yes_to_all">"Sí a todo"</string>
+<string msgid="6819583620403834086" name="mmp_no">"No"</string>
+<string msgid="7209687460094347177" name="mmp_capture_title">"Capturar logotipo"</string>
+<string msgid="824603266897705710" name="mmp_capture_confirm">"¿Quieres hacer una captura de pantalla?"</string>
+<string msgid="881397136260176005" name="mmp_toast_no_photoframe">"No hay ningún marco de fotos que reproducir"</string>
+<string msgid="1724158907378873072" name="mmp_before_pip_exit_dot_by_dot">"El modo de pantalla cambia a normal cuando se inicia el modo imagen en imagen."</string>
+<string msgid="632844846305154273" name="mmp_before_pip_zoom_1x">"El zoom cambia a normal cuando se inicia el modo imagen en imagen."</string>
+<string msgid="3746654153060516549" name="mmp_video_notsupport">"Códec de vídeo no compatible"</string>
+<string msgid="298426631612159434" name="mmp_audio_notsupport">"Formato de audio no compatible"</string>
+<string msgid="7278869886485261082" name="mmp_video_only">"Solo vídeo"</string>
+<string msgid="3684111810245692657" name="mmp_frame_photo_sleeptime">"Hora de suspensión"</string>
+<string msgid="1769167470574168506" name="mmp_video_stopresume">"Detener reanudación"</string>
+<string msgid="1102594345605622608" name="mmp_photo_type_notsupport">"Archivo no admitido"</string>
+<string msgid="5707789973312733102" name="mmp_lable_rorate">"Girar"</string>
+<string msgid="4243391745350656248" name="mmp_info_whitebalance">"Balance de blancos:"</string>
+<string msgid="5019160699386040694" name="mmp_info_make">"Fabricante de la cámara:"</string>
+<string msgid="2555791677451848012" name="mmp_info_model">"Modelo de la cámara:"</string>
+<string msgid="1482374643316448288" name="mmp_info_flash">"Flash:"</string>
+<string msgid="7185730465171519772" name="mmp_info_focallength">"Longitud focal:"</string>
+<string msgid="8682447848318300605" name="mmp_menu_pic_setting">"Configuración de imagen"</string>
+<string msgid="4297665618950944208" name="mmp_menu_audio_setting">"Configuración de audio"</string>
+<string msgid="1341976547098523497" name="mmp_menu_sound_setting">"Ajustes de sonido"</string>
+<string msgid="7808733987932045433" name="mmp_file_notsupport">"Archivo no admitido"</string>
+<string msgid="5351498401675171534" name="mmp_notsupport">"No compatible"</string>
+<string msgid="7212075520894633540" name="mmp_seek_notsupport">"Búsqueda no compatible"</string>
+<string msgid="6858087783268138488" name="mmp_step_notsupport">"Paso no admitido"</string>
+<string msgid="8285945520158433641" name="mmp_featue_notsupport">"Función no disponible"</string>
+<string msgid="7729296381668175272" name="mmp_buffer_not_enough">"El almacenamiento en búfer no es suficiente"</string>
+<string msgid="6634130010421915083" name="mmp_nodevice">"No hay ningún dispositivo conectado."</string>
+<string msgid="2771473755878694067" name="mmp_time_out">"El código de tiempo que has introducido es incorrecto.\nComprueba que sea inferior al tiempo total."</string>
+<string msgid="3689294857477023502" name="mmp_file_corrupt">"El archivo está dañado"</string>
+<string msgid="7959098173252455354" name="mmp_menu_mount_iso">"Montar el archivo ISO"</string>
+<string msgid="8948169787009591217" name="mmp_menu_unmount_iso">"Desconectar el dispositivo"</string>
+<string msgid="1073430028079692146" name="mmp_media_file_lost">"Dispositivo actual no conectado."</string>
+<string msgid="7436208224667913266" name="mmp_media_info_scrambled_audio_video_service">"Codificar vídeo y audio"</string>
+<string msgid="9128160029441897577" name="mmp_media_info_scrambled_audio_clear_video_service">"Codificar audio"</string>
+<string msgid="2572785485574211543" name="mmp_media_info_scrambled_audio_no_video_service">"Codificar audio (solo audio)"</string>
+<string msgid="7830438018396694250" name="mmp_media_info_scrambled_video_clear_audio_service">"Codificar vídeo"</string>
+<string msgid="854977936934627520" name="mmp_media_info_scrambled_video_no_audio_service">"Codificar vídeo (solo vídeo)"</string>
+<string msgid="675462032122703604" name="mmp_drm_register">"Tu dispositivo no tiene autorización para \nreproducir este vídeo protegido por Divx@."</string>
+<string msgid="130018121204117964" name="mmp_drm_register_expired">"El alquiler de Divx@ ha caducado"</string>
+<string msgid="1308738041895750904" name="mmp_drm_register_used">"El alquiler de Divx@ ha usado\n <xliff:g id="MMP_DRM_REGISTER_USED_XLI">%1$s</xliff:g> de <xliff:g id="MMP_DRM_REGISTER_USED_TWO_XLI">%2$s</xliff:g> visualizaciones"</string>
+<string msgid="4545823732483395837" name="mmp_drm_register_continue">"¿Quieres continuar?"</string>
+<string msgid="6437496733832500819" name="mmp_divx_title">"Título"</string>
+<string msgid="5306846019024910826" name="mmp_divx_edition">"Edición"</string>
+<string msgid="3487487752488508131" name="mmp_divx_chapter">"Capítulo"</string>
+<string msgid="7031672633853273745" name="mmp_divx_audioName">"Audio:"</string>
+<string msgid="904348339487006815" name="mmp_divx_subtitleName">"Subtítulo:"</string>
+<string msgid="1846715628857289261" name="mmp_dmr_starting">"Se está abriendo la función DMR."</string>
+<string msgid="4516534251149034263" name="mmp_dmr_started">"Se ha abierto la función DMR."</string>
+<string msgid="1069917251011513121" name="mmp_dmr_network_failed">"No se ha podido abrir la función DMR. La red no está disponible"</string>
+<string msgid="1998446749263931258" name="mmp_dmr_url_failed">"URL no válida"</string>
+<string msgid="2220959537681782417" name="mmp_wrong_psw">"Contraseña incorrecta. <xliff:g id="MMP_WRONG_PSW_ONE_XLI">%1$s</xliff:g> intentos en total. Lo has intentado <xliff:g id="MMP_WRONG_PSW_TWO_XLI">%2$s</xliff:g> veces. Vuelve a intentarlo."</string>
+<string msgid="445353399276221319" name="mmp_last_memory">"Última posición"</string>
+<string msgid="8257690755872409500" name="mmp_last_memory_time">"Hora"</string>
+<string msgid="4214666976622254352" name="mmp_last_memory_position">"Posición"</string>
+<string msgid="2811258922733489547" name="ci_menu_pin_correct">"¡Correcto!"</string>
+<string msgid="44306490349881239" name="ci_menu_pin_outoftry">"Has fallado tres veces"</string>
+<string msgid="2518565216632544676" name="mmp_buffering_tip">"El vídeo se está almacenando en búfer. Espera..."</string>
+<string msgid="2694538341761232347" name="audio_type_normal">"Normal"</string>
+<string msgid="2118182303039653332" name="audio_type_hearing_impaired">"Con discapacidad auditiva"</string>
+<string msgid="1123879394721652732" name="audio_type_visually_impaired">"Con discapacidad visual"</string>
+<string msgid="370608298755159880" name="audio_visually_speaker_on">"Activado"</string>
+<string msgid="9198344825777497057" name="audio_downmixmode_stereo">"Estéreo"</string>
+<string msgid="6252486888542859420" name="audio_downmixmode_auto_stereo">"Estéreo automático"</string>
+<string msgid="334719632751452503" name="audio_downmixmode_surround">"Envolvente"</string>
+<string msgid="5129848968977804299" name="nav_parent_psw">"Introduce tu contraseña"</string>
+<string msgid="1676194732557780029" name="mmp_change_mode">"Modo de navegación"</string>
+<string msgid="4197984410377941805" name="mmp_menu_picture_off">"Imagen desactivada"</string>
+<string msgid="7424577337890603197" name="mmp_menu_jump_time">"Buscar"</string>
+<string msgid="1573762708654838975" name="mmp_pop_repeat_tvsingle">"Una vez"</string>
+<string msgid="6018333824877204292" name="mmp_bt_mode_notsupport">"No se admite el modo BT"</string>
+<string msgid="3602706448625133614" name="mmp_menu_full_screen">"Pantalla completa"</string>
+<string msgid="6417694118168861647" name="mmp_menu_over_scan">"Área oculta"</string>
+<string msgid="6717942460780111286" name="mmp_menu_subtitle_encoding">"Codificación de subtítulos"</string>
+<string msgid="552336639790838524" name="mmp_sleeptime_lable">"Horario de suspensión:"</string>
+<string msgid="7290654328973000754" name="mmp_menu_audio">"Audio"</string>
+<string msgid="361057196557407981" name="mmp_no_devices_tips">"No se ha encontrado ningún dispositivo. Inserta un dispositivo o inténtalo de nuevo más tarde."</string>
+<string msgid="8392200579627394727" name="mmp_video_info_resolution">"Resolución:"</string>
+<string msgid="5161911583717273611" name="mmp_video_info_size">"Tamaño:"</string>
+<string msgid="7276989523119391715" name="mmp_video_info_bitrate">"Tasa de bits:"</string>
+<string msgid="6216504677173286907" name="mmp_video_info_last_Modified_date">"Fecha de última modificación:"</string>
+<string msgid="5406970534491698132" name="mmp_play_speed_notsupport_ff">"El avance rápido está desactivado en el modo de reproducción rápida"</string>
+<string msgid="5335593605293341055" name="mmp_play_speed_notsupport_fb">"El retroceso rápido está desactivado en el modo de reproducción rápida"</string>
+<string msgid="8078405319367563721" name="mmp_menu_play_speed">"Velocidad de reproducción"</string>
+<string msgid="2794517051734603832" name="mmp_seamless_mode">"Transición fluida"</string>
+<string msgid="6502962176792078529" name="mmp_seamless_mode_off">"Desactivado"</string>
+<string msgid="2680879271354894946" name="mmp_seamless_mode_on">"Activado"</string>
+<string msgid="2525882655804508677" name="mmp_menu_rotate_0">"rotación de 0 grados"</string>
+<string msgid="5499075283143867382" name="mmp_menu_rotate_90">"rotación de 90 grados"</string>
+<string msgid="828127129735548816" name="mmp_menu_rotate_180">"rotación de 180 grados"</string>
+<string msgid="9010954915556187744" name="mmp_menu_rotate_270">"rotación de 270 grados"</string>
+<string msgid="5678135140588088459" name="mmp_menu_wallpaper">"Configurar como fondo de pantalla"</string>
+<string msgid="4446097703965671221" name="mmp_menu_img_zoom_in">"Ampliar"</string>
+<string msgid="9026341167144546000" name="mmp_menu_img_zoom_out">"Reducir"</string>
+<string msgid="7337920113397012863" name="mmp_img_player_max_tip">"Proporción de escala al máximo."</string>
+<string msgid="4286863235386750909" name="mmp_img_player_min_tip">"Proporción de escala al mínimo."</string>
+<string msgid="7812511256832915936" name="mmp_img_player_photo_wallpaper">"Fondo de pantalla con fotos"</string>
+<string msgid="4696641526998650922" name="mmp_img_player_setting_wallpaper_plz_wait">"Espera, se está configurando el fondo de pantalla..."</string>
+<string msgid="3584202222258659321" name="mmp_img_player_setting_wallpaper">"El fondo de pantalla se está configurando..."</string>
+<string msgid="3594013303919654760" name="mmp_img_player_wallpaper_not_supported">"Fondo de pantalla no compatible"</string>
+<string msgid="1532417882851899990" name="mmp_img_player_can_not_decode">"Esta imagen no se puede decodificar."</string>
+<string msgid="5237697103906052112" name="mmp_img_player_decoding">"La imagen se está decodificando..."</string>
+<string msgid="251111120950935657" name="mmp_img_player_decode_failed">"No se ha podido decodificar la imagen."</string>
+<string msgid="5781151658958709239" name="mmp_img_player_gif_not_allow">"No funciona en modo de animación GIF"</string>
+<string msgid="1229810181937509638" name="mmp_img_player_scale_or_rotate_not_allow">"No funciona en modo de escala o de rotación"</string>
+<string msgid="563937068344863239" name="mmp_img_player_low_memory">"Queda poco espacio."</string>
+<string msgid="5945675696592056557" name="mmp_img_player_pan_success">"Se ha podido desplazar panorámicamente la imagen."</string>
+<string msgid="5872051943605585443" name="mmp_img_player_pan_failed">"No se ha podido desplazar panorámicamente la imagen."</string>
+<string msgid="2926828788120735833" name="mmp_img_player_pan_parameter_invalid">"Ajuste de desplazamiento panorámico de la imagen no válido."</string>
+<string msgid="8044505304152821864" name="mmp_img_player_file_not_support">"El archivo no es compatible"</string>
+<string msgid="1589759384473792147" name="mmp_img_player_zooming">"Ampliando la imagen..."</string>
+<string msgid="8461823781551361070" name="mmp_img_player_rotating">"Girando la imagen..."</string>
+<string msgid="3644363535411515478" name="mmp_img_player_net_disconnect">"No hay conexión a Internet. Comprueba este problema."</string>
+<string msgid="123735832200732918" name="mmp_img_player_play_error">"Error de reproducción"</string>
+<string msgid="3430663918858289760" name="mmp_img_player_play_error_message">"¿Seguir reproduciendo la siguiente foto?"</string>
+<string msgid="8356204143754819176" name="mmp_img_player_ok">"Aceptar"</string>
+<string msgid="3518159083198557236" name="mmp_img_player_cancel">"Cancelar"</string>
+<string msgid="460478476807807452" name="mmp_menu_audio_output_setting">"Salida de audio"</string>
+<string name="app_name">Centro de medios</string></resources>

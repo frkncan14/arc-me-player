@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="mmp_menu" msgid="9079948768207079095">"Цэс"</string>
+    <string name="mmp_menu_sort" msgid="8373528614821710603">"Эрэмбэлэх"</string>
+    <string name="mmp_menu_mediatype" msgid="7324251596256819138">"Медианы төрөл"</string>
+    <string name="mmp_menu_thumb" msgid="2613417042892386301">"Өнгөц зургийн хэмжээ"</string>
+    <string name="mmp_menu_copy" msgid="7728066670652565778">"Хуулах"</string>
+    <string name="mmp_menu_paste" msgid="1289836061276427065">"Буулгах"</string>
+    <string name="mmp_menu_delete" msgid="8911245550314385994">"Устгах"</string>
+    <string name="mmp_menu_recur" msgid="4965264343654944343">"Тогтмол задлан шинжлэгч"</string>
+    <string name="mmp_menu_not_recur" msgid="7112174768461191390">"Энгийн задлан шинжлэгч"</string>
+    <string name="mmp_menu_photoframe" msgid="1214517932766614549">"Зургийн жааз"</string>
+    <string name="mmp_menu_photo_frame" msgid="7297221471059815216">"Зургийн жаазыг тохирууллаа"</string>
+    <string name="mmp_menu_play" msgid="544799819593204858">"Тоглуулах"</string>
+    <string name="mmp_menu_pause" msgid="2009629214475280978">"Түр зогсоох"</string>
+    <string name="mmp_menu_repeat" msgid="7258120466270016557">"Давтах"</string>
+    <string name="mmp_menu_shuffle" msgid="3397849470999515065">"Холих"</string>
+    <string name="mmp_menu_duration" msgid="3457072780002542559">"Үргэлжлэх хугацаа"</string>
+    <string name="mmp_menu_effect" msgid="1095076262850741888">"Эффект"</string>
+    <string name="mmp_menu_showinfo" msgid="4691897570336226826">"Мэдээллийг харуулах"</string>
+    <string name="mmp_menu_frame" msgid="7986960666934851018">"Зургийн жаазны зураг"</string>
+    <string name="mmp_menu_rotate" msgid="8190003337362481311">"Эргүүлэх"</string>
+    <string name="mmp_menu_3d_photo" msgid="4983366475199077876">"3D Зураг"</string>
+    <string name="mmp_menu_display" msgid="7054330190938975189">"Дэлгэцийн мөр"</string>
+    <string name="mmp_menu_timeoffset" msgid="100700072644603332">"Цагийн оффсет"</string>
+    <string name="mmp_menu_encoding" msgid="1550879051107028343">"Кодлох"</string>
+    <string name="mmp_menu_picturemode" msgid="4868172328224771042">"Зургийн горим"</string>
+    <string name="mmp_menu_screenmode" msgid="4412352992234044423">"Дэлгэцийн горим"</string>
+    <string name="mmp_menu_font" msgid="7375862916728883987">"Фонт"</string>
+    <string name="mmp_menu_size" msgid="2228124380030616200">"Хэмжээ"</string>
+    <string name="mmp_menu_style" msgid="4128151098473753722">"Загвар"</string>
+    <string name="mmp_menu_color" msgid="2136070988230279780">"Өнгө"</string>
+    <string name="mmp_menu_date" msgid="8666017604362763396">"Огноо"</string>
+    <string name="mmp_menu_name" msgid="812493345015711141">"Нэр"</string>
+    <string name="mmp_menu_album" msgid="2114499624068654079">"Цомог"</string>
+    <string name="mmp_menu_artist" msgid="2764300205206905274">"Уран бүтээлч"</string>
+    <string name="mmp_menu_genre" msgid="263980932337808189">"Жанр"</string>
+    <string name="mmp_menu_type" msgid="1649143081737426246">"Төрөл"</string>
+    <string name="mmp_menu_phototext" msgid="7836919472204616006">"Зураг"</string>
+    <string name="mmp_menu_music" msgid="5387149570422271841">"Хөгжим"</string>
+    <string name="mmp_menu_video" msgid="5189292319328786647">"Видео"</string>
+    <string name="mmp_menu_text" msgid="5962796217247350807">"Текст"</string>
+    <string name="mmp_menu_small" msgid="4105561830760841729">"Жижиг"</string>
+    <string name="mmp_menu_medium" msgid="7564524044246800587">"Дундaж"</string>
+    <string name="mmp_menu_large" msgid="5005608858465935364">"Том"</string>
+    <string name="mmp_menu_onephotomode" msgid="6864735135037376411">"Нэг зургийн горим"</string>
+    <string name="mmp_menu_none" msgid="7926890038540120590">"Давтахгүй"</string>
+    <string name="mmp_menu_repeatone" msgid="7788100339932357215">"Нэг медиаг давтах"</string>
+    <string name="mmp_menu_repeatall" msgid="6158142728959841974">"Бүх медиаг давтах"</string>
+    <string name="mmp_menu_shuffleoff" msgid="5629298854768064250">"Холих функц унтраалттай байна"</string>
+    <string name="mmp_menu_shuffleon" msgid="308830560936676103">"Холих функцийг асаах"</string>
+    <string name="mmp_menu_short" msgid="5777774655121984779">"Богино"</string>
+    <string name="mmp_menu_long" msgid="3882136219055983996">"Урт"</string>
+    <string name="mmp_menu_1x" msgid="5285128498963238352">"1 X"</string>
+    <string name="mmp_menu_2x" msgid="5203852169875721932">"2 X"</string>
+    <string name="mmp_menu_4x" msgid="4526236448038226345">"4 X"</string>
+    <string name="mmp_menu_dissolve" msgid="7113502065311218484">"Уусгах"</string>
+    <string name="mmp_menu_wiperight" msgid="1484246629923871092">"Баруун тийш арчих"</string>
+    <string name="mmp_menu_wipeleft" msgid="2398173785822262445">"Зүүн тийш арчих"</string>
+    <string name="mmp_menu_wipeup" msgid="59996185178096696">"Дээш арчих"</string>
+    <string name="mmp_menu_wipedown" msgid="1719128764041925790">"Доош арчих"</string>
+    <string name="mmp_menu_boxin" msgid="7047199484148726413">"Хайрцганд оруулах"</string>
+    <string name="mmp_menu_boxout" msgid="6759124402362929260">"Box Out"</string>
+    <string name="mmp_menu_random" msgid="2389161930234842696">"Санамсаргүй байдлаар эмхлэх"</string>
+    <string name="mmp_menu_off" msgid="386038732335984329">"Унтраасан"</string>
+    <string name="mmp_menu_singleline" msgid="7431120586848806664">"Нэг мөр"</string>
+    <string name="mmp_menu_multiline" msgid="7052296904664940357">"Олон мөр"</string>
+    <string name="mmp_menu_auto" msgid="6817452675899749723">"Автомат"</string>
+    <string name="mmp_menu_userdefine" msgid="4876094705350753243">"Хэрэглэгчийн тодорхойлсон"</string>
+    <string name="mmp_menu_zoom" msgid="1195420639323452586">"Томруулалт"</string>
+    <string name="mmp_menu_regular" msgid="7949610806181219455">"Энгийн"</string>
+    <string name="mmp_menu_italic" msgid="3823262772644701909">"Налуу"</string>
+    <string name="mmp_menu_bold" msgid="1573884329277707594">"Тод"</string>
+    <string name="mmp_menu_outline" msgid="6135759649381327350">"Налуу тод"</string>
+    <string name="mmp_menu_white" msgid="8719113369246148681">"Цагаан"</string>
+    <string name="mmp_menu_blue" msgid="5473608042810495615">"Хөх"</string>
+    <string name="mmp_menu_red" msgid="4218204192222522501">"Улаан"</string>
+    <string name="mmp_menu_green" msgid="34696038896883398">"Ногоон"</string>
+    <string name="mmp_menu_black" msgid="5628264820914306931">"Хар"</string>
+    <string name="mmp_menu_lyricoptions" msgid="1348924294626050138">"Дууны үгний сонголт"</string>
+    <string name="mmp_menu_showscore" msgid="3018721062927128088">"Хүрээг харуулах"</string>
+    <string name="mmp_menu_hidescore" msgid="4381535154938875554">"Хүрээг нуух"</string>
+    <string name="mmp_photo" msgid="8843390942428145152">"Зураг"</string>
+    <string name="mmp_audio" msgid="8706227639060679235">"Хөгжим"</string>
+    <string name="mmp_video" msgid="2680263982702698720">"Видео"</string>
+    <string name="mmp_text" msgid="4077978808166924627">"Текст"</string>
+    <string name="mmp_select" msgid="4407585001484425898">"Сонгох"</string>
+    <string name="mmp_input" msgid="8592845546999906622">"Оруулах"</string>
+    <string name="mmp_exit" msgid="6051283891356437825">"Гарах"</string>
+    <string name="mmp_emptyfile" msgid="7299272765998117529">"Одоогийн фолдер хоосон байна!"</string>
+    <string name="mmp_reutip" msgid="8603627514980705968">"Энэ фолдерыг шинжилж байна. Түр хүлээнэ үү..."</string>
+    <string name="mmp_pop_zoomscale" msgid="4444610414043102239">"X"</string>
+    <string name="mmp_info_album" msgid="7720981179637224588">"Цомог:"</string>
+    <string name="mmp_info_orientation" msgid="3830902756642165426">"Чиглэл:"</string>
+    <string name="mmp_info_artist" msgid="6966050205975687821">"Уран бүтээлч:"</string>
+    <string name="mmp_info_name" msgid="8058742280848190551">"Нэр:"</string>
+    <string name="mmp_info_date" msgid="4300927192893785690">"Огноо:"</string>
+    <string name="mmp_info_size" msgid="959025658391753505">"Хэмжээ:"</string>
+    <string name="mmp_info_next" msgid="4380397773389543174">"Дараах:"</string>
+    <string name="mmp_info_audio" msgid="1267866496055028627">"Аудио:"</string>
+    <string name="mmp_info_exposure" msgid="1297476777953501472">"Дүрс буулгасан цаг:"</string>
+    <string name="mmp_info_fnumber" msgid="2220709797456364777">"F-зогсолт:"</string>
+    <string name="mmp_info_program" msgid="2062980080114642715">"Дүрс буулгах программ:"</string>
+    <string name="mmp_info_colorspace" msgid="991833052722703084">"Өнгөний сонголт:"</string>
+    <string name="mmp_info_title" msgid="7820876214484582645">"Нэр:"</string>
+    <string name="mmp_info_genre" msgid="2473418313212427139">"Төрөл:"</string>
+    <string name="mmp_info_year" msgid="2941904149668986691">"Жил:"</string>
+    <string name="mmp_info_duration" msgid="7689265303365835747">"Үргэлжлэх хугацаа:"</string>
+    <string name="mmp_info_director" msgid="8050309676555265722">"Найруулагч:"</string>
+    <string name="mmp_info_copyrght" msgid="2260484851899108080">"Зохиогчийн эрх:"</string>
+    <string name="mmp_info_lastpage" msgid="2276225818924525010">"Сүүлийн хуудас"</string>
+    <string name="mmp_info_nextpage" msgid="6044269836515584059">"Дараагийн хуудас"</string>
+    <string name="mmp_info_nolrc" msgid="2011077578197667092">"Дууны үг алга"</string>
+    <string name="mmp_loading_tip" msgid="6373109875045173807">"Энэ фолдерыг шинжилж байна. Түр хүлээнэ үү..."</string>
+    <string name="mmp_user_name" msgid="4038160189084155137">"Хэрэглэгчийн нэр"</string>
+    <string name="mmp_password" msgid="52423781427686112">"Нууц үг"</string>
+    <string name="mmp_confirm" msgid="3987501643229207065">"Баталгаажуулах"</string>
+    <string name="mmp_vkb" msgid="879524843720392844">"Оролт"</string>
+    <string name="mmp_ok" msgid="7246671616128389098">"OK"</string>
+    <string name="mmp_cancel" msgid="3261313315531378417">"Цуцлах"</string>
+    <string name="mmp_login_failed_tip" msgid="1843731122426925591">"Хэрэглэгчийн нэр эсвэл нууц үг буруу байна!"</string>
+    <string name="mmp_dlnaserver_disconnected" msgid="6189648564456332471">"DLNA серверийг салгалаа. Сүлжээ болон серверийн төлөвийг шалгана уу!"</string>
+    <string name="mmp_pvr_play_from_tv_cannot_pip" msgid="6500393214807298054">"PVR-н дахин тоглуулахыг PIP Горимд оруулах боломжгүй!"</string>
+    <string name="mmp_list_mode_cannot_pip" msgid="5562820685064587733">"Файлын жагсаалтын горимыг PIP горимд оруулах боломжгүй!"</string>
+    <string name="mmp_title_copy" msgid="8583348774130086919">"Хуулж байна"</string>
+    <string name="mmp_title_confirm_replace" msgid="4771822119501444534">"Файл орлуулагчийг баталгаажуулах"</string>
+    <string name="mmp_title_confirm_delete" msgid="8377725312373475404">"Файл(ууд)ыг устгах үйлдлийг баталгаажуулах"</string>
+    <string name="mmp_message_copy" msgid="4808547807069922623">"<xliff:g id="MMP_MESSAGE_COPY_ONE_XLI">%1$s</xliff:g>\n<xliff:g id="MMP_MESSAGE_COPY_TWO_XLI">%2$s</xliff:g>\n-с <xliff:g id="MMP_MESSAGE_COPY_THREE_XLI">%3$s</xliff:g> руу"</string>
+    <string name="mmp_message_confirm_replace" msgid="5868285892080714347">"Энэ фолдер\n<xliff:g id="MMP_MESSAGE_CONFIRM_REPLACE_XLI">%s</xliff:g> нэртэй файлыг аль хэдийн агуулсан байна"</string>
+    <string name="mmp_message_confirm_delete" msgid="6777614659086530912">"Та сонгосон файлыг устгахдаа итгэлтэй байна уу?"</string>
+    <string name="mmp_yes" msgid="8825062653561586733">"Тийм"</string>
+    <string name="mmp_yes_to_all" msgid="2188249996394727534">"Бүгдийг нь зөвшөөрөх"</string>
+    <string name="mmp_no" msgid="6819583620403834086">"Үгүй"</string>
+    <string name="mmp_capture_title" msgid="7209687460094347177">"Логоны зургийг авах"</string>
+    <string name="mmp_capture_confirm" msgid="824603266897705710">"Та энэ дэлгэцийн зургийг авмаар байна уу?"</string>
+    <string name="mmp_toast_no_photoframe" msgid="881397136260176005">"Тоглуулах зургийн жааз алга"</string>
+    <string name="mmp_before_pip_exit_dot_by_dot" msgid="1724158907378873072">"Таныг PIP Горимд орох үед Дэлгэцийн горимыг энгийн болгож шилжүүлнэ."</string>
+    <string name="mmp_before_pip_zoom_1x" msgid="632844846305154273">"Таныг PIP горимд орох үед томруулалтыг энгийн болгож шилжүүлнэ."</string>
+    <string name="mmp_video_notsupport" msgid="3746654153060516549">"Видеоны кодлогчийг дэмжээгүй байна"</string>
+    <string name="mmp_audio_notsupport" msgid="298426631612159434">"Аудио форматыг дэмжээгүй байна"</string>
+    <string name="mmp_video_only" msgid="7278869886485261082">"Зөвхөн видео"</string>
+    <string name="mmp_frame_photo_sleeptime" msgid="3684111810245692657">"Унтах цаг"</string>
+    <string name="mmp_video_stopresume" msgid="1769167470574168506">"Үргэлжлүүлэхийг зогсоох"</string>
+    <string name="mmp_photo_type_notsupport" msgid="1102594345605622608">"Файлыг дэмжээгүй байна"</string>
+    <string name="mmp_lable_rorate" msgid="5707789973312733102">"Эргүүлэх"</string>
+    <string name="mmp_info_whitebalance" msgid="4243391745350656248">"Цагаан өнгөний баланс:"</string>
+    <string name="mmp_info_make" msgid="5019160699386040694">"Камер үйлдвэрлэгч:"</string>
+    <string name="mmp_info_model" msgid="2555791677451848012">"Камерын загвар:"</string>
+    <string name="mmp_info_flash" msgid="1482374643316448288">"Гэрэл:"</string>
+    <string name="mmp_info_focallength" msgid="7185730465171519772">"Фокусын урт:"</string>
+    <string name="mmp_menu_pic_setting" msgid="8682447848318300605">"Зургийн тохиргоо"</string>
+    <string name="mmp_menu_audio_setting" msgid="4297665618950944208">"Аудионы тохиргоо"</string>
+    <string name="mmp_menu_sound_setting" msgid="1341976547098523497">"Дууны тохиргоо"</string>
+    <string name="mmp_file_notsupport" msgid="7808733987932045433">"Файлыг дэмжээгүй байна"</string>
+    <string name="mmp_notsupport" msgid="5351498401675171534">"Дэмжээгүй байна"</string>
+    <string name="mmp_seek_notsupport" msgid="7212075520894633540">"Гүйлгэхийг дэмжээгүй байна"</string>
+    <string name="mmp_step_notsupport" msgid="6858087783268138488">"Энэ алхмыг дэмжээгүй байна"</string>
+    <string name="mmp_featue_notsupport" msgid="8285945520158433641">"Онцлог боломжгүй байна"</string>
+    <string name="mmp_buffer_not_enough" msgid="7729296381668175272">"Буфер хангалтгүй байна"</string>
+    <string name="mmp_nodevice" msgid="6634130010421915083">"Холбогдсон төхөөрөмж алга!"</string>
+    <string name="mmp_time_out" msgid="2771473755878694067">"Таны оруулсан цагийн код буруу байна!\nЭнэ нь нийт цагаас бага байх ёстойг анхаарна уу."</string>
+    <string name="mmp_file_corrupt" msgid="3689294857477023502">"Файл гэмтсэн байна"</string>
+    <string name="mmp_menu_mount_iso" msgid="7959098173252455354">"Одоогийн iso файлыг залгах"</string>
+    <string name="mmp_menu_unmount_iso" msgid="8948169787009591217">"Одоогийн төхөөрөмжийг салгах"</string>
+    <string name="mmp_media_file_lost" msgid="1073430028079692146">"Одоогийн төхөөрөмж холбогдоогүй байна!"</string>
+    <string name="mmp_media_info_scrambled_audio_video_service" msgid="7436208224667913266">"Видео болон аудиог хольсон"</string>
+    <string name="mmp_media_info_scrambled_audio_clear_video_service" msgid="9128160029441897577">"Аудиог хольсон"</string>
+    <string name="mmp_media_info_scrambled_audio_no_video_service" msgid="2572785485574211543">"Аудиог хольсон, Зөвхөн аудио"</string>
+    <string name="mmp_media_info_scrambled_video_clear_audio_service" msgid="7830438018396694250">"Видеог хольсон"</string>
+    <string name="mmp_media_info_scrambled_video_no_audio_service" msgid="854977936934627520">"Видеог хольсон, Зөвхөн видео"</string>
+    <string name="mmp_drm_register" msgid="675462032122703604">"Таны төхөөрөмж \n энэ Divx@-н хамгаалагдсан видеог тоглуулах зөвшөөрөлгүй байна."</string>
+    <string name="mmp_drm_register_expired" msgid="130018121204117964">"Divx@-н түрээсийн хугацаа дууссан байна"</string>
+    <string name="mmp_drm_register_used" msgid="1308738041895750904">"Divx@-н түрээс \n <xliff:g id="MMP_DRM_REGISTER_USED_TWO_XLI">%2$s</xliff:g>-с<xliff:g id="MMP_DRM_REGISTER_USED_XLI">%1$s</xliff:g> үзэлтийг ашигласан байна"</string>
+    <string name="mmp_drm_register_continue" msgid="4545823732483395837">"Үргэлжлүүлэх үү?"</string>
+    <string name="mmp_divx_title" msgid="6437496733832500819">"Нэр"</string>
+    <string name="mmp_divx_edition" msgid="5306846019024910826">"Хувилбар"</string>
+    <string name="mmp_divx_chapter" msgid="3487487752488508131">"Бүлэг"</string>
+    <string name="mmp_divx_audioName" msgid="7031672633853273745">"Аудио:"</string>
+    <string name="mmp_divx_subtitleName" msgid="904348339487006815">"Хадмал:"</string>
+    <string name="mmp_dmr_starting" msgid="1846715628857289261">"DMR-г эхлүүлж байна."</string>
+    <string name="mmp_dmr_started" msgid="4516534251149034263">"DMR-г эхлүүллээ."</string>
+    <string name="mmp_dmr_network_failed" msgid="1069917251011513121">"DMR-г эхлүүлж чадсангүй. Сүлжээ боломжгүй байна."</string>
+    <string name="mmp_dmr_url_failed" msgid="1998446749263931258">"URL буруу байна"</string>
+    <string name="mmp_wrong_psw" msgid="2220959537681782417">"Нууц үг буруу байна. <xliff:g id="MMP_WRONG_PSW_ONE_XLI">%1$s</xliff:g> удаа оруулах боломжтой. Та <xliff:g id="MMP_WRONG_PSW_TWO_XLI">%2$s</xliff:g> удаа оруулсан байна. Дахин оролдоно уу!"</string>
+    <string name="mmp_last_memory" msgid="445353399276221319">"Сүүлийн санах ой"</string>
+    <string name="mmp_last_memory_time" msgid="8257690755872409500">"Цаг"</string>
+    <string name="mmp_last_memory_position" msgid="4214666976622254352">"Байрлал"</string>
+    <string name="ci_menu_pin_correct" msgid="2811258922733489547">"Зөв байна!"</string>
+    <string name="ci_menu_pin_outoftry" msgid="44306490349881239">"3 удаа буруу орууллаа"</string>
+    <string name="mmp_buffering_tip" msgid="2518565216632544676">"Видеог буферлэж байна. Түр хүлээнэ үү..."</string>
+    <string name="audio_type_normal" msgid="2694538341761232347">"Энгийн"</string>
+    <string name="audio_type_hearing_impaired" msgid="2118182303039653332">"Сонсголын бэрхшээлтэй"</string>
+    <string name="audio_type_visually_impaired" msgid="1123879394721652732">"Харааны бэрхшээлтэй"</string>
+    <string name="audio_visually_speaker_on" msgid="370608298755159880">"Асаасан"</string>
+    <string name="audio_downmixmode_stereo" msgid="9198344825777497057">"Стерео"</string>
+    <string name="audio_downmixmode_auto_stereo" msgid="6252486888542859420">"Автомат стерео"</string>
+    <string name="audio_downmixmode_surround" msgid="334719632751452503">"Орчин тойрны"</string>
+    <string name="nav_parent_psw" msgid="5129848968977804299">"Нууц үгээ оруулна уу"</string>
+    <string name="mmp_change_mode" msgid="1676194732557780029">"Үзэх горим"</string>
+    <string name="mmp_menu_picture_off" msgid="4197984410377941805">"Зургийг унтраасан"</string>
+    <string name="mmp_menu_jump_time" msgid="7424577337890603197">"Гүйлгэх"</string>
+    <string name="mmp_pop_repeat_tvsingle" msgid="1573762708654838975">"Нэг удаа"</string>
+    <string name="mmp_bt_mode_notsupport" msgid="6018333824877204292">"BT Горимыг дэмжээгүй"</string>
+    <string name="mmp_menu_full_screen" msgid="3602706448625133614">"Бүтэн дэлгэц"</string>
+    <string name="mmp_menu_over_scan" msgid="6417694118168861647">"Дэлгэц дээрх хар талбар"</string>
+    <string name="mmp_menu_subtitle_encoding" msgid="6717942460780111286">"Хадмалыг кодлох"</string>
+    <string name="mmp_sleeptime_lable" msgid="552336639790838524">"Идэвхгүй цаг:"</string>
+    <string name="mmp_menu_audio" msgid="7290654328973000754">"Аудио"</string>
+    <string name="mmp_no_devices_tips" msgid="361057196557407981">"Төхөөрөмж олдсонгүй. Төхөөрөмжийг оруулж эсвэл дараа дахин оролдоно уу!"</string>
+    <string name="mmp_video_info_resolution" msgid="8392200579627394727">"Нягтрал:"</string>
+    <string name="mmp_video_info_size" msgid="5161911583717273611">"Хэмжээ:"</string>
+    <string name="mmp_video_info_bitrate" msgid="7276989523119391715">"Битийн хурд:"</string>
+    <string name="mmp_video_info_last_Modified_date" msgid="6216504677173286907">"Сүүлд өөрчилсөн огноо:"</string>
+    <string name="mmp_play_speed_notsupport_ff" msgid="5406970534491698132">"Хурдан гүйлгэхийг хурдан тоглуулах горимд идэвхгүй болгосон"</string>
+    <string name="mmp_play_speed_notsupport_fb" msgid="5335593605293341055">"Хурдан ухраахыг хурдан тоглуулах горимд идэвхгүй болгосон"</string>
+    <string name="mmp_menu_play_speed" msgid="8078405319367563721">"Тоглуулах хурд"</string>
+    <string name="mmp_seamless_mode" msgid="2794517051734603832">"Саадгүй"</string>
+    <string name="mmp_seamless_mode_off" msgid="6502962176792078529">"Унтраах"</string>
+    <string name="mmp_seamless_mode_on" msgid="2680879271354894946">"Асаах"</string>
+    <string name="mmp_menu_rotate_0" msgid="2525882655804508677">"0 хэмийн эргүүлэлт"</string>
+    <string name="mmp_menu_rotate_90" msgid="5499075283143867382">"90 хэмийн эргүүлэлт"</string>
+    <string name="mmp_menu_rotate_180" msgid="828127129735548816">"180 хэмийн эргүүлэлт"</string>
+    <string name="mmp_menu_rotate_270" msgid="9010954915556187744">"270 хэмийн эргүүлэлт"</string>
+    <string name="mmp_menu_wallpaper" msgid="5678135140588088459">"Дэлгэцийн зургаар тохируулах"</string>
+    <string name="mmp_menu_img_zoom_in" msgid="4446097703965671221">"Томруулах"</string>
+    <string name="mmp_menu_img_zoom_out" msgid="9026341167144546000">"Жижигрүүлэх"</string>
+    <string name="mmp_img_player_max_tip" msgid="7337920113397012863">"Дээд хэмжээний харьцаа!"</string>
+    <string name="mmp_img_player_min_tip" msgid="4286863235386750909">"Доод хэмжээний харьцаа!"</string>
+    <string name="mmp_img_player_photo_wallpaper" msgid="7812511256832915936">"дэлгэцийн зураг"</string>
+    <string name="mmp_img_player_setting_wallpaper_plz_wait" msgid="4696641526998650922">"Энэ нь дэлгэцийн зургийг тохируулж байна. Түр хүлээнэ үү..."</string>
+    <string name="mmp_img_player_setting_wallpaper" msgid="3584202222258659321">"Дэлгэцийн зургийг тохируулж байна..."</string>
+    <string name="mmp_img_player_wallpaper_not_supported" msgid="3594013303919654760">"Дэлгэцийн зургийг дэмждэггүй"</string>
+    <string name="mmp_img_player_can_not_decode" msgid="1532417882851899990">"Энэ зургийн кодыг тайлах боломжгүй!"</string>
+    <string name="mmp_img_player_decoding" msgid="5237697103906052112">"зургийн кодыг тайлж байна..."</string>
+    <string name="mmp_img_player_decode_failed" msgid="251111120950935657">"зургийн кодыг тайлж чадсангүй!"</string>
+    <string name="mmp_img_player_gif_not_allow" msgid="5781151658958709239">"GIF-н анимацийн горимд ажиллуулахгүй"</string>
+    <string name="mmp_img_player_scale_or_rotate_not_allow" msgid="1229810181937509638">"хэмжээ эсвэл эргүүлэх горимд ажиллуулахгүй"</string>
+    <string name="mmp_img_player_low_memory" msgid="563937068344863239">"Санах ой бага байна!"</string>
+    <string name="mmp_img_player_pan_success" msgid="5945675696592056557">"зургийг амжилттай эргүүллээ!"</string>
+    <string name="mmp_img_player_pan_failed" msgid="5872051943605585443">"зургийг чиглүүлж чадсангүй!"</string>
+    <string name="mmp_img_player_pan_parameter_invalid" msgid="2926828788120735833">"зураг чиглүүлэх параметр буруу байна!"</string>
+    <string name="mmp_img_player_file_not_support" msgid="8044505304152821864">"Файлыг дэмждэггүй"</string>
+    <string name="mmp_img_player_zooming" msgid="1589759384473792147">"зургийг томруулж байна..."</string>
+    <string name="mmp_img_player_rotating" msgid="8461823781551361070">"зургийг эргүүлж байна..."</string>
+    <string name="mmp_img_player_net_disconnect" msgid="3644363535411515478">"Сүлжээ салсан тул шалгана уу!"</string>
+    <string name="mmp_img_player_play_error" msgid="123735832200732918">"Тоглуулах алдаа гарлаа"</string>
+    <string name="mmp_img_player_play_error_message" msgid="3430663918858289760">"Дараагийн зургийг тоглуулахын тулд үргэлжлүүлэх үү?"</string>
+    <string name="mmp_img_player_ok" msgid="8356204143754819176">"OK"</string>
+    <string name="mmp_img_player_cancel" msgid="3518159083198557236">"Цуцлах"</string>
+    <string name="mmp_menu_audio_output_setting" msgid="460478476807807452">"Аудио гаралт"</string>
+</resources>

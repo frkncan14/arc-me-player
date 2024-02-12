@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content" 
+	android:layout_height="fill_parent"
+	android:background="@drawable/mm_bg"
+	android:gravity="center_vertical"
+	android:layout_gravity="center"
+	android:id="@+id/tip_dialog_bg"
+	>
+	<ImageView android:id="@+id/multimedia_img"
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"
+		android:src="@drawable/mmp_common_icon_ib_info"
+		android:layout_marginStart="20dp"></ImageView>
+	<TextView android:id="@+id/multimedia_tv"
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"
+		android:text="@string/mmp_emptyfile" 
+		style="@style/multimedia_com_text"
+		android:layout_marginStart="10dip"
+		android:layout_marginEnd="20dp"></TextView>
+
+</LinearLayout>

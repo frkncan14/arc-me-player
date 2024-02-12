@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string msgid="9079948768207079095" name="mmp_menu">"Меню"</string>
+<string msgid="8373528614821710603" name="mmp_menu_sort">"Упорядочить"</string>
+<string msgid="7324251596256819138" name="mmp_menu_mediatype">"Тип контента"</string>
+<string msgid="2613417042892386301" name="mmp_menu_thumb">"Размер уменьш. изображения"</string>
+<string msgid="7728066670652565778" name="mmp_menu_copy">"Копировать"</string>
+<string msgid="1289836061276427065" name="mmp_menu_paste">"Вставить"</string>
+<string msgid="8911245550314385994" name="mmp_menu_delete">"Удалить"</string>
+<string msgid="4965264343654944343" name="mmp_menu_recur">"Возвратный синтаксический анализатор"</string>
+<string msgid="7112174768461191390" name="mmp_menu_not_recur">"Обычный синтаксический анализатор"</string>
+<string msgid="1214517932766614549" name="mmp_menu_photoframe">"Фоторамка"</string>
+<string msgid="7297221471059815216" name="mmp_menu_photo_frame">"Фоторамка настроена."</string>
+<string msgid="544799819593204858" name="mmp_menu_play">"Воспроизвести"</string>
+<string msgid="2009629214475280978" name="mmp_menu_pause">"Приостановить"</string>
+<string msgid="7258120466270016557" name="mmp_menu_repeat">"Повторить"</string>
+<string msgid="3397849470999515065" name="mmp_menu_shuffle">"Перемешать"</string>
+<string msgid="3457072780002542559" name="mmp_menu_duration">"Продолжительность"</string>
+<string msgid="1095076262850741888" name="mmp_menu_effect">"Эффекты"</string>
+<string msgid="4691897570336226826" name="mmp_menu_showinfo">"Показать информацию"</string>
+<string msgid="7986960666934851018" name="mmp_menu_frame">"Изображение для фоторамки"</string>
+<string msgid="8190003337362481311" name="mmp_menu_rotate">"Поворот"</string>
+<string msgid="4983366475199077876" name="mmp_menu_3d_photo">"3D-фото"</string>
+<string msgid="7054330190938975189" name="mmp_menu_display">"Отображение строк"</string>
+<string msgid="100700072644603332" name="mmp_menu_timeoffset">"Смещение по времени"</string>
+<string msgid="1550879051107028343" name="mmp_menu_encoding">"Кодировка"</string>
+<string msgid="4868172328224771042" name="mmp_menu_picturemode">"Режим изображения"</string>
+<string msgid="4412352992234044423" name="mmp_menu_screenmode">"Режим экрана"</string>
+<string msgid="7375862916728883987" name="mmp_menu_font">"Шрифт"</string>
+<string msgid="2228124380030616200" name="mmp_menu_size">"Размер"</string>
+<string msgid="4128151098473753722" name="mmp_menu_style">"Стиль"</string>
+<string msgid="2136070988230279780" name="mmp_menu_color">"Цвет"</string>
+<string msgid="8666017604362763396" name="mmp_menu_date">"Дата"</string>
+<string msgid="812493345015711141" name="mmp_menu_name">"Название"</string>
+<string msgid="2114499624068654079" name="mmp_menu_album">"Альбом"</string>
+<string msgid="2764300205206905274" name="mmp_menu_artist">"Исполнитель"</string>
+<string msgid="263980932337808189" name="mmp_menu_genre">"Жанр"</string>
+<string msgid="1649143081737426246" name="mmp_menu_type">"Тип"</string>
+<string msgid="7836919472204616006" name="mmp_menu_phototext">"Фото"</string>
+<string msgid="5387149570422271841" name="mmp_menu_music">"Музыка"</string>
+<string msgid="5189292319328786647" name="mmp_menu_video">"Видео"</string>
+<string msgid="5962796217247350807" name="mmp_menu_text">"Текст"</string>
+<string msgid="4105561830760841729" name="mmp_menu_small">"Маленький"</string>
+<string msgid="7564524044246800587" name="mmp_menu_medium">"Средний"</string>
+<string msgid="5005608858465935364" name="mmp_menu_large">"Крупный"</string>
+<string msgid="6864735135037376411" name="mmp_menu_onephotomode">"Режим одиночного фото"</string>
+<string msgid="7926890038540120590" name="mmp_menu_none">"Без повтора"</string>
+<string msgid="7788100339932357215" name="mmp_menu_repeatone">"Повторять один медиафайл"</string>
+<string msgid="6158142728959841974" name="mmp_menu_repeatall">"Повторять все"</string>
+<string msgid="5629298854768064250" name="mmp_menu_shuffleoff">"Последовательно"</string>
+<string msgid="308830560936676103" name="mmp_menu_shuffleon">"Вперемешку"</string>
+<string msgid="5777774655121984779" name="mmp_menu_short">"Небольшая задержка"</string>
+<string msgid="3882136219055983996" name="mmp_menu_long">"Большая задержка"</string>
+<string msgid="5285128498963238352" name="mmp_menu_1x">"1x"</string>
+<string msgid="5203852169875721932" name="mmp_menu_2x">"2x"</string>
+<string msgid="4526236448038226345" name="mmp_menu_4x">"4x"</string>
+<string msgid="7113502065311218484" name="mmp_menu_dissolve">"Наплыв"</string>
+<string msgid="1484246629923871092" name="mmp_menu_wiperight">"Сдвиг вправо"</string>
+<string msgid="2398173785822262445" name="mmp_menu_wipeleft">"Сдвиг влево"</string>
+<string msgid="59996185178096696" name="mmp_menu_wipeup">"Сдвиг вверх"</string>
+<string msgid="1719128764041925790" name="mmp_menu_wipedown">"Сдвиг вниз"</string>
+<string msgid="7047199484148726413" name="mmp_menu_boxin">"Внутренняя рамка"</string>
+<string msgid="6759124402362929260" name="mmp_menu_boxout">"Внешняя рамка"</string>
+<string msgid="2389161930234842696" name="mmp_menu_random">"В случайном порядке"</string>
+<string msgid="386038732335984329" name="mmp_menu_off">"Выкл."</string>
+<string msgid="7431120586848806664" name="mmp_menu_singleline">"Одна строка"</string>
+<string msgid="7052296904664940357" name="mmp_menu_multiline">"Несколько строк"</string>
+<string msgid="6817452675899749723" name="mmp_menu_auto">"Авто"</string>
+<string msgid="4876094705350753243" name="mmp_menu_userdefine">"Пользовательский"</string>
+<string msgid="1195420639323452586" name="mmp_menu_zoom">"Масштаб"</string>
+<string msgid="7949610806181219455" name="mmp_menu_regular">"Стандартный"</string>
+<string msgid="3823262772644701909" name="mmp_menu_italic">"Курсив"</string>
+<string msgid="1573884329277707594" name="mmp_menu_bold">"Полужирный"</string>
+<string msgid="6135759649381327350" name="mmp_menu_outline">"Полужирный курсив"</string>
+<string msgid="8719113369246148681" name="mmp_menu_white">"Белый"</string>
+<string msgid="5473608042810495615" name="mmp_menu_blue">"Синий"</string>
+<string msgid="4218204192222522501" name="mmp_menu_red">"Красный"</string>
+<string msgid="34696038896883398" name="mmp_menu_green">"Зеленый"</string>
+<string msgid="5628264820914306931" name="mmp_menu_black">"Черный"</string>
+<string msgid="1348924294626050138" name="mmp_menu_lyricoptions">"Настройки текста"</string>
+<string msgid="3018721062927128088" name="mmp_menu_showscore">"Показать спектр"</string>
+<string msgid="4381535154938875554" name="mmp_menu_hidescore">"Скрыть спектр"</string>
+<string msgid="8843390942428145152" name="mmp_photo">"Фото"</string>
+<string msgid="8706227639060679235" name="mmp_audio">"Аудиофайлы"</string>
+<string msgid="2680263982702698720" name="mmp_video">"Видеофайлы"</string>
+<string msgid="4077978808166924627" name="mmp_text">"Текстовые файлы"</string>
+<string msgid="4407585001484425898" name="mmp_select">"Выбрать"</string>
+<string msgid="8592845546999906622" name="mmp_input">"Ввод"</string>
+<string msgid="6051283891356437825" name="mmp_exit">"Выйти"</string>
+<string msgid="7299272765998117529" name="mmp_emptyfile">"Текущая папка пуста."</string>
+<string msgid="8603627514980705968" name="mmp_reutip">"Выполняется анализ этой папки. Подождите…"</string>
+<string msgid="4444610414043102239" name="mmp_pop_zoomscale">"x"</string>
+<string msgid="7720981179637224588" name="mmp_info_album">"Альбом:"</string>
+<string msgid="3830902756642165426" name="mmp_info_orientation">"Ориентация:"</string>
+<string msgid="6966050205975687821" name="mmp_info_artist">"Исполнитель:"</string>
+<string msgid="8058742280848190551" name="mmp_info_name">"Название:"</string>
+<string msgid="4300927192893785690" name="mmp_info_date">"Дата:"</string>
+<string msgid="959025658391753505" name="mmp_info_size">"Размер:"</string>
+<string msgid="4380397773389543174" name="mmp_info_next">"Далее:"</string>
+<string msgid="1267866496055028627" name="mmp_info_audio">"Аудио:"</string>
+<string msgid="1297476777953501472" name="mmp_info_exposure">"Выдержка:"</string>
+<string msgid="2220709797456364777" name="mmp_info_fnumber">"Единица диафрагмы:"</string>
+<string msgid="2062980080114642715" name="mmp_info_program">"Программа экспозиции:"</string>
+<string msgid="991833052722703084" name="mmp_info_colorspace">"Цветовое пространство:"</string>
+<string msgid="7820876214484582645" name="mmp_info_title">"Название:"</string>
+<string msgid="2473418313212427139" name="mmp_info_genre">"Жанр:"</string>
+<string msgid="2941904149668986691" name="mmp_info_year">"Год:"</string>
+<string msgid="7689265303365835747" name="mmp_info_duration">"Длительность:"</string>
+<string msgid="8050309676555265722" name="mmp_info_director">"Режиссер:"</string>
+<string msgid="2260484851899108080" name="mmp_info_copyrght">"Авторские права:"</string>
+<string msgid="2276225818924525010" name="mmp_info_lastpage">"Последняя страница"</string>
+<string msgid="6044269836515584059" name="mmp_info_nextpage">"Следующая страница"</string>
+<string msgid="2011077578197667092" name="mmp_info_nolrc">"Текста нет."</string>
+<string msgid="6373109875045173807" name="mmp_loading_tip">"Выполняется анализ этой папки. Подождите…"</string>
+<string msgid="4038160189084155137" name="mmp_user_name">"Имя пользователя"</string>
+<string msgid="52423781427686112" name="mmp_password">"Пароль"</string>
+<string msgid="3987501643229207065" name="mmp_confirm">"Подтвердить"</string>
+<string msgid="879524843720392844" name="mmp_vkb">"Вход"</string>
+<string msgid="7246671616128389098" name="mmp_ok">"ОК"</string>
+<string msgid="3261313315531378417" name="mmp_cancel">"Отмена"</string>
+<string msgid="1843731122426925591" name="mmp_login_failed_tip">"Неверное имя пользователя или пароль."</string>
+<string msgid="6189648564456332471" name="mmp_dlnaserver_disconnected">"DLNA-сервер отключен. Проверьте состояние сети и статус сервера."</string>
+<string msgid="6500393214807298054" name="mmp_pvr_play_from_tv_cannot_pip">"Во время воспроизведения на персональном видеорекордере войти в PIP-режим нельзя."</string>
+<string msgid="5562820685064587733" name="mmp_list_mode_cannot_pip">"Когда вы просматриваете файлы в виде списка, войти в PIP-режим нельзя."</string>
+<string msgid="8583348774130086919" name="mmp_title_copy">"Копирование…"</string>
+<string msgid="4771822119501444534" name="mmp_title_confirm_replace">"Подтвердите перемещение файла"</string>
+<string msgid="8377725312373475404" name="mmp_title_confirm_delete">"Подтвердите удаление файлов"</string>
+<string msgid="4808547807069922623" name="mmp_message_copy">"<xliff:g id="MMP_MESSAGE_COPY_ONE_XLI">%1$s</xliff:g>\nОткуда: <xliff:g id="MMP_MESSAGE_COPY_TWO_XLI">%2$s</xliff:g>\nКуда: <xliff:g id="MMP_MESSAGE_COPY_THREE_XLI">%3$s</xliff:g>"</string>
+<string msgid="5868285892080714347" name="mmp_message_confirm_replace">"В этой папке уже есть файл под названием\n\"<xliff:g id="MMP_MESSAGE_CONFIRM_REPLACE_XLI">%s</xliff:g>\"."</string>
+<string msgid="6777614659086530912" name="mmp_message_confirm_delete">"Вы действительно хотите удалить выбранный файл?"</string>
+<string msgid="8825062653561586733" name="mmp_yes">"Да"</string>
+<string msgid="2188249996394727534" name="mmp_yes_to_all">"Подтвердить все"</string>
+<string msgid="6819583620403834086" name="mmp_no">"Нет"</string>
+<string msgid="7209687460094347177" name="mmp_capture_title">"Снять как логотип"</string>
+<string msgid="824603266897705710" name="mmp_capture_confirm">"Сделать снимок этого экрана?"</string>
+<string msgid="881397136260176005" name="mmp_toast_no_photoframe">"Фоторамка не настроена."</string>
+<string msgid="1724158907378873072" name="mmp_before_pip_exit_dot_by_dot">"После включения PIP-режима экран вернется в обычное состояние."</string>
+<string msgid="632844846305154273" name="mmp_before_pip_zoom_1x">"После включения PIP-режима масштаб вернется в обычное состояние."</string>
+<string msgid="3746654153060516549" name="mmp_video_notsupport">"Видеокодек не поддерживается."</string>
+<string msgid="298426631612159434" name="mmp_audio_notsupport">"Формат аудиофайла не поддерживается."</string>
+<string msgid="7278869886485261082" name="mmp_video_only">"Только видеопоток"</string>
+<string msgid="3684111810245692657" name="mmp_frame_photo_sleeptime">"Время сна"</string>
+<string msgid="1769167470574168506" name="mmp_video_stopresume">"Остановить воспроизведение"</string>
+<string msgid="1102594345605622608" name="mmp_photo_type_notsupport">"Файл не поддерживается."</string>
+<string msgid="5707789973312733102" name="mmp_lable_rorate">"Повернуть"</string>
+<string msgid="4243391745350656248" name="mmp_info_whitebalance">"Баланс белого:"</string>
+<string msgid="5019160699386040694" name="mmp_info_make">"Изготовитель фотокамеры:"</string>
+<string msgid="2555791677451848012" name="mmp_info_model">"Модель фотокамеры:"</string>
+<string msgid="1482374643316448288" name="mmp_info_flash">"Вспышка:"</string>
+<string msgid="7185730465171519772" name="mmp_info_focallength">"Фокусное расстояние:"</string>
+<string msgid="8682447848318300605" name="mmp_menu_pic_setting">"Настройки изображения"</string>
+<string msgid="4297665618950944208" name="mmp_menu_audio_setting">"Настройки аудио"</string>
+<string msgid="1341976547098523497" name="mmp_menu_sound_setting">"Настройки звука"</string>
+<string msgid="7808733987932045433" name="mmp_file_notsupport">"Файл не поддерживается."</string>
+<string msgid="5351498401675171534" name="mmp_notsupport">"Действие не поддерживается."</string>
+<string msgid="7212075520894633540" name="mmp_seek_notsupport">"Перемотка не поддерживается."</string>
+<string msgid="6858087783268138488" name="mmp_step_notsupport">"Действие не поддерживается."</string>
+<string msgid="8285945520158433641" name="mmp_featue_notsupport">"Функция недоступна."</string>
+<string msgid="7729296381668175272" name="mmp_buffer_not_enough">"Не хватает места в буфере."</string>
+<string msgid="6634130010421915083" name="mmp_nodevice">"Нет подключенных устройств."</string>
+<string msgid="2771473755878694067" name="mmp_time_out">"Указан неверный временной код.\nОн должен быть меньше общей продолжительности файла."</string>
+<string msgid="3689294857477023502" name="mmp_file_corrupt">"Файл поврежден."</string>
+<string msgid="7959098173252455354" name="mmp_menu_mount_iso">"Подключить текущий ISO-файл"</string>
+<string msgid="8948169787009591217" name="mmp_menu_unmount_iso">"Отключить текущее устройство"</string>
+<string msgid="1073430028079692146" name="mmp_media_file_lost">"Текущее устройство не подключено."</string>
+<string msgid="7436208224667913266" name="mmp_media_info_scrambled_audio_video_service">"Аудио и видео закодированы"</string>
+<string msgid="9128160029441897577" name="mmp_media_info_scrambled_audio_clear_video_service">"Аудио закодировано"</string>
+<string msgid="2572785485574211543" name="mmp_media_info_scrambled_audio_no_video_service">"Аудио закодировано (есть только аудиопоток)"</string>
+<string msgid="7830438018396694250" name="mmp_media_info_scrambled_video_clear_audio_service">"Видео закодировано"</string>
+<string msgid="854977936934627520" name="mmp_media_info_scrambled_video_no_audio_service">"Видео закодировано (есть только видеопоток)"</string>
+<string msgid="675462032122703604" name="mmp_drm_register">"Просмотр этого защищенного видео в формате DivX\nна текущем устройстве не разрешен."</string>
+<string msgid="130018121204117964" name="mmp_drm_register_expired">"Срок проката файла в формате DivX истек."</string>
+<string msgid="1308738041895750904" name="mmp_drm_register_used">"Просмотров взятого напрокат видео в формате DivX:\n<xliff:g id="MMP_DRM_REGISTER_USED_XLI">%1$s</xliff:g> из <xliff:g id="MMP_DRM_REGISTER_USED_TWO_XLI">%2$s</xliff:g>."</string>
+<string msgid="4545823732483395837" name="mmp_drm_register_continue">"Продолжить?"</string>
+<string msgid="6437496733832500819" name="mmp_divx_title">"Название"</string>
+<string msgid="5306846019024910826" name="mmp_divx_edition">"Версия"</string>
+<string msgid="3487487752488508131" name="mmp_divx_chapter">"Глава"</string>
+<string msgid="7031672633853273745" name="mmp_divx_audioName">"Аудио:"</string>
+<string msgid="904348339487006815" name="mmp_divx_subtitleName">"Субтитры:"</string>
+<string msgid="1846715628857289261" name="mmp_dmr_starting">"Запуск DMR."</string>
+<string msgid="4516534251149034263" name="mmp_dmr_started">"Запущено: DMR."</string>
+<string msgid="1069917251011513121" name="mmp_dmr_network_failed">"Не удалось запустить DMR. Сеть недоступна."</string>
+<string msgid="1998446749263931258" name="mmp_dmr_url_failed">"Недействительный URL."</string>
+<string msgid="2220959537681782417" name="mmp_wrong_psw">"Неправильный пароль. Всего попыток: <xliff:g id="MMP_WRONG_PSW_ONE_XLI">%1$s</xliff:g>. Использовано: <xliff:g id="MMP_WRONG_PSW_TWO_XLI">%2$s</xliff:g>. Попробуйте ещё раз."</string>
+<string msgid="445353399276221319" name="mmp_last_memory">"Последняя позиция"</string>
+<string msgid="8257690755872409500" name="mmp_last_memory_time">"Время"</string>
+<string msgid="4214666976622254352" name="mmp_last_memory_position">"Позиция"</string>
+<string msgid="2811258922733489547" name="ci_menu_pin_correct">"Верно!"</string>
+<string msgid="44306490349881239" name="ci_menu_pin_outoftry">"Код введен неверно три раза."</string>
+<string msgid="2518565216632544676" name="mmp_buffering_tip">"Идет буферизация видео. Подождите…"</string>
+<string msgid="2694538341761232347" name="audio_type_normal">"Обычное аудио"</string>
+<string msgid="2118182303039653332" name="audio_type_hearing_impaired">"Для людей с нарушениями слуха"</string>
+<string msgid="1123879394721652732" name="audio_type_visually_impaired">"Для людей с нарушениями зрения"</string>
+<string msgid="370608298755159880" name="audio_visually_speaker_on">"Вкл."</string>
+<string msgid="9198344825777497057" name="audio_downmixmode_stereo">"Стерео"</string>
+<string msgid="6252486888542859420" name="audio_downmixmode_auto_stereo">"Cтерео (автоматически)"</string>
+<string msgid="334719632751452503" name="audio_downmixmode_surround">"Объемный звук"</string>
+<string msgid="5129848968977804299" name="nav_parent_psw">"Введите пароль"</string>
+<string msgid="1676194732557780029" name="mmp_change_mode">"Режим поиска"</string>
+<string msgid="4197984410377941805" name="mmp_menu_picture_off">"Без изображения"</string>
+<string msgid="7424577337890603197" name="mmp_menu_jump_time">"Перемотка"</string>
+<string msgid="1573762708654838975" name="mmp_pop_repeat_tvsingle">"Один файл"</string>
+<string msgid="6018333824877204292" name="mmp_bt_mode_notsupport">"Режим BT не поддерживается"</string>
+<string msgid="3602706448625133614" name="mmp_menu_full_screen">"Полноэкранный режим"</string>
+<string msgid="6417694118168861647" name="mmp_menu_over_scan">"Каемка экрана"</string>
+<string msgid="6717942460780111286" name="mmp_menu_subtitle_encoding">"Кодировка субтитров"</string>
+<string msgid="552336639790838524" name="mmp_sleeptime_lable">"Автовыключение:"</string>
+<string msgid="7290654328973000754" name="mmp_menu_audio">"Аудио"</string>
+<string msgid="361057196557407981" name="mmp_no_devices_tips">"Устройства не найдены. Вставьте устройство или повторите попытку позже."</string>
+<string msgid="8392200579627394727" name="mmp_video_info_resolution">"Разрешение:"</string>
+<string msgid="5161911583717273611" name="mmp_video_info_size">"Размер:"</string>
+<string msgid="7276989523119391715" name="mmp_video_info_bitrate">"Скорость передачи данных:"</string>
+<string msgid="6216504677173286907" name="mmp_video_info_last_Modified_date">"Дата последнего изменения:"</string>
+<string msgid="5406970534491698132" name="mmp_play_speed_notsupport_ff">"В режиме быстрого воспроизведения перемотка вперед отключена."</string>
+<string msgid="5335593605293341055" name="mmp_play_speed_notsupport_fb">"В режиме быстрого воспроизведения перемотка назад отключена."</string>
+<string msgid="8078405319367563721" name="mmp_menu_play_speed">"Скорость воспроизведения"</string>
+<string msgid="2794517051734603832" name="mmp_seamless_mode">"Плавный переход"</string>
+<string msgid="6502962176792078529" name="mmp_seamless_mode_off">"Откл."</string>
+<string msgid="2680879271354894946" name="mmp_seamless_mode_on">"Вкл."</string>
+<string msgid="2525882655804508677" name="mmp_menu_rotate_0">"Поворот на 0 градусов"</string>
+<string msgid="5499075283143867382" name="mmp_menu_rotate_90">"Поворот на 90 градусов"</string>
+<string msgid="828127129735548816" name="mmp_menu_rotate_180">"Поворот на 180 градусов"</string>
+<string msgid="9010954915556187744" name="mmp_menu_rotate_270">"Поворот на 270 градусов"</string>
+<string msgid="5678135140588088459" name="mmp_menu_wallpaper">"Установить как обои"</string>
+<string msgid="4446097703965671221" name="mmp_menu_img_zoom_in">"Увеличить"</string>
+<string msgid="9026341167144546000" name="mmp_menu_img_zoom_out">"Уменьшить"</string>
+<string msgid="7337920113397012863" name="mmp_img_player_max_tip">"Максимальный коэффициент масштабирования."</string>
+<string msgid="4286863235386750909" name="mmp_img_player_min_tip">"Минимальный коэффициент масштабирования."</string>
+<string msgid="7812511256832915936" name="mmp_img_player_photo_wallpaper">"Фотообои"</string>
+<string msgid="4696641526998650922" name="mmp_img_player_setting_wallpaper_plz_wait">"Подождите, пока завершится настройка обоев."</string>
+<string msgid="3584202222258659321" name="mmp_img_player_setting_wallpaper">"Настройка обоев…"</string>
+<string msgid="3594013303919654760" name="mmp_img_player_wallpaper_not_supported">"Обои не поддерживаются."</string>
+<string msgid="1532417882851899990" name="mmp_img_player_can_not_decode">"Изображение невозможно декодировать."</string>
+<string msgid="5237697103906052112" name="mmp_img_player_decoding">"Декодировка изображения…"</string>
+<string msgid="251111120950935657" name="mmp_img_player_decode_failed">"Не удалось декодировать изображение."</string>
+<string msgid="5781151658958709239" name="mmp_img_player_gif_not_allow">"Не работает в режиме GIF-анимации."</string>
+<string msgid="1229810181937509638" name="mmp_img_player_scale_or_rotate_not_allow">"Не работает в режиме поворота и масштабирования."</string>
+<string msgid="563937068344863239" name="mmp_img_player_low_memory">"Недостаточно памяти."</string>
+<string msgid="5945675696592056557" name="mmp_img_player_pan_success">"Панорамирование изображения выполнено."</string>
+<string msgid="5872051943605585443" name="mmp_img_player_pan_failed">"Не удалось панорамировать изображение."</string>
+<string msgid="2926828788120735833" name="mmp_img_player_pan_parameter_invalid">"Недопустимый параметр панорамирования."</string>
+<string msgid="8044505304152821864" name="mmp_img_player_file_not_support">"Тип файла не поддерживается."</string>
+<string msgid="1589759384473792147" name="mmp_img_player_zooming">"Масштабирование изображения…"</string>
+<string msgid="8461823781551361070" name="mmp_img_player_rotating">"Поворот изображения…"</string>
+<string msgid="3644363535411515478" name="mmp_img_player_net_disconnect">"Проверьте подключение к сети."</string>
+<string msgid="123735832200732918" name="mmp_img_player_play_error">"Ошибка воспроизведения."</string>
+<string msgid="3430663918858289760" name="mmp_img_player_play_error_message">"Показать следующее фото?"</string>
+<string msgid="8356204143754819176" name="mmp_img_player_ok">"ОК"</string>
+<string msgid="3518159083198557236" name="mmp_img_player_cancel">"Отмена"</string>
+<string msgid="460478476807807452" name="mmp_menu_audio_output_setting">"Аудиовыход"</string>
+<string name="app_name">Мультимед. центр</string></resources>

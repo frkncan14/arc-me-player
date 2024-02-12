@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_header_name" msgid="1511134859611073545">"Podešavanja MMP-a"</string>
+    <string name="menu_interface_name" msgid="5344652034012728056">"Meni"</string>
+    <string name="menu_ok" msgid="1093655261469491523">"Potvrdi"</string>
+    <string name="menu_setup_divx_cancel" msgid="8064350612522047642">"Otkaži"</string>
+    <string name="menu_audio_type" msgid="3925035178729537764">"Tip"</string>
+    <string name="menu_audio_visually_impaired" msgid="890324054395264387">"Za korisnike sa oštećenjem vida"</string>
+    <string name="menu_audio_visually_speaker" msgid="3395844900051508934">"Zvučnik"</string>
+    <string name="menu_audio_visually_headphone" msgid="1021914828438131833">"Slušalice"</string>
+    <string name="menu_audio_visually_volume" msgid="5641549986551666376">"Jačina zvuka"</string>
+    <string name="menu_audio_visually_pan_and_fade" msgid="254417077185821478">"Pomeranje i izbleđivanje"</string>
+    <string name="menu_audio_visually_impaired_audio" msgid="7971592314178467071">"Zvuk za osobe sa oštećenjem vida"</string>
+    <string name="menu_audio_downmix_mode" msgid="369622289092215581">"Režim stereo konverzije"</string>
+    <string name="menu_audio_sound_tracks" msgid="5301498529072828729">"Audio numere"</string>
+    <string name="menu_setup_network" msgid="7298518816232860684">"Mreža"</string>
+    <string name="menu_setup_my_net_place" msgid="8175416643475601862">"Moja mesta na mreži"</string>
+    <string name="menu_setup_ci_no_card" msgid="299413725358369465">"Nema CI kartice."</string>
+    <string name="menu_setup_ci_cam_menu" msgid="6441540214352249304">"Meni za CAM karticu"</string>
+    <string name="menu_setup_ci_pin_code" msgid="5559565535289512930">"Unesite PIN kôd za CAM karticu"</string>
+    <string name="menu_setup_ci_pin_code_input_tip" msgid="4436890917486724920">"Unesite PIN kôd"</string>
+    <string name="menu_setup_ci_pin_code_incorrect_tip" msgid="3687700881104571077">"Netačno. Unesite ponovo."</string>
+    <string name="menu_setup_auto_synchronization" msgid="2747119305523328476">"Automatska sinhronizacija"</string>
+    <string name="menu_setup_exo_payer_switcher" msgid="4562213054964641645">"Prebacivač Exo plejera"</string>
+    <string name="menu_ci_cam_scan" msgid="6682716298813053640">"Skeniranje CAM kartice"</string>
+    <string name="ci_title" msgid="7873486568190568594">"Informacije o CAM kartici"</string>
+</resources>

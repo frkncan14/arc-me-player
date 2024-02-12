@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<item android:state_selected="true" android:drawable="@drawable/folderlist_medium_white" />
+	<item android:state_selected="false" android:drawable="@drawable/folderlist_medium_white" />
+	<item android:state_focused="true" android:drawable="@drawable/folderlist_medium_white" />
+	<item android:state_focused="false" android:drawable="@drawable/folderlist_medium_white" />
+
+</selector>

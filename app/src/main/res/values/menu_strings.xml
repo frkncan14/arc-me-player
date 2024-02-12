@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- parameter configuration module Navigation bar -->
+    <!-- this string appears within the menu of MMP to show MMP settings information. [CHAR LIMIT = 50] -->
+    <string name="menu_header_name">MMP Settings</string>
+
+    <!-- this string appears within the menu of MMP. [CHAR LIMIT = 50] --> 
+    <string name="menu_interface_name">Menu</string>
+
+    <!-- this string appears within the menu of MMP. [CHAR LIMIT = 50] -->
+    <string name="menu_ok">OK</string>
+
+    <!-- this string appears within the menu of MMP, means discard previous changes. [CHAR LIMIT = 50] -->
+    <string name="menu_setup_divx_cancel">Cancel</string>
+
+    <!-- this string appears within the menu of MMP to show audio type. [CHAR LIMIT = 50] -->
+    <string name="menu_audio_type">Type</string>
+
+    <!-- this string appears within the menu of MMP, it shows about an audio function. User can choose this item when have visually impaired. [CHAR LIMIT = 50] -->
+    <string name="menu_audio_visually_impaired">Visually Impaired</string>
+
+    <!-- this string appears within the menu of MMP, it shows speaker information of audio. [CHAR LIMIT = 50] -->
+    <string name="menu_audio_visually_speaker">Speaker</string>
+
+    <!-- this string appears within the menu of MMP, it shows headphone information of audio. [CHAR LIMIT = 50] -->
+    <string name="menu_audio_visually_headphone">Headphone</string>
+
+    <!-- this string appears within the menu of MMP, it shows volume information of audio.[CHAR LIMIT = 50] -->
+    <string name="menu_audio_visually_volume">Volume</string>
+
+    <!-- this string appears within the menu of MMP, this item can make AD audio more audible and lets user feel the sound of AD from different angles. [CHAR LIMIT = 50] -->
+    <string name="menu_audio_visually_pan_and_fade">Pan and Fade</string>
+
+    <!-- this string appears within the menu of MMP, it shows about visually impaired audio.[CHAR LIMIT = 50] -->
+    <string name="menu_audio_visually_impaired_audio">Visually Impaired Audio</string>
+
+    <!-- this string appears within the menu of MMP, this shows audio downmix mode settings information [CHAR LIMIT = 50] -->
+    <string name="menu_audio_downmix_mode">Downmix Mode</string>
+
+    <!-- this string appears within the menu of MMP, it shows sound tracks settings information of audio. [CHAR LIMIT = 50] -->
+    <string name="menu_audio_sound_tracks">Sound Tracks</string>
+
+    <!-- this string appears within the menu of MMP to setup Network. [CHAR LIMIT = 50] -->
+    <string name="menu_setup_network">Network</string>
+    <string name="menu_setup_dlna" translatable="false">DLNA</string>
+
+    <!-- this string appears within the menu of MMP to show my network places. [CHAR LIMIT = 50] -->
+    <string name="menu_setup_my_net_place">My Network Places</string>
+
+    <!-- CI -->
+    <!-- this string shows user don't have CI card when setup CI. [CHAR LIMIT = NONE] -->
+    <string name="menu_setup_ci_no_card">No CI card presented.</string>
+
+    <!-- this string appears within the menu of MMP to show CI Cam Menu. [CHAR LIMIT = NONE] -->
+    <string name="menu_setup_ci_cam_menu">Cam Menu</string>
+
+    <!-- this string shows user should input Cam Pin Code. [CHAR LIMIT = 50] -->
+    <string name="menu_setup_ci_pin_code">Please Input Cam Pin Code</string>
+
+    <!-- this string appears to notify user to input pin code. [CHAR LIMIT = NONE] -->
+    <string name="menu_setup_ci_pin_code_input_tip">Please input pin code</string>
+
+    <!-- this string appears to notify user input pin code incorrect,should input again. [CHAR LIMIT = NONE] -->
+    <string name="menu_setup_ci_pin_code_incorrect_tip">Incorrect. Input again!</string>
+
+    <!-- third level -->
+    <!-- this string appears within the menu of MMP to show auto synchronization settings information. [CHAR LIMIT = 50] -->
+    <string name="menu_setup_auto_synchronization">Auto Synchronization</string>
+    <!-- this string is description about player switcher settings information,when choose this item, player will swith from MMP to Exo. [CHAR LIMIT = 50] -->
+    <string name="menu_setup_exo_payer_switcher">Exoplayer switcher</string>
+
+    <!-- pop-up dialog or window  -->
+    <string name="menu_setup_connetion_info1" translatable="false">Start to test the network connection.</string>
+    <string name="menu_setup_connetion_info2" translatable="false">The network connection test is successful!</string>
+    <string name="menu_setup_connetion_info3" translatable="false">The network connection test is not successful!</string>
+    <string name="menu_setup_connetion_wait" translatable="false">Please wait</string>
+    <string name="menu_setup_upgrade_info1" translatable="false">Start to download new firmware from server.</string>
+    <string name="menu_setup_upgrade_info2_title" translatable="false">Updating Wizard</string>
+    <string name="menu_setup_upgrade_info2" translatable="false">Check new firmware failed.</string>
+    <string name="menu_setup_reset_info1" translatable="false">Are you sure?</string>
+
+    <string name="mmp_play_speed_notsupport_ff">Fast-forward is disabled in speed play mode</string>
+
+    <string name="mmp_play_speed_notsupport_fb">Fast-backward is disabled in speed play mode</string>
+     <!-- CI string -->
+     <!-- this string appears within the menu of MMP to show CI Cam Scan.[CHAR LIMIT = 50] -->
+    <string name="menu_ci_cam_scan">Cam Scan</string>
+     <!-- this string appears within the menu of MMP, this is title of Cam info settings information [CHAR LIMIT = 50] -->
+    <string name="ci_title">Cam Info</string>
+</resources>

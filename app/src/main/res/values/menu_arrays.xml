@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="menu_audio_type_array">
+        <item>@string/audio_type_normal</item>
+        <item>@string/audio_type_hearing_impaired</item>
+        <item>@string/audio_type_visually_impaired</item>
+    </string-array>
+
+    <string-array name="menu_audio_type_no_ad_typ_array">
+        <item>@string/audio_type_normal</item>
+        <item>@string/audio_type_hearing_impaired</item>
+    </string-array>
+
+    <!-- speaker -->
+    <string-array name="menu_audio_visually_speaker_array">
+        <item>@string/mmp_menu_off</item>
+        <item>@string/audio_visually_speaker_on</item>
+    </string-array>
+
+    <!-- headphone -->
+    <string-array name="menu_audio_visually_headphone_array">
+        <item>@string/mmp_menu_off</item>
+        <item>@string/audio_visually_speaker_on</item>
+    </string-array>
+
+    <string-array name="menu_audio_downmixmode_array">
+        <item>@string/audio_downmixmode_stereo</item>
+        <item>@string/audio_downmixmode_auto_stereo</item>
+        <item>@string/audio_downmixmode_surround</item>
+    </string-array>
+
+    <string-array name="menu_setup_network_connection_array">
+        <item>@string/mmp_menu_off</item>
+        <item>@string/audio_visually_speaker_on</item>
+    </string-array>
+
+</resources>

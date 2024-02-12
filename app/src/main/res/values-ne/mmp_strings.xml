@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="mmp_menu" msgid="9079948768207079095">"मेनु"</string>
+    <string name="mmp_menu_sort" msgid="8373528614821710603">"क्रमबद्ध गर्नुहोस्"</string>
+    <string name="mmp_menu_mediatype" msgid="7324251596256819138">"मिडियाको प्रकार"</string>
+    <string name="mmp_menu_thumb" msgid="2613417042892386301">"थम्बनेलको आकार"</string>
+    <string name="mmp_menu_copy" msgid="7728066670652565778">"प्रतिलिपि गर्नुहोस्"</string>
+    <string name="mmp_menu_paste" msgid="1289836061276427065">"टाँस्नुहोस्"</string>
+    <string name="mmp_menu_delete" msgid="8911245550314385994">"मेट्नुहोस्"</string>
+    <string name="mmp_menu_recur" msgid="4965264343654944343">"पुनरावर्ती पार्सर"</string>
+    <string name="mmp_menu_not_recur" msgid="7112174768461191390">"सामान्य पार्सर"</string>
+    <string name="mmp_menu_photoframe" msgid="1214517932766614549">"फोटो फ्रेम"</string>
+    <string name="mmp_menu_photo_frame" msgid="7297221471059815216">"फोटो फ्रेम सेट गरिएको छ"</string>
+    <string name="mmp_menu_play" msgid="544799819593204858">"प्ले गर्नुहोस्"</string>
+    <string name="mmp_menu_pause" msgid="2009629214475280978">"पज गर्नुहोस्"</string>
+    <string name="mmp_menu_repeat" msgid="7258120466270016557">"दोहोर्‍याउनुहोस्"</string>
+    <string name="mmp_menu_shuffle" msgid="3397849470999515065">"मिसाउनुहोस्"</string>
+    <string name="mmp_menu_duration" msgid="3457072780002542559">"अवधि"</string>
+    <string name="mmp_menu_effect" msgid="1095076262850741888">"प्रभाव"</string>
+    <string name="mmp_menu_showinfo" msgid="4691897570336226826">"जानकारी देखाउनुहोस्"</string>
+    <string name="mmp_menu_frame" msgid="7986960666934851018">"फोटो फ्रेमको छवि"</string>
+    <string name="mmp_menu_rotate" msgid="8190003337362481311">"घुमाउनुहोस्"</string>
+    <string name="mmp_menu_3d_photo" msgid="4983366475199077876">"3D फोटो"</string>
+    <string name="mmp_menu_display" msgid="7054330190938975189">"रेखा देखाउनुहोस्"</string>
+    <string name="mmp_menu_timeoffset" msgid="100700072644603332">"टाइम अफसेट"</string>
+    <string name="mmp_menu_encoding" msgid="1550879051107028343">"इन्कोडिङ"</string>
+    <string name="mmp_menu_picturemode" msgid="4868172328224771042">"फोटो मोड"</string>
+    <string name="mmp_menu_screenmode" msgid="4412352992234044423">"स्क्रिनको मोड"</string>
+    <string name="mmp_menu_font" msgid="7375862916728883987">"फन्ट"</string>
+    <string name="mmp_menu_size" msgid="2228124380030616200">"आकार"</string>
+    <string name="mmp_menu_style" msgid="4128151098473753722">"शैली"</string>
+    <string name="mmp_menu_color" msgid="2136070988230279780">"रङ्ग"</string>
+    <string name="mmp_menu_date" msgid="8666017604362763396">"मिति"</string>
+    <string name="mmp_menu_name" msgid="812493345015711141">"नाम"</string>
+    <string name="mmp_menu_album" msgid="2114499624068654079">"एल्बम"</string>
+    <string name="mmp_menu_artist" msgid="2764300205206905274">"कलाकार"</string>
+    <string name="mmp_menu_genre" msgid="263980932337808189">"विधा"</string>
+    <string name="mmp_menu_type" msgid="1649143081737426246">"प्रकार"</string>
+    <string name="mmp_menu_phototext" msgid="7836919472204616006">"फोटो"</string>
+    <string name="mmp_menu_music" msgid="5387149570422271841">"सङ्गीत"</string>
+    <string name="mmp_menu_video" msgid="5189292319328786647">"भिडियो"</string>
+    <string name="mmp_menu_text" msgid="5962796217247350807">"पाठ"</string>
+    <string name="mmp_menu_small" msgid="4105561830760841729">"सानो"</string>
+    <string name="mmp_menu_medium" msgid="7564524044246800587">"मध्यम"</string>
+    <string name="mmp_menu_large" msgid="5005608858465935364">"ठुलो"</string>
+    <string name="mmp_menu_onephotomode" msgid="6864735135037376411">"एउटा फोटो मोड"</string>
+    <string name="mmp_menu_none" msgid="7926890038540120590">"कुनै पनि होइन"</string>
+    <string name="mmp_menu_repeatone" msgid="7788100339932357215">"एउटा दोहोर्‍याउनुहोस्"</string>
+    <string name="mmp_menu_repeatall" msgid="6158142728959841974">"सबै दोहोर्‍याउनुहोस्"</string>
+    <string name="mmp_menu_shuffleoff" msgid="5629298854768064250">"मिसाउने सुविधा निष्क्रिय पार्नु…"</string>
+    <string name="mmp_menu_shuffleon" msgid="308830560936676103">"मिसाउने सुविधा सक्रिय गर्नु…"</string>
+    <string name="mmp_menu_short" msgid="5777774655121984779">"छोटो"</string>
+    <string name="mmp_menu_long" msgid="3882136219055983996">"लामो"</string>
+    <string name="mmp_menu_1x" msgid="5285128498963238352">"१ X"</string>
+    <string name="mmp_menu_2x" msgid="5203852169875721932">"२ X"</string>
+    <string name="mmp_menu_4x" msgid="4526236448038226345">"४ X"</string>
+    <string name="mmp_menu_dissolve" msgid="7113502065311218484">"विलीन"</string>
+    <string name="mmp_menu_wiperight" msgid="1484246629923871092">"वाइप राइट"</string>
+    <string name="mmp_menu_wipeleft" msgid="2398173785822262445">"वाइप लेफ्ट"</string>
+    <string name="mmp_menu_wipeup" msgid="59996185178096696">"वाइप अप"</string>
+    <string name="mmp_menu_wipedown" msgid="1719128764041925790">"वाइप डाउन"</string>
+    <string name="mmp_menu_boxin" msgid="7047199484148726413">"बक्स इन"</string>
+    <string name="mmp_menu_boxout" msgid="6759124402362929260">"बक्स आउट"</string>
+    <string name="mmp_menu_random" msgid="2389161930234842696">"क्रमविहीन"</string>
+    <string name="mmp_menu_off" msgid="386038732335984329">"निष्क्रिय पार्नुहोस्"</string>
+    <string name="mmp_menu_singleline" msgid="7431120586848806664">"एकल रेखा"</string>
+    <string name="mmp_menu_multiline" msgid="7052296904664940357">"बहु रेखा"</string>
+    <string name="mmp_menu_auto" msgid="6817452675899749723">"स्वतः"</string>
+    <string name="mmp_menu_userdefine" msgid="4876094705350753243">"प्रयोगकर्ता परिभाषित"</string>
+    <string name="mmp_menu_zoom" msgid="1195420639323452586">"जुम"</string>
+    <string name="mmp_menu_regular" msgid="7949610806181219455">"नियमित"</string>
+    <string name="mmp_menu_italic" msgid="3823262772644701909">"इटालिक"</string>
+    <string name="mmp_menu_bold" msgid="1573884329277707594">"बोल्ड"</string>
+    <string name="mmp_menu_outline" msgid="6135759649381327350">"बोल्ड इटालिक"</string>
+    <string name="mmp_menu_white" msgid="8719113369246148681">"सेतो"</string>
+    <string name="mmp_menu_blue" msgid="5473608042810495615">"निलो"</string>
+    <string name="mmp_menu_red" msgid="4218204192222522501">"रातो"</string>
+    <string name="mmp_menu_green" msgid="34696038896883398">"हरियो"</string>
+    <string name="mmp_menu_black" msgid="5628264820914306931">"कालो"</string>
+    <string name="mmp_menu_lyricoptions" msgid="1348924294626050138">"शब्दरचनाका विकल्पहरू"</string>
+    <string name="mmp_menu_showscore" msgid="3018721062927128088">"स्पेक्ट्रम देखाउनुहोस्"</string>
+    <string name="mmp_menu_hidescore" msgid="4381535154938875554">"स्पेक्ट्रम लुकाउनुहोस्"</string>
+    <string name="mmp_photo" msgid="8843390942428145152">"फोटो"</string>
+    <string name="mmp_audio" msgid="8706227639060679235">"सङ्गीत"</string>
+    <string name="mmp_video" msgid="2680263982702698720">"भिडियो"</string>
+    <string name="mmp_text" msgid="4077978808166924627">"पाठ"</string>
+    <string name="mmp_select" msgid="4407585001484425898">"चयन गर्नुहोस्"</string>
+    <string name="mmp_input" msgid="8592845546999906622">"Enter"</string>
+    <string name="mmp_exit" msgid="6051283891356437825">"बाहिरिनुहोस्"</string>
+    <string name="mmp_emptyfile" msgid="7299272765998117529">"हालको फोल्डर खाली छ!"</string>
+    <string name="mmp_reutip" msgid="8603627514980705968">"यो फोल्डर पार्स हुँदै छ। कृपया प्रतीक्षा गर्नुहोस्..."</string>
+    <string name="mmp_pop_zoomscale" msgid="4444610414043102239">"X"</string>
+    <string name="mmp_info_album" msgid="7720981179637224588">"एल्बम:"</string>
+    <string name="mmp_info_orientation" msgid="3830902756642165426">"अभिमुखीकरण:"</string>
+    <string name="mmp_info_artist" msgid="6966050205975687821">"कलाकारः"</string>
+    <string name="mmp_info_name" msgid="8058742280848190551">"नाम:"</string>
+    <string name="mmp_info_date" msgid="4300927192893785690">"मिति:"</string>
+    <string name="mmp_info_size" msgid="959025658391753505">"आकारः"</string>
+    <string name="mmp_info_next" msgid="4380397773389543174">"अर्को:"</string>
+    <string name="mmp_info_audio" msgid="1267866496055028627">"अडियो:"</string>
+    <string name="mmp_info_exposure" msgid="1297476777953501472">"एक्सपोजर समय:"</string>
+    <string name="mmp_info_fnumber" msgid="2220709797456364777">"F-stop:"</string>
+    <string name="mmp_info_program" msgid="2062980080114642715">"एक्पोजर कार्यक्रम:"</string>
+    <string name="mmp_info_colorspace" msgid="991833052722703084">"रङ्ग स्पेस:"</string>
+    <string name="mmp_info_title" msgid="7820876214484582645">"शीर्षक:"</string>
+    <string name="mmp_info_genre" msgid="2473418313212427139">"विधाः"</string>
+    <string name="mmp_info_year" msgid="2941904149668986691">"वर्ष:"</string>
+    <string name="mmp_info_duration" msgid="7689265303365835747">"अवधि:"</string>
+    <string name="mmp_info_director" msgid="8050309676555265722">"निर्देशक:"</string>
+    <string name="mmp_info_copyrght" msgid="2260484851899108080">"प्रतिलिपि अधिकार:"</string>
+    <string name="mmp_info_lastpage" msgid="2276225818924525010">"अन्तिम पृष्ठ"</string>
+    <string name="mmp_info_nextpage" msgid="6044269836515584059">"अर्को पृष्ठ"</string>
+    <string name="mmp_info_nolrc" msgid="2011077578197667092">"शब्दरचना छैन"</string>
+    <string name="mmp_loading_tip" msgid="6373109875045173807">"यो फोल्डर पार्स हुँदै छ। कृपया प्रतीक्षा गर्नुहोस्..."</string>
+    <string name="mmp_user_name" msgid="4038160189084155137">"युजरनेम"</string>
+    <string name="mmp_password" msgid="52423781427686112">"पासवर्ड"</string>
+    <string name="mmp_confirm" msgid="3987501643229207065">"पुष्टि गर्नुहोस्"</string>
+    <string name="mmp_vkb" msgid="879524843720392844">"इनपुट"</string>
+    <string name="mmp_ok" msgid="7246671616128389098">"ठिक छ"</string>
+    <string name="mmp_cancel" msgid="3261313315531378417">"रद्द गर्नुहोस्"</string>
+    <string name="mmp_login_failed_tip" msgid="1843731122426925591">"युजरनेम वा पासवर्ड गलत छ!"</string>
+    <string name="mmp_dlnaserver_disconnected" msgid="6189648564456332471">"DLNA सर्भर विच्छेद भएको छ। कृपया नेटवर्क र सर्भरको स्थिति जाँच्नुहोस्!"</string>
+    <string name="mmp_pvr_play_from_tv_cannot_pip" msgid="6500393214807298054">"PVR प्लेब्याक PIP मोडमा प्रवेश हुन सक्दैन!"</string>
+    <string name="mmp_list_mode_cannot_pip" msgid="5562820685064587733">"फाइल सूची मोड PIP मोडमा प्रवेश गर्न सक्दैन!"</string>
+    <string name="mmp_title_copy" msgid="8583348774130086919">"प्रतिलिपि गर्दै"</string>
+    <string name="mmp_title_confirm_replace" msgid="4771822119501444534">"फाइल प्रतिस्थापन गर्ने कार्य पुष्टि गर्नुहोस्"</string>
+    <string name="mmp_title_confirm_delete" msgid="8377725312373475404">"फाइल(हरू) मेटाउने कार्य पुष्टि गर्नुहोस्"</string>
+    <string name="mmp_message_copy" msgid="4808547807069922623">"<xliff:g id="MMP_MESSAGE_COPY_TWO_XLI">%2$s</xliff:g>\n बाट <xliff:g id="MMP_MESSAGE_COPY_THREE_XLI">%3$s</xliff:g> \n मा <xliff:g id="MMP_MESSAGE_COPY_ONE_XLI">%1$s</xliff:g>"</string>
+    <string name="mmp_message_confirm_replace" msgid="5868285892080714347">"यो फोल्डरमा पहिले देखि नै\n<xliff:g id="MMP_MESSAGE_CONFIRM_REPLACE_XLI">%s</xliff:g> नामको एउटा फाइल छ"</string>
+    <string name="mmp_message_confirm_delete" msgid="6777614659086530912">"तपाईं साँच्चिकै यो चयन गरिएको फाइल मेट्न चाहनुहुन्छ?"</string>
+    <string name="mmp_yes" msgid="8825062653561586733">"हो"</string>
+    <string name="mmp_yes_to_all" msgid="2188249996394727534">"हो, सबैका लागि गर्ने"</string>
+    <string name="mmp_no" msgid="6819583620403834086">"होइन"</string>
+    <string name="mmp_capture_title" msgid="7209687460094347177">"लोगो खिच्नुहोस्"</string>
+    <string name="mmp_capture_confirm" msgid="824603266897705710">"तपाईं यो स्क्रिन कैद गर्न चाहनुहुन्छ?"</string>
+    <string name="mmp_toast_no_photoframe" msgid="881397136260176005">"प्ले गर्नका लागि कुनै पनि फोटो फ्रेम छैन"</string>
+    <string name="mmp_before_pip_exit_dot_by_dot" msgid="1724158907378873072">"तपाईं PIP मोडमा प्रवेश गर्ने क्रममा स्क्रिन मोड सामान्य मोडमा परिवर्तन हुन्छ।"</string>
+    <string name="mmp_before_pip_zoom_1x" msgid="632844846305154273">"तपाईं PIP मोडमा प्रवेश गर्ने क्रममा जुम सामान्यमा परिवर्तन हुन्छ।"</string>
+    <string name="mmp_video_notsupport" msgid="3746654153060516549">"भिडियो कोडेक उपलब्ध छैन"</string>
+    <string name="mmp_audio_notsupport" msgid="298426631612159434">"यो ढाँचामा भएको अडियो प्ले गर्न सकिँदैन"</string>
+    <string name="mmp_video_only" msgid="7278869886485261082">"भिडियो मात्र"</string>
+    <string name="mmp_frame_photo_sleeptime" msgid="3684111810245692657">"शयन समय"</string>
+    <string name="mmp_video_stopresume" msgid="1769167470574168506">"सुचारु गर्न रोक्नुहोस्"</string>
+    <string name="mmp_photo_type_notsupport" msgid="1102594345605622608">"फाइल प्रयोग गर्न मिल्दैन"</string>
+    <string name="mmp_lable_rorate" msgid="5707789973312733102">"घुमाउनुहोस्"</string>
+    <string name="mmp_info_whitebalance" msgid="4243391745350656248">"ह्वाइटब्यालेन्स:"</string>
+    <string name="mmp_info_make" msgid="5019160699386040694">"क्यामेरा निर्माता:"</string>
+    <string name="mmp_info_model" msgid="2555791677451848012">"क्यामेराको मोडेल:"</string>
+    <string name="mmp_info_flash" msgid="1482374643316448288">"फ्ल्यास:"</string>
+    <string name="mmp_info_focallength" msgid="7185730465171519772">"फोकल लम्बाइ:"</string>
+    <string name="mmp_menu_pic_setting" msgid="8682447848318300605">"तस्बिरसम्बन्धी सेटिङ"</string>
+    <string name="mmp_menu_audio_setting" msgid="4297665618950944208">"अडियोका सेटिङ"</string>
+    <string name="mmp_menu_sound_setting" msgid="1341976547098523497">"ध्वनिसम्बन्धी सेटिङ"</string>
+    <string name="mmp_file_notsupport" msgid="7808733987932045433">"फाइल प्रयोग गर्न मिल्दैन"</string>
+    <string name="mmp_notsupport" msgid="5351498401675171534">"सुविधा उपलब्ध छैन"</string>
+    <string name="mmp_seek_notsupport" msgid="7212075520894633540">"अगाडि जाने सुविधा उपलब्ध छैन"</string>
+    <string name="mmp_step_notsupport" msgid="6858087783268138488">"चरण उपलब्ध छैन"</string>
+    <string name="mmp_featue_notsupport" msgid="8285945520158433641">"सुविधा उपलब्ध छैन"</string>
+    <string name="mmp_buffer_not_enough" msgid="7729296381668175272">"पर्याप्त बफर भएको छैन"</string>
+    <string name="mmp_nodevice" msgid="6634130010421915083">"कुनै पनि यन्त्र जोडिएको छैन!"</string>
+    <string name="mmp_time_out" msgid="2771473755878694067">"तपाईंले प्रविष्टि गर्नुभएको समयको कोड गलत छ!\nकृपया यो कुल समयभन्दा कम छ भनी सुनिश्चित गर्नुहोस्।"</string>
+    <string name="mmp_file_corrupt" msgid="3689294857477023502">"फाइल बिग्रेको छ"</string>
+    <string name="mmp_menu_mount_iso" msgid="7959098173252455354">"हालको iso फाइल माउन्ट गर्नुहोस्"</string>
+    <string name="mmp_menu_unmount_iso" msgid="8948169787009591217">"हालको यन्त्र अन्माउन्ट गर्नुहोस्"</string>
+    <string name="mmp_media_file_lost" msgid="1073430028079692146">"हालको यन्त्र जोडिएको छैन!"</string>
+    <string name="mmp_media_info_scrambled_audio_video_service" msgid="7436208224667913266">"भिडियो र अडियो दुवै स्क्र्याम्बल गरिएको छ"</string>
+    <string name="mmp_media_info_scrambled_audio_clear_video_service" msgid="9128160029441897577">"अडियो स्क्र्याम्बल गरिएको छ"</string>
+    <string name="mmp_media_info_scrambled_audio_no_video_service" msgid="2572785485574211543">"अडियो स्क्र्याम्बल गरिएको छ, अडियो स्ट्रिम मात्र"</string>
+    <string name="mmp_media_info_scrambled_video_clear_audio_service" msgid="7830438018396694250">"भिडियो स्क्र्याम्बल गरिएको छ"</string>
+    <string name="mmp_media_info_scrambled_video_no_audio_service" msgid="854977936934627520">"भिडियो स्क्र्याम्बल गरिएको छ, भिडियो स्ट्रिम मात्र"</string>
+    <string name="mmp_drm_register" msgid="675462032122703604">"तपाईंको यन्त्रलाई \n Divx@ द्वारा संरक्षित भिडियो प्ले गर्ने अधिकार छैन।"</string>
+    <string name="mmp_drm_register_expired" msgid="130018121204117964">"भाडामा ल्याइएको Divx@ को म्याद सकिएको छ"</string>
+    <string name="mmp_drm_register_used" msgid="1308738041895750904">"भाडामा ल्याइएको Divx@ ले \n <xliff:g id="MMP_DRM_REGISTER_USED_TWO_XLI">%2$s</xliff:g> मध्ये <xliff:g id="MMP_DRM_REGISTER_USED_XLI">%1$s</xliff:g> भ्यु प्रयोग गरेको छ"</string>
+    <string name="mmp_drm_register_continue" msgid="4545823732483395837">"जारी राख्ने हो?"</string>
+    <string name="mmp_divx_title" msgid="6437496733832500819">"शीर्षक"</string>
+    <string name="mmp_divx_edition" msgid="5306846019024910826">"संस्करण"</string>
+    <string name="mmp_divx_chapter" msgid="3487487752488508131">"अध्याय"</string>
+    <string name="mmp_divx_audioName" msgid="7031672633853273745">"अडियो:"</string>
+    <string name="mmp_divx_subtitleName" msgid="904348339487006815">"उपशीर्षक:"</string>
+    <string name="mmp_dmr_starting" msgid="1846715628857289261">"DMR सुरु हुँदै छ।"</string>
+    <string name="mmp_dmr_started" msgid="4516534251149034263">"DMR सुरु गरिएको छ।"</string>
+    <string name="mmp_dmr_network_failed" msgid="1069917251011513121">"DMR सुरु गर्न सकिएन। नेटवर्क उपलब्ध छैन।"</string>
+    <string name="mmp_dmr_url_failed" msgid="1998446749263931258">"अमान्य URL"</string>
+    <string name="mmp_wrong_psw" msgid="2220959537681782417">"गलत पासवर्ड। कुल <xliff:g id="MMP_WRONG_PSW_ONE_XLI">%1$s</xliff:g> पटकसम्म प्रयास गर्न पाइन्छ। तपाईंले <xliff:g id="MMP_WRONG_PSW_TWO_XLI">%2$s</xliff:g> पटक प्रयास गरिसक्नुभएको छ। फेरि प्रयास गर्नुहोस्!"</string>
+    <string name="mmp_last_memory" msgid="445353399276221319">"अन्तिम मेमोरी"</string>
+    <string name="mmp_last_memory_time" msgid="8257690755872409500">"समय"</string>
+    <string name="mmp_last_memory_position" msgid="4214666976622254352">"स्थिति"</string>
+    <string name="ci_menu_pin_correct" msgid="2811258922733489547">"ठिक!"</string>
+    <string name="ci_menu_pin_outoftry" msgid="44306490349881239">"तीनपटक असफल भयो"</string>
+    <string name="mmp_buffering_tip" msgid="2518565216632544676">"यो भिडियो बफर भइरहेको छ। कृपया प्रतीक्षा गर्नुहोस्..."</string>
+    <string name="audio_type_normal" msgid="2694538341761232347">"सामान्य"</string>
+    <string name="audio_type_hearing_impaired" msgid="2118182303039653332">"कान कम सुन्ने"</string>
+    <string name="audio_type_visually_impaired" msgid="1123879394721652732">"दृष्टि कमजोर भएको"</string>
+    <string name="audio_visually_speaker_on" msgid="370608298755159880">"अन गर्नुहोस्"</string>
+    <string name="audio_downmixmode_stereo" msgid="9198344825777497057">"स्टेरियो"</string>
+    <string name="audio_downmixmode_auto_stereo" msgid="6252486888542859420">"स्वचालित स्टेरियो"</string>
+    <string name="audio_downmixmode_surround" msgid="334719632751452503">"सराउन्ड"</string>
+    <string name="nav_parent_psw" msgid="5129848968977804299">"आफ्नो पासवर्ड प्रविष्टि गर्नुहोस्"</string>
+    <string name="mmp_change_mode" msgid="1676194732557780029">"ब्राउज मोड"</string>
+    <string name="mmp_menu_picture_off" msgid="4197984410377941805">"फोटो निष्क्रिय छ"</string>
+    <string name="mmp_menu_jump_time" msgid="7424577337890603197">"खोज्नुहोस्"</string>
+    <string name="mmp_pop_repeat_tvsingle" msgid="1573762708654838975">"एकल"</string>
+    <string name="mmp_bt_mode_notsupport" msgid="6018333824877204292">"BT मोड समर्थित छैन"</string>
+    <string name="mmp_menu_full_screen" msgid="3602706448625133614">"फुल स्क्रिन"</string>
+    <string name="mmp_menu_over_scan" msgid="6417694118168861647">"अधिक स्क्यान"</string>
+    <string name="mmp_menu_subtitle_encoding" msgid="6717942460780111286">"उपशीर्षकको इन्कोडिङ"</string>
+    <string name="mmp_sleeptime_lable" msgid="552336639790838524">"सुत्ने समय:"</string>
+    <string name="mmp_menu_audio" msgid="7290654328973000754">"अडियो"</string>
+    <string name="mmp_no_devices_tips" msgid="361057196557407981">"कुनै पनि भण्डारण यन्त्र फेला परेन। कृपया भण्डारण यन्त्र जोड्नुहोस् वा पछि प्रयास गर्नुहोस्!"</string>
+    <string name="mmp_video_info_resolution" msgid="8392200579627394727">"रिजोल्युसन:"</string>
+    <string name="mmp_video_info_size" msgid="5161911583717273611">"आकार:"</string>
+    <string name="mmp_video_info_bitrate" msgid="7276989523119391715">"बिट दर:"</string>
+    <string name="mmp_video_info_last_Modified_date" msgid="6216504677173286907">"पछिल्लो पटक परिवर्तन गरिएको मिति:"</string>
+    <string name="mmp_play_speed_notsupport_ff" msgid="5406970534491698132">"द्रुत गतिमा प्ले गर्ने मोडमा फास्ट फरवार्ड गर्ने सुविधा अफ गरिएको हुन्छ"</string>
+    <string name="mmp_play_speed_notsupport_fb" msgid="5335593605293341055">"द्रुत गतिमा प्ले गर्ने मोडमा फास्ट ब्याकवार्ड गर्ने सुविधा अफ गरिएको हुन्छ"</string>
+    <!-- no translation found for mmp_menu_play_speed (8078405319367563721) -->
+    <skip />
+    <!-- no translation found for mmp_seamless_mode (2794517051734603832) -->
+    <skip />
+    <!-- no translation found for mmp_seamless_mode_off (6502962176792078529) -->
+    <skip />
+    <!-- no translation found for mmp_seamless_mode_on (2680879271354894946) -->
+    <skip />
+    <!-- no translation found for mmp_menu_rotate_0 (2525882655804508677) -->
+    <skip />
+    <!-- no translation found for mmp_menu_rotate_90 (5499075283143867382) -->
+    <skip />
+    <!-- no translation found for mmp_menu_rotate_180 (828127129735548816) -->
+    <skip />
+    <!-- no translation found for mmp_menu_rotate_270 (9010954915556187744) -->
+    <skip />
+    <!-- no translation found for mmp_menu_wallpaper (5678135140588088459) -->
+    <skip />
+    <!-- no translation found for mmp_menu_img_zoom_in (4446097703965671221) -->
+    <skip />
+    <!-- no translation found for mmp_menu_img_zoom_out (9026341167144546000) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_max_tip (7337920113397012863) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_min_tip (4286863235386750909) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_photo_wallpaper (7812511256832915936) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_setting_wallpaper_plz_wait (4696641526998650922) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_setting_wallpaper (3584202222258659321) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_wallpaper_not_supported (3594013303919654760) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_can_not_decode (1532417882851899990) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_decoding (5237697103906052112) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_decode_failed (251111120950935657) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_gif_not_allow (5781151658958709239) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_scale_or_rotate_not_allow (1229810181937509638) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_low_memory (563937068344863239) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_pan_success (5945675696592056557) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_pan_failed (5872051943605585443) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_pan_parameter_invalid (2926828788120735833) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_file_not_support (8044505304152821864) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_zooming (1589759384473792147) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_rotating (8461823781551361070) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_net_disconnect (3644363535411515478) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_play_error (123735832200732918) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_play_error_message (3430663918858289760) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_ok (8356204143754819176) -->
+    <skip />
+    <!-- no translation found for mmp_img_player_cancel (3518159083198557236) -->
+    <skip />
+    <!-- no translation found for mmp_menu_audio_output_setting (460478476807807452) -->
+    <skip />
+</resources>

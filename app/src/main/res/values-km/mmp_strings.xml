@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="mmp_menu" msgid="9079948768207079095">"ម៉ឺនុយ"</string>
+    <string name="mmp_menu_sort" msgid="8373528614821710603">"តម្រៀប"</string>
+    <string name="mmp_menu_mediatype" msgid="7324251596256819138">"ប្រភេទ​មេឌៀ"</string>
+    <string name="mmp_menu_thumb" msgid="2613417042892386301">"ទំហំ​រូបភាពតូចៗ"</string>
+    <string name="mmp_menu_copy" msgid="7728066670652565778">"ចម្លង"</string>
+    <string name="mmp_menu_paste" msgid="1289836061276427065">"ដាក់​ចូល"</string>
+    <string name="mmp_menu_delete" msgid="8911245550314385994">"លុប"</string>
+    <string name="mmp_menu_recur" msgid="4965264343654944343">"កម្មវិធីញែក​ដែលកើតឡើងម្ដងទៀត"</string>
+    <string name="mmp_menu_not_recur" msgid="7112174768461191390">"កម្មវិធីញែក​ធម្មតា"</string>
+    <string name="mmp_menu_photoframe" msgid="1214517932766614549">"ស៊ុម​រូបថត"</string>
+    <string name="mmp_menu_photo_frame" msgid="7297221471059815216">"ស៊ុមរូបថត​ត្រូវបានកំណត់ហើយ"</string>
+    <string name="mmp_menu_play" msgid="544799819593204858">"ចាក់"</string>
+    <string name="mmp_menu_pause" msgid="2009629214475280978">"ផ្អាក"</string>
+    <string name="mmp_menu_repeat" msgid="7258120466270016557">"ចាក់​ឥតឈប់"</string>
+    <string name="mmp_menu_shuffle" msgid="3397849470999515065">"ច្របល់"</string>
+    <string name="mmp_menu_duration" msgid="3457072780002542559">"រយៈពេល"</string>
+    <string name="mmp_menu_effect" msgid="1095076262850741888">"បែបផែន"</string>
+    <string name="mmp_menu_showinfo" msgid="4691897570336226826">"បង្ហាញព័ត៌មាន"</string>
+    <string name="mmp_menu_frame" msgid="7986960666934851018">"រូបភាព​ស៊ុមរូបថត"</string>
+    <string name="mmp_menu_rotate" msgid="8190003337362481311">"បង្វិល"</string>
+    <string name="mmp_menu_3d_photo" msgid="4983366475199077876">"រូបថត 3D"</string>
+    <string name="mmp_menu_display" msgid="7054330190938975189">"បង្ហាញបន្ទាត់"</string>
+    <string name="mmp_menu_timeoffset" msgid="100700072644603332">"ម៉ោងខុសគ្នា"</string>
+    <string name="mmp_menu_encoding" msgid="1550879051107028343">"ការបំប្លែងកូដ"</string>
+    <string name="mmp_menu_picturemode" msgid="4868172328224771042">"មុខងាររូបភាព"</string>
+    <string name="mmp_menu_screenmode" msgid="4412352992234044423">"មុខងារអេក្រង់"</string>
+    <string name="mmp_menu_font" msgid="7375862916728883987">"ពុម្ពអក្សរ"</string>
+    <string name="mmp_menu_size" msgid="2228124380030616200">"ទំហំ"</string>
+    <string name="mmp_menu_style" msgid="4128151098473753722">"រចនា​ប័ទ្ម"</string>
+    <string name="mmp_menu_color" msgid="2136070988230279780">"ពណ៌"</string>
+    <string name="mmp_menu_date" msgid="8666017604362763396">"កាលបរិច្ឆេទ"</string>
+    <string name="mmp_menu_name" msgid="812493345015711141">"ឈ្មោះ"</string>
+    <string name="mmp_menu_album" msgid="2114499624068654079">"អាល់ប៊ុម"</string>
+    <string name="mmp_menu_artist" msgid="2764300205206905274">"សិល្បករ"</string>
+    <string name="mmp_menu_genre" msgid="263980932337808189">"ប្រភេទ"</string>
+    <string name="mmp_menu_type" msgid="1649143081737426246">"ប្រភេទ"</string>
+    <string name="mmp_menu_phototext" msgid="7836919472204616006">"រូបថត"</string>
+    <string name="mmp_menu_music" msgid="5387149570422271841">"តន្ត្រី"</string>
+    <string name="mmp_menu_video" msgid="5189292319328786647">"វីដេអូ"</string>
+    <string name="mmp_menu_text" msgid="5962796217247350807">"អក្សរ"</string>
+    <string name="mmp_menu_small" msgid="4105561830760841729">"តូច"</string>
+    <string name="mmp_menu_medium" msgid="7564524044246800587">"មធ្យម"</string>
+    <string name="mmp_menu_large" msgid="5005608858465935364">"ធំ"</string>
+    <string name="mmp_menu_onephotomode" msgid="6864735135037376411">"មុខងារ​រូបថតមួយ"</string>
+    <string name="mmp_menu_none" msgid="7926890038540120590">"គ្មាន"</string>
+    <string name="mmp_menu_repeatone" msgid="7788100339932357215">"ចាក់ឯកសារមេឌៀមួយម្ដងហើយម្ដងទៀត"</string>
+    <string name="mmp_menu_repeatall" msgid="6158142728959841974">"ចាក់​ឡើងវិញ​ទាំងអស់"</string>
+    <string name="mmp_menu_shuffleoff" msgid="5629298854768064250">"ការច្របល់​បានបិទ"</string>
+    <string name="mmp_menu_shuffleon" msgid="308830560936676103">"ការច្របល់​បានបើក"</string>
+    <string name="mmp_menu_short" msgid="5777774655121984779">"ខ្លី"</string>
+    <string name="mmp_menu_long" msgid="3882136219055983996">"វែង"</string>
+    <string name="mmp_menu_1x" msgid="5285128498963238352">"1 X"</string>
+    <string name="mmp_menu_2x" msgid="5203852169875721932">"2 X"</string>
+    <string name="mmp_menu_4x" msgid="4526236448038226345">"4 X"</string>
+    <string name="mmp_menu_dissolve" msgid="7113502065311218484">"រំលាយ"</string>
+    <string name="mmp_menu_wiperight" msgid="1484246629923871092">"លុបទៅស្ដាំ"</string>
+    <string name="mmp_menu_wipeleft" msgid="2398173785822262445">"លុប​ទៅ​ឆ្វេង"</string>
+    <string name="mmp_menu_wipeup" msgid="59996185178096696">"លុប​ឡើងលើ"</string>
+    <string name="mmp_menu_wipedown" msgid="1719128764041925790">"លុប​ចុះក្រោម"</string>
+    <string name="mmp_menu_boxin" msgid="7047199484148726413">"ដាក់ក្នុងប្រអប់"</string>
+    <string name="mmp_menu_boxout" msgid="6759124402362929260">"ចេញក្រៅ​ប្រអប់"</string>
+    <string name="mmp_menu_random" msgid="2389161930234842696">"ចៃដន្យ"</string>
+    <string name="mmp_menu_off" msgid="386038732335984329">"បិទ"</string>
+    <string name="mmp_menu_singleline" msgid="7431120586848806664">"បន្ទាត់តែមួយ"</string>
+    <string name="mmp_menu_multiline" msgid="7052296904664940357">"បន្ទាត់ច្រើន"</string>
+    <string name="mmp_menu_auto" msgid="6817452675899749723">"ស្វ័យប្រវត្តិ"</string>
+    <string name="mmp_menu_userdefine" msgid="4876094705350753243">"ការកំណត់​របស់​អ្នកប្រើប្រាស់"</string>
+    <string name="mmp_menu_zoom" msgid="1195420639323452586">"ពង្រីកបង្រួម"</string>
+    <string name="mmp_menu_regular" msgid="7949610806181219455">"ធម្មតា"</string>
+    <string name="mmp_menu_italic" msgid="3823262772644701909">"ទ្រេត"</string>
+    <string name="mmp_menu_bold" msgid="1573884329277707594">"ដិត"</string>
+    <string name="mmp_menu_outline" msgid="6135759649381327350">"ដិតទ្រេត"</string>
+    <string name="mmp_menu_white" msgid="8719113369246148681">"ស"</string>
+    <string name="mmp_menu_blue" msgid="5473608042810495615">"ខៀវ"</string>
+    <string name="mmp_menu_red" msgid="4218204192222522501">"ក្រហម"</string>
+    <string name="mmp_menu_green" msgid="34696038896883398">"បៃតង"</string>
+    <string name="mmp_menu_black" msgid="5628264820914306931">"ខ្មៅ"</string>
+    <string name="mmp_menu_lyricoptions" msgid="1348924294626050138">"ជម្រើស​ទំនុកច្រៀង"</string>
+    <string name="mmp_menu_showscore" msgid="3018721062927128088">"បង្ហាញ​វិសាលគម"</string>
+    <string name="mmp_menu_hidescore" msgid="4381535154938875554">"លាក់​វិសាលគម"</string>
+    <string name="mmp_photo" msgid="8843390942428145152">"រូបថត"</string>
+    <string name="mmp_audio" msgid="8706227639060679235">"តន្ត្រី"</string>
+    <string name="mmp_video" msgid="2680263982702698720">"វីដេអូ"</string>
+    <string name="mmp_text" msgid="4077978808166924627">"អក្សរ"</string>
+    <string name="mmp_select" msgid="4407585001484425898">"ជ្រើសរើស"</string>
+    <string name="mmp_input" msgid="8592845546999906622">"Enter"</string>
+    <string name="mmp_exit" msgid="6051283891356437825">"ចាកចេញ"</string>
+    <string name="mmp_emptyfile" msgid="7299272765998117529">"ថតបច្ចុប្បន្នគឺទទេ!"</string>
+    <string name="mmp_reutip" msgid="8603627514980705968">"ការញែកថតនេះ​កំពុងដំណើរការ។ សូម​រង់ចាំ..."</string>
+    <string name="mmp_pop_zoomscale" msgid="4444610414043102239">"X"</string>
+    <string name="mmp_info_album" msgid="7720981179637224588">"អាល់ប៊ុម៖"</string>
+    <string name="mmp_info_orientation" msgid="3830902756642165426">"ទិស៖"</string>
+    <string name="mmp_info_artist" msgid="6966050205975687821">"សិល្បករ៖"</string>
+    <string name="mmp_info_name" msgid="8058742280848190551">"ឈ្មោះ៖"</string>
+    <string name="mmp_info_date" msgid="4300927192893785690">"កាលបរិច្ឆេទ៖"</string>
+    <string name="mmp_info_size" msgid="959025658391753505">"ទំហំ៖"</string>
+    <string name="mmp_info_next" msgid="4380397773389543174">"បន្ទាប់៖"</string>
+    <string name="mmp_info_audio" msgid="1267866496055028627">"សំឡេង៖"</string>
+    <string name="mmp_info_exposure" msgid="1297476777953501472">"រយៈពេលត្រូវពន្លឺ៖"</string>
+    <string name="mmp_info_fnumber" msgid="2220709797456364777">"F-stop:"</string>
+    <string name="mmp_info_program" msgid="2062980080114642715">"កម្មវិធី​កំណត់​កម្រិត​ពន្លឺ៖"</string>
+    <string name="mmp_info_colorspace" msgid="991833052722703084">"គំរូ​ពណ៌៖"</string>
+    <string name="mmp_info_title" msgid="7820876214484582645">"ចំណងជើង​៖"</string>
+    <string name="mmp_info_genre" msgid="2473418313212427139">"ប្រភេទ៖"</string>
+    <string name="mmp_info_year" msgid="2941904149668986691">"ឆ្នាំ៖"</string>
+    <string name="mmp_info_duration" msgid="7689265303365835747">"រយៈពេល៖"</string>
+    <string name="mmp_info_director" msgid="8050309676555265722">"កម្មវិធីគ្រប់គ្រងឯកសារ៖"</string>
+    <string name="mmp_info_copyrght" msgid="2260484851899108080">"រក្សាសិទ្ធិ៖"</string>
+    <string name="mmp_info_lastpage" msgid="2276225818924525010">"ទំព័រ​ចុង​ក្រោយ"</string>
+    <string name="mmp_info_nextpage" msgid="6044269836515584059">"ទំព័រ​បន្ទាប់"</string>
+    <string name="mmp_info_nolrc" msgid="2011077578197667092">"គ្មានទំនុកច្រៀងទេ"</string>
+    <string name="mmp_loading_tip" msgid="6373109875045173807">"ការញែកថតនេះ​កំពុងដំណើរការ។ សូម​រង់ចាំ..."</string>
+    <string name="mmp_user_name" msgid="4038160189084155137">"ឈ្មោះអ្នក​ប្រើប្រាស់"</string>
+    <string name="mmp_password" msgid="52423781427686112">"ពាក្យសម្ងាត់"</string>
+    <string name="mmp_confirm" msgid="3987501643229207065">"បញ្ជាក់"</string>
+    <string name="mmp_vkb" msgid="879524843720392844">"បញ្ចូល"</string>
+    <string name="mmp_ok" msgid="7246671616128389098">"យល់ព្រម"</string>
+    <string name="mmp_cancel" msgid="3261313315531378417">"បោះបង់"</string>
+    <string name="mmp_login_failed_tip" msgid="1843731122426925591">"ឈ្មោះអ្នក​ប្រើប្រាស់​ ឬ​ពាក្យ​សម្ងាត់មិន​ត្រឹមត្រូវទេ!"</string>
+    <string name="mmp_dlnaserver_disconnected" msgid="6189648564456332471">"បានផ្ដាច់​ម៉ាស៊ីនមេ DLNA ។ សូមពិនិត្យមើល​ស្ថានភាពម៉ាស៊ីនមេ និងបណ្ដាញ!"</string>
+    <string name="mmp_pvr_play_from_tv_cannot_pip" msgid="6500393214807298054">"ការចាក់វីដេអូ PVR មិនអាច​បញ្ចូលមុខងារ PIP បានទេ!"</string>
+    <string name="mmp_list_mode_cannot_pip" msgid="5562820685064587733">"មុខងារបញ្ជីឯកសារ​មិនអាចបញ្ចូល​មុខងារ PIP បានទេ!"</string>
+    <string name="mmp_title_copy" msgid="8583348774130086919">"កំពុងចម្លង"</string>
+    <string name="mmp_title_confirm_replace" msgid="4771822119501444534">"បញ្ជាក់​ការជំនួសឯកសារ"</string>
+    <string name="mmp_title_confirm_delete" msgid="8377725312373475404">"បញ្ជាក់​ការលុបឯកសារ"</string>
+    <string name="mmp_message_copy" msgid="4808547807069922623">"<xliff:g id="MMP_MESSAGE_COPY_ONE_XLI">%1$s</xliff:g>\nពី <xliff:g id="MMP_MESSAGE_COPY_TWO_XLI">%2$s</xliff:g>\nទៅ <xliff:g id="MMP_MESSAGE_COPY_THREE_XLI">%3$s</xliff:g>"</string>
+    <string name="mmp_message_confirm_replace" msgid="5868285892080714347">"ថតនេះ​មានឯកសារ​ដែលមានឈ្មោះ\n<xliff:g id="MMP_MESSAGE_CONFIRM_REPLACE_XLI">%s</xliff:g> រួចហើយ"</string>
+    <string name="mmp_message_confirm_delete" msgid="6777614659086530912">"តើអ្នកប្រាកដថា​ចង់លុបឯកសារដែល​បានជ្រើសរើសដែរទេ?"</string>
+    <string name="mmp_yes" msgid="8825062653561586733">"បាទ/ចាស"</string>
+    <string name="mmp_yes_to_all" msgid="2188249996394727534">"យល់ព្រម​ទាំងអស់"</string>
+    <string name="mmp_no" msgid="6819583620403834086">"ទេ"</string>
+    <string name="mmp_capture_title" msgid="7209687460094347177">"ថតនិមិត្តសញ្ញា"</string>
+    <string name="mmp_capture_confirm" msgid="824603266897705710">"តើអ្នកចង់​ថតអេក្រង់នេះ​ដែរទេ?"</string>
+    <string name="mmp_toast_no_photoframe" msgid="881397136260176005">"មិនមានស៊ុមរូបថត​សម្រាប់ចាក់ទេ"</string>
+    <string name="mmp_before_pip_exit_dot_by_dot" msgid="1724158907378873072">"មុខងារ​អេក្រង់​ប្ដូរទៅ​ធម្មតា នៅពេលអ្នក​បញ្ចូលមុខងារ PIP ។"</string>
+    <string name="mmp_before_pip_zoom_1x" msgid="632844846305154273">"ការពង្រីកបង្រួម​ប្ដូរទៅ​ធម្មតា នៅពេលអ្នក​បញ្ចូលមុខងារ PIP ។"</string>
+    <string name="mmp_video_notsupport" msgid="3746654153060516549">"មិនស្គាល់កូឌិក​វីដេអូទេ"</string>
+    <string name="mmp_audio_notsupport" msgid="298426631612159434">"មិនស្គាល់​ទម្រង់សំឡេងទេ"</string>
+    <string name="mmp_video_only" msgid="7278869886485261082">"មានតែ​វីដេអូ​ប៉ុណ្ណោះ"</string>
+    <string name="mmp_frame_photo_sleeptime" msgid="3684111810245692657">"ម៉ោង​គេង"</string>
+    <string name="mmp_video_stopresume" msgid="1769167470574168506">"បញ្ឈប់​សកម្មភាពបន្ត"</string>
+    <string name="mmp_photo_type_notsupport" msgid="1102594345605622608">"មិនស្គាល់​ឯកសារនេះទេ"</string>
+    <string name="mmp_lable_rorate" msgid="5707789973312733102">"បង្វិល"</string>
+    <string name="mmp_info_whitebalance" msgid="4243391745350656248">"តុល្យភាព​ពណ៌ស៖"</string>
+    <string name="mmp_info_make" msgid="5019160699386040694">"ព័ត៌មាន​លម្អិត​អំពី​រូបថត៖"</string>
+    <string name="mmp_info_model" msgid="2555791677451848012">"ម៉ូដែល​កាមេរ៉ា៖"</string>
+    <string name="mmp_info_flash" msgid="1482374643316448288">"ពន្លឺបាញ់៖"</string>
+    <string name="mmp_info_focallength" msgid="7185730465171519772">"ប្រវែង​ផ្ដោត៖"</string>
+    <string name="mmp_menu_pic_setting" msgid="8682447848318300605">"ការកំណត់រូបភាព"</string>
+    <string name="mmp_menu_audio_setting" msgid="4297665618950944208">"ការកំណត់​សំឡេង"</string>
+    <string name="mmp_menu_sound_setting" msgid="1341976547098523497">"ការកំណត់​សំឡេង"</string>
+    <string name="mmp_file_notsupport" msgid="7808733987932045433">"មិនស្គាល់​ឯកសារនេះទេ"</string>
+    <string name="mmp_notsupport" msgid="5351498401675171534">"មិនស្គាល់ទេ"</string>
+    <string name="mmp_seek_notsupport" msgid="7212075520894633540">"មិនស្គាល់​ការស្វែងរកទេ"</string>
+    <string name="mmp_step_notsupport" msgid="6858087783268138488">"មិនស្គាល់​ជំហាននេះទេ"</string>
+    <string name="mmp_featue_notsupport" msgid="8285945520158433641">"មិនអាចប្រើ​មុខងារនេះបានទេ"</string>
+    <string name="mmp_buffer_not_enough" msgid="7729296381668175272">"មិនមាន​កន្លែងផ្ទុក​គ្រប់គ្រាន់ទេ"</string>
+    <string name="mmp_nodevice" msgid="6634130010421915083">"មិនបាន​ភ្ជាប់​ឧបករណ៍​ទេ!"</string>
+    <string name="mmp_time_out" msgid="2771473755878694067">"កូដម៉ោងដែលអ្នក​បានបញ្ចូលមិនត្រឹមត្រូវទេ!\nសូមប្រាកដថាកូដម៉ោងគឺ​តិចជាងម៉ោងសរុប។"</string>
+    <string name="mmp_file_corrupt" msgid="3689294857477023502">"ឯកសារ​​ខូច"</string>
+    <string name="mmp_menu_mount_iso" msgid="7959098173252455354">"ភ្ជាប់​ឯកសារ iso បច្ចុប្បន្ន"</string>
+    <string name="mmp_menu_unmount_iso" msgid="8948169787009591217">"ផ្ដាច់​ឧបករណ៍បច្ចុប្បន្ន"</string>
+    <string name="mmp_media_file_lost" msgid="1073430028079692146">"មិនមានការភ្ជាប់​ឧបករណ៍បច្ចុប្បន្នទេ!"</string>
+    <string name="mmp_media_info_scrambled_audio_video_service" msgid="7436208224667913266">"ច្របល់​វីដេអូ និង​សំឡេង"</string>
+    <string name="mmp_media_info_scrambled_audio_clear_video_service" msgid="9128160029441897577">"រួមបញ្ចូល​សំឡេង"</string>
+    <string name="mmp_media_info_scrambled_audio_no_video_service" msgid="2572785485574211543">"ច្របល់សំឡេង​ តែសំឡេងប៉ុណ្ណោះ"</string>
+    <string name="mmp_media_info_scrambled_video_clear_audio_service" msgid="7830438018396694250">"ច្របល់​វីដេអូ"</string>
+    <string name="mmp_media_info_scrambled_video_no_audio_service" msgid="854977936934627520">"រួមបញ្ចូល​វីដេអូ មានតែ​វីដេអូប៉ុណ្ណោះ"</string>
+    <string name="mmp_drm_register" msgid="675462032122703604">"ឧបករណ៍​របស់អ្នក​គ្មានសិទ្ធិ \n ក្នុងការ​ចាក់វីដេអូ​ដែលបានការពារ Divx@ នេះទេ។"</string>
+    <string name="mmp_drm_register_expired" msgid="130018121204117964">"ការជួល Divx@ បានផុត​កំណត់ហើយ"</string>
+    <string name="mmp_drm_register_used" msgid="1308738041895750904">"ការជួល Divx@ បានប្រើ​ទិដ្ឋភាព \n <xliff:g id="MMP_DRM_REGISTER_USED_XLI">%1$s</xliff:g> ក្នុងចំណោម <xliff:g id="MMP_DRM_REGISTER_USED_TWO_XLI">%2$s</xliff:g>"</string>
+    <string name="mmp_drm_register_continue" msgid="4545823732483395837">"បន្ត?"</string>
+    <string name="mmp_divx_title" msgid="6437496733832500819">"ចំណងជើង"</string>
+    <string name="mmp_divx_edition" msgid="5306846019024910826">"ការ​បោះ​ផ្សាយ"</string>
+    <string name="mmp_divx_chapter" msgid="3487487752488508131">"ជំពូក"</string>
+    <string name="mmp_divx_audioName" msgid="7031672633853273745">"សំឡេង៖"</string>
+    <string name="mmp_divx_subtitleName" msgid="904348339487006815">"អក្សររត់៖"</string>
+    <string name="mmp_dmr_starting" msgid="1846715628857289261">"DMR កំពុង​ចាប់ផ្ដើម។"</string>
+    <string name="mmp_dmr_started" msgid="4516534251149034263">"DMR បានចាប់ផ្ដើម។"</string>
+    <string name="mmp_dmr_network_failed" msgid="1069917251011513121">"មិនអាច​ចាប់ផ្ដើម DMR បានទេ។ បណ្ដាញ​មានបញ្ហា។"</string>
+    <string name="mmp_dmr_url_failed" msgid="1998446749263931258">"URL មិន​ត្រឹមត្រូវ"</string>
+    <string name="mmp_wrong_psw" msgid="2220959537681782417">"ពាក្យសម្ងាត់​មិនត្រឹមត្រូវ។ សរុប <xliff:g id="MMP_WRONG_PSW_ONE_XLI">%1$s</xliff:g> ដងហើយ។ អ្នកបានព្យាយាម <xliff:g id="MMP_WRONG_PSW_TWO_XLI">%2$s</xliff:g> ដងហើយ។ សូមព្យាយាម​ម្ដងទៀត!"</string>
+    <string name="mmp_last_memory" msgid="445353399276221319">"អង្គចងចាំ​ចុងក្រោយ"</string>
+    <string name="mmp_last_memory_time" msgid="8257690755872409500">"ម៉ោង"</string>
+    <string name="mmp_last_memory_position" msgid="4214666976622254352">"ទីតាំង"</string>
+    <string name="ci_menu_pin_correct" msgid="2811258922733489547">"ត្រឹមត្រូវ​!"</string>
+    <string name="ci_menu_pin_outoftry" msgid="44306490349881239">"ខុស​បីដង"</string>
+    <string name="mmp_buffering_tip" msgid="2518565216632544676">"វីដេអូកំពុង​ផ្ទុកជាមុន។ សូម​រង់ចាំ..."</string>
+    <string name="audio_type_normal" msgid="2694538341761232347">"ធម្មតា"</string>
+    <string name="audio_type_hearing_impaired" msgid="2118182303039653332">"អ្នកមាន​បញ្ហាត្រចៀក"</string>
+    <string name="audio_type_visually_impaired" msgid="1123879394721652732">"អ្នកមាន​បញ្ហា​ភ្នែក"</string>
+    <string name="audio_visually_speaker_on" msgid="370608298755159880">"បើក"</string>
+    <string name="audio_downmixmode_stereo" msgid="9198344825777497057">"ស្តេរ៉េអូ"</string>
+    <string name="audio_downmixmode_auto_stereo" msgid="6252486888542859420">"ស្តេរ៉េអូ​ស្វ័យប្រវត្តិ"</string>
+    <string name="audio_downmixmode_surround" msgid="334719632751452503">"ជុំវិញ"</string>
+    <string name="nav_parent_psw" msgid="5129848968977804299">"បញ្ចូល​ពាក្យ​សម្ងាត់​របស់​អ្នក"</string>
+    <string name="mmp_change_mode" msgid="1676194732557780029">"មុខងារ​រុករក"</string>
+    <string name="mmp_menu_picture_off" msgid="4197984410377941805">"រូបភាព​ត្រូវបាន​បិទ"</string>
+    <string name="mmp_menu_jump_time" msgid="7424577337890603197">"រកមើល"</string>
+    <string name="mmp_pop_repeat_tvsingle" msgid="1573762708654838975">"តែមួយ"</string>
+    <string name="mmp_bt_mode_notsupport" msgid="6018333824877204292">"មិន​អាច​ប្រើ​មុខងារ BT បាន​ទេ"</string>
+    <string name="mmp_menu_full_screen" msgid="3602706448625133614">"ពេញអេក្រង់"</string>
+    <string name="mmp_menu_over_scan" msgid="6417694118168861647">"ការពង្រីក​ជ្រុល"</string>
+    <string name="mmp_menu_subtitle_encoding" msgid="6717942460780111286">"ការ​បំប្លែង​កូដ​អក្សរ​រត់"</string>
+    <string name="mmp_sleeptime_lable" msgid="552336639790838524">"ម៉ោង​គេង៖"</string>
+    <string name="mmp_menu_audio" msgid="7290654328973000754">"សំឡេង"</string>
+    <string name="mmp_no_devices_tips" msgid="361057196557407981">"រកមិន​ឃើញ​ឧបករណ៍ទេ។ សូមបញ្ចូលឧបករណ៍ ឬព្យាយាមម្ដងទៀត​នៅពេលក្រោយ!"</string>
+    <string name="mmp_video_info_resolution" msgid="8392200579627394727">"កម្រិតច្បាស់៖"</string>
+    <string name="mmp_video_info_size" msgid="5161911583717273611">"ទំហំ៖"</string>
+    <string name="mmp_video_info_bitrate" msgid="7276989523119391715">"កម្រិត​ប៊ីត៖"</string>
+    <string name="mmp_video_info_last_Modified_date" msgid="6216504677173286907">"កាលបរិច្ឆេទ​កែប្រែ​ចុងក្រោយ៖"</string>
+    <string name="mmp_play_speed_notsupport_ff" msgid="5406970534491698132">"ការខាទៅមុខត្រូវបានបិទនៅក្នុងមុខងារចាក់លឿន"</string>
+    <string name="mmp_play_speed_notsupport_fb" msgid="5335593605293341055">"ការខាថយក្រោយត្រូវបានបិទនៅក្នុងមុខងារចាក់លឿន"</string>
+    <string name="mmp_menu_play_speed" msgid="8078405319367563721">"ល្បឿនចាក់"</string>
+    <string name="mmp_seamless_mode" msgid="2794517051734603832">"រលូន"</string>
+    <string name="mmp_seamless_mode_off" msgid="6502962176792078529">"បិទ"</string>
+    <string name="mmp_seamless_mode_on" msgid="2680879271354894946">"បើក"</string>
+    <string name="mmp_menu_rotate_0" msgid="2525882655804508677">"ការ​បង្វិល 0 ដឺក្រេ"</string>
+    <string name="mmp_menu_rotate_90" msgid="5499075283143867382">"ការ​បង្វិល 90 ដឺក្រេ"</string>
+    <string name="mmp_menu_rotate_180" msgid="828127129735548816">"ការ​បង្វិល 180 ដឺក្រេ"</string>
+    <string name="mmp_menu_rotate_270" msgid="9010954915556187744">"ការបង្វិល 270 ដឺក្រេ"</string>
+    <string name="mmp_menu_wallpaper" msgid="5678135140588088459">"កំណត់​ជា​ផ្ទាំង​រូបភាព"</string>
+    <string name="mmp_menu_img_zoom_in" msgid="4446097703965671221">"ពង្រីក"</string>
+    <string name="mmp_menu_img_zoom_out" msgid="9026341167144546000">"បង្រួម"</string>
+    <string name="mmp_img_player_max_tip" msgid="7337920113397012863">"សមាមាត្រ​មាត្រដ្ឋាន​អតិបរមា!"</string>
+    <string name="mmp_img_player_min_tip" msgid="4286863235386750909">"សមាមាត្រ​មាត្រដ្ឋាន​អប្បបរមា!"</string>
+    <string name="mmp_img_player_photo_wallpaper" msgid="7812511256832915936">"ផ្ទាំង​រូបភាពរូបថត"</string>
+    <string name="mmp_img_player_setting_wallpaper_plz_wait" msgid="4696641526998650922">"កំពុង​កំណត់​ផ្ទាំង​រូបភាព សូម​រង់ចាំ..."</string>
+    <string name="mmp_img_player_setting_wallpaper" msgid="3584202222258659321">"កំពុង​កំណត់​ផ្ទាំង​រូបភាព..."</string>
+    <string name="mmp_img_player_wallpaper_not_supported" msgid="3594013303919654760">"មិន​ស្គាល់​ផ្ទាំង​រូបភាព​ទេ"</string>
+    <string name="mmp_img_player_can_not_decode" msgid="1532417882851899990">"មិន​អាច​បំប្លែងកូដ​រូបភាព​នេះ​បាន​ទេ!"</string>
+    <string name="mmp_img_player_decoding" msgid="5237697103906052112">"រូបភាព​កំពុង​បំប្លែងកូដ..."</string>
+    <string name="mmp_img_player_decode_failed" msgid="251111120950935657">"ការ​បំប្លែង​កូដ​រូបភាព​មិនសម្រេច​ទេ!"</string>
+    <string name="mmp_img_player_gif_not_allow" msgid="5781151658958709239">"មិន​ប្រតិបត្តិ​នៅ​ក្នុង​មុខងារ​ចលនា GIF ឡើយ"</string>
+    <string name="mmp_img_player_scale_or_rotate_not_allow" msgid="1229810181937509638">"មិន​ប្រតិបត្តិ​ក្នុង​មាត្រដ្ឋាន ឬ​មុខងារ​បង្វិលទេ"</string>
+    <string name="mmp_img_player_low_memory" msgid="563937068344863239">"ជិតអស់​អង្គចងចាំហើយ!"</string>
+    <string name="mmp_img_player_pan_success" msgid="5945675696592056557">"ការ​ពង្រីក​រូបភាព​បាន​ជោគជ័យ!"</string>
+    <string name="mmp_img_player_pan_failed" msgid="5872051943605585443">"ការ​​ពង្រីក​រូបភាព​មិន​បាន​សម្រេច​ទេ!"</string>
+    <string name="mmp_img_player_pan_parameter_invalid" msgid="2926828788120735833">"ប៉ារ៉ាម៉ែត្រ​ពង្រីក​រូបភាព​មិន​ត្រឹមត្រូវ​ទេ!"</string>
+    <string name="mmp_img_player_file_not_support" msgid="8044505304152821864">"មិន​ស្គាល់​ឯកសារ​ទេ"</string>
+    <string name="mmp_img_player_zooming" msgid="1589759384473792147">"កំពុង​ពង្រីកបង្រួម​រូបភាព..."</string>
+    <string name="mmp_img_player_rotating" msgid="8461823781551361070">"កំពុង​បង្វិល​រូបភាព..."</string>
+    <string name="mmp_img_player_net_disconnect" msgid="3644363535411515478">"អ៊ីនធឺណិត​បានដាច់ សូម​ពិនិត្យមើលវា!"</string>
+    <string name="mmp_img_player_play_error" msgid="123735832200732918">"មាន​បញ្ហា​ក្នុងការ​ចាក់"</string>
+    <string name="mmp_img_player_play_error_message" msgid="3430663918858289760">"បន្ត​ចាក់​រូបថត​បន្ទាប់​ឬ?"</string>
+    <string name="mmp_img_player_ok" msgid="8356204143754819176">"ធម្មតា"</string>
+    <string name="mmp_img_player_cancel" msgid="3518159083198557236">"បោះបង់"</string>
+    <string name="mmp_menu_audio_output_setting" msgid="460478476807807452">"អូឌីយ៉ូ​ចេញ"</string>
+</resources>

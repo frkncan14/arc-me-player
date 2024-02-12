@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:shape="rectangle">
+    <solid android:color="@color/mmp_folder_item_focus_color"/>
+    <!-- <corners android:radius="2dp"/>
+    <stroke android:width="1dp"
+        android:color="@color/grid_aow_stroke"/>-->
+</shape>

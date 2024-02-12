@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="1302280443949172191" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="1324831542140195728" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="8362206064229013510" name="abc_menu_delete_shortcut_label">"Delete 键"</string>
+    <string msgid="8341180395196749340" name="abc_menu_enter_shortcut_label">"Enter 键"</string>
+    <string msgid="4792426091847145555" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="7643535737296831317" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="8126296154200614004" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2378550843553983978" name="abc_menu_space_shortcut_label">"空格键"</string>
+    <string msgid="9002602288060866689" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="1351762916121158029" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"使用<ns1:g id="APPLICATION_NAME">%s</ns1:g>分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string msgid="6252486888542859420" name="audio_downmixmode_auto_stereo">"自动切换成立体声"</string>
+    <string msgid="9198344825777497057" name="audio_downmixmode_stereo">"立体声"</string>
+    <string msgid="334719632751452503" name="audio_downmixmode_surround">"环绕声"</string>
+    <string msgid="2118182303039653332" name="audio_type_hearing_impaired">"听力障碍"</string>
+    <string msgid="2694538341761232347" name="audio_type_normal">"一般"</string>
+    <string msgid="1123879394721652732" name="audio_type_visually_impaired">"视力损害"</string>
+    <string msgid="370608298755159880" name="audio_visually_speaker_on">"开启"</string>
+    <string msgid="2811258922733489547" name="ci_menu_pin_correct">"正确！"</string>
+    <string msgid="44306490349881239" name="ci_menu_pin_outoftry">"已失败 3 次"</string>
+    <string msgid="7873486568190568594" name="ci_title">"Cam 信息"</string>
+    <string msgid="2721825378927619928" name="lb_control_display_fast_forward_multiplier">"%1$d 倍速"</string>
+    <string msgid="6173753802428649303" name="lb_control_display_rewind_multiplier">"%1$d 倍速"</string>
+    <string msgid="1122271825827282965" name="lb_guidedaction_continue_title">"继续"</string>
+    <string msgid="7747913934287176843" name="lb_guidedaction_finish_title">"完成"</string>
+    <string msgid="8748646000835486516" name="lb_media_player_error">"MediaPlayer 错误代码：%1$d extra %2$d"</string>
+    <string msgid="8126335323963415494" name="lb_navigation_menu_contentDescription">"导航菜单"</string>
+    <string msgid="4213611627196077555" name="lb_onboarding_accessibility_next">"继续"</string>
+    <string msgid="7674487829030291492" name="lb_onboarding_get_started">"开始使用"</string>
+    <string msgid="5508271941331836786" name="lb_playback_controls_closed_captioning_disable">"关闭字幕"</string>
+    <string msgid="3934392140182327163" name="lb_playback_controls_closed_captioning_enable">"开启字幕"</string>
+    <string msgid="8966769845721269304" name="lb_playback_controls_fast_forward">"快进"</string>
+    <string msgid="801276177839339511" name="lb_playback_controls_fast_forward_multiplier">"%1$d 倍速快进"</string>
+    <string msgid="619396299825306757" name="lb_playback_controls_hidden">"媒体控件已隐藏，按方向键即可显示"</string>
+    <string msgid="3000046054608531995" name="lb_playback_controls_high_quality_disable">"关闭高画质模式"</string>
+    <string msgid="1862669142355962638" name="lb_playback_controls_high_quality_enable">"开启高画质模式"</string>
+    <string msgid="2827883329510404797" name="lb_playback_controls_more_actions">"更多操作"</string>
+    <string msgid="1769131316742618433" name="lb_playback_controls_pause">"暂停"</string>
+    <string msgid="8800305194045609275" name="lb_playback_controls_picture_in_picture">"进入画中画模式"</string>
+    <string msgid="1590369760862605402" name="lb_playback_controls_play">"播放"</string>
+    <string msgid="5164826436271322261" name="lb_playback_controls_repeat_all">"重复播放全部"</string>
+    <string msgid="5812341701962930499" name="lb_playback_controls_repeat_none">"不重复播放"</string>
+    <string msgid="7675097479246139440" name="lb_playback_controls_repeat_one">"重复播放一项"</string>
+    <string msgid="1412664391757869774" name="lb_playback_controls_rewind">"快退"</string>
+    <string msgid="8651612807713092781" name="lb_playback_controls_rewind_multiplier">"%1$d 倍速快退"</string>
+    <string msgid="7794717158616536936" name="lb_playback_controls_shown">"媒体控件已显示"</string>
+    <string msgid="8182435535948303910" name="lb_playback_controls_shuffle_disable">"关闭随机播放"</string>
+    <string msgid="7809089255981448519" name="lb_playback_controls_shuffle_enable">"开启随机播放"</string>
+    <string msgid="4877009494447817003" name="lb_playback_controls_skip_next">"跳至下一个"</string>
+    <string msgid="3147124289285911980" name="lb_playback_controls_skip_previous">"跳至上一个"</string>
+    <string msgid="5075744418630733006" name="lb_playback_controls_thumb_down">"取消选择踩操作"</string>
+    <string msgid="2847309435442474470" name="lb_playback_controls_thumb_down_outline">"选择踩操作"</string>
+    <string msgid="8332816524260995892" name="lb_playback_controls_thumb_up">"取消选择顶操作"</string>
+    <string msgid="1038344559734334272" name="lb_playback_controls_thumb_up_outline">"选择顶操作"</string>
+    <string msgid="6549544638083578695" name="lb_playback_time_separator">"/"</string>
+    <string msgid="4819380969103509861" name="lb_search_bar_hint">"搜索"</string>
+    <string msgid="2795474673510974502" name="lb_search_bar_hint_speech">"说话即可开始搜索"</string>
+    <string msgid="7453744869467668159" name="lb_search_bar_hint_with_title">"搜索<ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>"</string>
+    <string msgid="5851694095153624617" name="lb_search_bar_hint_with_title_speech">"说话即可在<ns1:g id="SEARCH_CONTEXT">%1$s</ns1:g>中搜索"</string>
+    <string msgid="369622289092215581" name="menu_audio_downmix_mode">"缩混模式"</string>
+    <string msgid="5301498529072828729" name="menu_audio_sound_tracks">"音轨"</string>
+    <string msgid="3925035178729537764" name="menu_audio_type">"类型"</string>
+    <string msgid="1021914828438131833" name="menu_audio_visually_headphone">"耳机"</string>
+    <string msgid="890324054395264387" name="menu_audio_visually_impaired">"有视觉障碍"</string>
+    <string msgid="7971592314178467071" name="menu_audio_visually_impaired_audio">"视障用户适用的音频"</string>
+    <string msgid="254417077185821478" name="menu_audio_visually_pan_and_fade">"平移并淡出"</string>
+    <string msgid="3395844900051508934" name="menu_audio_visually_speaker">"扬声器"</string>
+    <string msgid="5641549986551666376" name="menu_audio_visually_volume">"音量"</string>
+    <string msgid="6682716298813053640" name="menu_ci_cam_scan">"Cam 扫描"</string>
+    <string msgid="1511134859611073545" name="menu_header_name">"MMP 设置"</string>
+    <string msgid="5344652034012728056" name="menu_interface_name">"菜单"</string>
+    <string msgid="1093655261469491523" name="menu_ok">"确定"</string>
+    <string msgid="2747119305523328476" name="menu_setup_auto_synchronization">"自动同步"</string>
+    <string msgid="6441540214352249304" name="menu_setup_ci_cam_menu">"Cam 菜单"</string>
+    <string msgid="299413725358369465" name="menu_setup_ci_no_card">"找不到 CI 卡。"</string>
+    <string msgid="5559565535289512930" name="menu_setup_ci_pin_code">"请输入 CAM PIN 码"</string>
+    <string msgid="3687700881104571077" name="menu_setup_ci_pin_code_incorrect_tip">"错误。请重新输入！"</string>
+    <string msgid="4436890917486724920" name="menu_setup_ci_pin_code_input_tip">"请输入 PIN 码"</string>
+    <string msgid="8064350612522047642" name="menu_setup_divx_cancel">"取消"</string>
+    <string msgid="4562213054964641645" name="menu_setup_exo_payer_switcher">"Exoplayer 切换器"</string>
+    <string msgid="8175416643475601862" name="menu_setup_my_net_place">"我的网络地点"</string>
+    <string msgid="7298518816232860684" name="menu_setup_network">"网络"</string>
+    <string msgid="8706227639060679235" name="mmp_audio">"音乐"</string>
+    <string msgid="298426631612159434" name="mmp_audio_notsupport">"不支持此音频格式"</string>
+    <string msgid="1724158907378873072" name="mmp_before_pip_exit_dot_by_dot">"进入画中画模式后，系统会将屏幕模式切换为“一般”。"</string>
+    <string msgid="632844846305154273" name="mmp_before_pip_zoom_1x">"进入画中画模式后，系统会将缩放比例变更为“一般”。"</string>
+    <string msgid="6018333824877204292" name="mmp_bt_mode_notsupport">"不支持 BT 模式"</string>
+    <string msgid="7729296381668175272" name="mmp_buffer_not_enough">"缓冲区不足"</string>
+    <string msgid="2518565216632544676" name="mmp_buffering_tip">"系统正在缓冲视频。请稍候…"</string>
+    <string msgid="3261313315531378417" name="mmp_cancel">"取消"</string>
+    <string msgid="824603266897705710" name="mmp_capture_confirm">"要获取此屏幕的屏幕截图吗？"</string>
+    <string msgid="7209687460094347177" name="mmp_capture_title">"拍摄徽标"</string>
+    <string msgid="1676194732557780029" name="mmp_change_mode">"浏览模式"</string>
+    <string msgid="3987501643229207065" name="mmp_confirm">"确认"</string>
+    <string msgid="7031672633853273745" name="mmp_divx_audioName">"音频："</string>
+    <string msgid="3487487752488508131" name="mmp_divx_chapter">"章节"</string>
+    <string msgid="5306846019024910826" name="mmp_divx_edition">"版本"</string>
+    <string msgid="904348339487006815" name="mmp_divx_subtitleName">"副标题："</string>
+    <string msgid="6437496733832500819" name="mmp_divx_title">"标题"</string>
+    <string msgid="6189648564456332471" name="mmp_dlnaserver_disconnected">"DLNA 服务器已断开连接。请检查网络和服务器状态！"</string>
+    <string msgid="1069917251011513121" name="mmp_dmr_network_failed">"无法启动 DMR。无法连接到网络。"</string>
+    <string msgid="4516534251149034263" name="mmp_dmr_started">"DMR 已启动。"</string>
+    <string msgid="1846715628857289261" name="mmp_dmr_starting">"正在启动 DMR。"</string>
+    <string msgid="1998446749263931258" name="mmp_dmr_url_failed">"网址无效"</string>
+    <string msgid="675462032122703604" name="mmp_drm_register">"您的设备无权播放\n这部受 Divx@ 保护的视频。"</string>
+    <string msgid="4545823732483395837" name="mmp_drm_register_continue">"继续？"</string>
+    <string msgid="130018121204117964" name="mmp_drm_register_expired">"Divx@ 租看影片已过期"</string>
+    <string msgid="1308738041895750904" name="mmp_drm_register_used">"Divx@ 租借影片已观看\n<ns1:g id="MMP_DRM_REGISTER_USED_XLI">%1$s</ns1:g> 次（共可观看 <ns1:g id="MMP_DRM_REGISTER_USED_TWO_XLI">%2$s</ns1:g> 次）"</string>
+    <string msgid="7299272765998117529" name="mmp_emptyfile">"当前文件夹是空的！"</string>
+    <string msgid="6051283891356437825" name="mmp_exit">"退出"</string>
+    <string msgid="8285945520158433641" name="mmp_featue_notsupport">"无法使用此功能"</string>
+    <string msgid="3689294857477023502" name="mmp_file_corrupt">"文件已损坏"</string>
+    <string msgid="7808733987932045433" name="mmp_file_notsupport">"系统不支持这个文件"</string>
+    <string msgid="3684111810245692657" name="mmp_frame_photo_sleeptime">"睡眠时间"</string>
+    <string msgid="1532417882851899990" name="mmp_img_player_can_not_decode">"此图片无法解码！"</string>
+    <string msgid="3518159083198557236" name="mmp_img_player_cancel">"取消"</string>
+    <string msgid="251111120950935657" name="mmp_img_player_decode_failed">"图片解码失败！"</string>
+    <string msgid="5237697103906052112" name="mmp_img_player_decoding">"图片正在解码…"</string>
+    <string msgid="8044505304152821864" name="mmp_img_player_file_not_support">"不支持此文件"</string>
+    <string msgid="5781151658958709239" name="mmp_img_player_gif_not_allow">"请勿在 GIF 动画模式下操作"</string>
+    <string msgid="563937068344863239" name="mmp_img_player_low_memory">"内存不足！"</string>
+    <string msgid="7337920113397012863" name="mmp_img_player_max_tip">"最大缩放比例！"</string>
+    <string msgid="4286863235386750909" name="mmp_img_player_min_tip">"最小缩放比例！"</string>
+    <string msgid="3644363535411515478" name="mmp_img_player_net_disconnect">"网络已断开，请检查！"</string>
+    <string msgid="8356204143754819176" name="mmp_img_player_ok">"确定"</string>
+    <string msgid="5872051943605585443" name="mmp_img_player_pan_failed">"图片平移失败！"</string>
+    <string msgid="2926828788120735833" name="mmp_img_player_pan_parameter_invalid">"图片平移参数无效！"</string>
+    <string msgid="5945675696592056557" name="mmp_img_player_pan_success">"图片平移成功！"</string>
+    <string msgid="7812511256832915936" name="mmp_img_player_photo_wallpaper">"照片壁纸"</string>
+    <string msgid="123735832200732918" name="mmp_img_player_play_error">"播放出错"</string>
+    <string msgid="3430663918858289760" name="mmp_img_player_play_error_message">"要继续播放下一张照片吗？"</string>
+    <string msgid="8461823781551361070" name="mmp_img_player_rotating">"正在旋转图片…"</string>
+    <string msgid="1229810181937509638" name="mmp_img_player_scale_or_rotate_not_allow">"请勿在缩放或旋转模式下操作"</string>
+    <string msgid="3584202222258659321" name="mmp_img_player_setting_wallpaper">"正在设置壁纸…"</string>
+    <string msgid="4696641526998650922" name="mmp_img_player_setting_wallpaper_plz_wait">"正在设置壁纸，请稍候…"</string>
+    <string msgid="3594013303919654760" name="mmp_img_player_wallpaper_not_supported">"不支持壁纸"</string>
+    <string msgid="1589759384473792147" name="mmp_img_player_zooming">"正在缩放图片…"</string>
+    <string msgid="7720981179637224588" name="mmp_info_album">"专辑："</string>
+    <string msgid="6966050205975687821" name="mmp_info_artist">"音乐人："</string>
+    <string msgid="1267866496055028627" name="mmp_info_audio">"音频："</string>
+    <string msgid="991833052722703084" name="mmp_info_colorspace">"颜色空间："</string>
+    <string msgid="2260484851899108080" name="mmp_info_copyrght">"版权："</string>
+    <string msgid="4300927192893785690" name="mmp_info_date">"日期："</string>
+    <string msgid="8050309676555265722" name="mmp_info_director">"原创作者："</string>
+    <string msgid="7689265303365835747" name="mmp_info_duration">"时长："</string>
+    <string msgid="1297476777953501472" name="mmp_info_exposure">"曝光时间："</string>
+    <string msgid="1482374643316448288" name="mmp_info_flash">"闪光灯："</string>
+    <string msgid="2220709797456364777" name="mmp_info_fnumber">"光圈值："</string>
+    <string msgid="7185730465171519772" name="mmp_info_focallength">"焦距："</string>
+    <string msgid="2473418313212427139" name="mmp_info_genre">"类型："</string>
+    <string msgid="2276225818924525010" name="mmp_info_lastpage">"上一页"</string>
+    <string msgid="5019160699386040694" name="mmp_info_make">"相机制造商："</string>
+    <string msgid="2555791677451848012" name="mmp_info_model">"相机型号："</string>
+    <string msgid="8058742280848190551" name="mmp_info_name">"名称："</string>
+    <string msgid="4380397773389543174" name="mmp_info_next">"接下来将播放："</string>
+    <string msgid="6044269836515584059" name="mmp_info_nextpage">"下一页"</string>
+    <string msgid="2011077578197667092" name="mmp_info_nolrc">"无歌词"</string>
+    <string msgid="3830902756642165426" name="mmp_info_orientation">"照片方向："</string>
+    <string msgid="2062980080114642715" name="mmp_info_program">"曝光程序："</string>
+    <string msgid="959025658391753505" name="mmp_info_size">"大小："</string>
+    <string msgid="7820876214484582645" name="mmp_info_title">"标题："</string>
+    <string msgid="4243391745350656248" name="mmp_info_whitebalance">"白平衡："</string>
+    <string msgid="2941904149668986691" name="mmp_info_year">"年份："</string>
+    <string msgid="8592845546999906622" name="mmp_input">"输入"</string>
+    <string msgid="5707789973312733102" name="mmp_lable_rorate">"旋转"</string>
+    <string msgid="445353399276221319" name="mmp_last_memory">"上次记忆位置"</string>
+    <string msgid="4214666976622254352" name="mmp_last_memory_position">"位置"</string>
+    <string msgid="8257690755872409500" name="mmp_last_memory_time">"时间"</string>
+    <string msgid="5562820685064587733" name="mmp_list_mode_cannot_pip">"使用文件列表模式时无法进入画中画模式！"</string>
+    <string msgid="6373109875045173807" name="mmp_loading_tip">"正在解析此文件夹。请稍候…"</string>
+    <string msgid="1843731122426925591" name="mmp_login_failed_tip">"用户名或密码不正确！"</string>
+    <string msgid="1073430028079692146" name="mmp_media_file_lost">"尚未连接到当前设备！"</string>
+    <string msgid="9128160029441897577" name="mmp_media_info_scrambled_audio_clear_video_service">"加扰音频"</string>
+    <string msgid="2572785485574211543" name="mmp_media_info_scrambled_audio_no_video_service">"加扰音频（只有音频流）"</string>
+    <string msgid="7436208224667913266" name="mmp_media_info_scrambled_audio_video_service">"加扰视频和音频"</string>
+    <string msgid="7830438018396694250" name="mmp_media_info_scrambled_video_clear_audio_service">"加扰视频"</string>
+    <string msgid="854977936934627520" name="mmp_media_info_scrambled_video_no_audio_service">"加扰视频（只有视频流）"</string>
+    <string msgid="9079948768207079095" name="mmp_menu">"菜单"</string>
+    <string msgid="5285128498963238352" name="mmp_menu_1x">"1 倍速播放"</string>
+    <string msgid="5203852169875721932" name="mmp_menu_2x">"2 倍速播放"</string>
+    <string msgid="4983366475199077876" name="mmp_menu_3d_photo">"3D 照片"</string>
+    <string msgid="4526236448038226345" name="mmp_menu_4x">"4 倍速播放"</string>
+    <string msgid="2114499624068654079" name="mmp_menu_album">"专辑"</string>
+    <string msgid="2764300205206905274" name="mmp_menu_artist">"音乐人"</string>
+    <string msgid="7290654328973000754" name="mmp_menu_audio">"音频"</string>
+    <string msgid="460478476807807452" name="mmp_menu_audio_output_setting">"音频输出"</string>
+    <string msgid="4297665618950944208" name="mmp_menu_audio_setting">"音频设置"</string>
+    <string msgid="6817452675899749723" name="mmp_menu_auto">"自动"</string>
+    <string msgid="5628264820914306931" name="mmp_menu_black">"黑色"</string>
+    <string msgid="5473608042810495615" name="mmp_menu_blue">"蓝色"</string>
+    <string msgid="1573884329277707594" name="mmp_menu_bold">"粗体"</string>
+    <string msgid="7047199484148726413" name="mmp_menu_boxin">"Box In 效果"</string>
+    <string msgid="6759124402362929260" name="mmp_menu_boxout">"Box Out 效果"</string>
+    <string msgid="2136070988230279780" name="mmp_menu_color">"颜色"</string>
+    <string msgid="7728066670652565778" name="mmp_menu_copy">"复制"</string>
+    <string msgid="8666017604362763396" name="mmp_menu_date">"日期"</string>
+    <string msgid="8911245550314385994" name="mmp_menu_delete">"删除"</string>
+    <string msgid="7054330190938975189" name="mmp_menu_display">"显示行数"</string>
+    <string msgid="7113502065311218484" name="mmp_menu_dissolve">"渐隐"</string>
+    <string msgid="3457072780002542559" name="mmp_menu_duration">"时长"</string>
+    <string msgid="1095076262850741888" name="mmp_menu_effect">"效果"</string>
+    <string msgid="1550879051107028343" name="mmp_menu_encoding">"编码"</string>
+    <string msgid="7375862916728883987" name="mmp_menu_font">"字体"</string>
+    <string msgid="7986960666934851018" name="mmp_menu_frame">"相框模式图片"</string>
+    <string msgid="3602706448625133614" name="mmp_menu_full_screen">"全屏"</string>
+    <string msgid="263980932337808189" name="mmp_menu_genre">"流派"</string>
+    <string msgid="34696038896883398" name="mmp_menu_green">"绿色"</string>
+    <string msgid="4381535154938875554" name="mmp_menu_hidescore">"隐藏频谱"</string>
+    <string msgid="4446097703965671221" name="mmp_menu_img_zoom_in">"放大"</string>
+    <string msgid="9026341167144546000" name="mmp_menu_img_zoom_out">"缩小"</string>
+    <string msgid="3823262772644701909" name="mmp_menu_italic">"斜体"</string>
+    <string msgid="7424577337890603197" name="mmp_menu_jump_time">"搜索"</string>
+    <string msgid="5005608858465935364" name="mmp_menu_large">"大"</string>
+    <string msgid="3882136219055983996" name="mmp_menu_long">"长"</string>
+    <string msgid="1348924294626050138" name="mmp_menu_lyricoptions">"歌词选项"</string>
+    <string msgid="7324251596256819138" name="mmp_menu_mediatype">"媒体类型"</string>
+    <string msgid="7564524044246800587" name="mmp_menu_medium">"中"</string>
+    <string msgid="7959098173252455354" name="mmp_menu_mount_iso">"安装当前的 iso 文件"</string>
+    <string msgid="7052296904664940357" name="mmp_menu_multiline">"多行"</string>
+    <string msgid="5387149570422271841" name="mmp_menu_music">"音乐"</string>
+    <string msgid="812493345015711141" name="mmp_menu_name">"名称"</string>
+    <string msgid="7926890038540120590" name="mmp_menu_none">"无"</string>
+    <string msgid="7112174768461191390" name="mmp_menu_not_recur">"一般解析器"</string>
+    <string msgid="386038732335984329" name="mmp_menu_off">"关闭"</string>
+    <string msgid="6864735135037376411" name="mmp_menu_onephotomode">"单张照片模式"</string>
+    <string msgid="6135759649381327350" name="mmp_menu_outline">"粗斜体"</string>
+    <string msgid="6417694118168861647" name="mmp_menu_over_scan">"过扫描"</string>
+    <string msgid="1289836061276427065" name="mmp_menu_paste">"粘贴"</string>
+    <string msgid="2009629214475280978" name="mmp_menu_pause">"暂停"</string>
+    <string msgid="7297221471059815216" name="mmp_menu_photo_frame">"已设置相框模式"</string>
+    <string msgid="1214517932766614549" name="mmp_menu_photoframe">"相框模式"</string>
+    <string msgid="7836919472204616006" name="mmp_menu_phototext">"照片"</string>
+    <string msgid="8682447848318300605" name="mmp_menu_pic_setting">"照片设置"</string>
+    <string msgid="4197984410377941805" name="mmp_menu_picture_off">"关闭画面"</string>
+    <string msgid="4868172328224771042" name="mmp_menu_picturemode">"图片模式"</string>
+    <string msgid="544799819593204858" name="mmp_menu_play">"播放"</string>
+    <string msgid="8078405319367563721" name="mmp_menu_play_speed">"播放速度"</string>
+    <string msgid="2389161930234842696" name="mmp_menu_random">"随机"</string>
+    <string msgid="4965264343654944343" name="mmp_menu_recur">"递归解析器"</string>
+    <string msgid="4218204192222522501" name="mmp_menu_red">"红色"</string>
+    <string msgid="7949610806181219455" name="mmp_menu_regular">"常规"</string>
+    <string msgid="7258120466270016557" name="mmp_menu_repeat">"重复"</string>
+    <string msgid="6158142728959841974" name="mmp_menu_repeatall">"全部重复播放"</string>
+    <string msgid="7788100339932357215" name="mmp_menu_repeatone">"重复播放一项内容"</string>
+    <string msgid="8190003337362481311" name="mmp_menu_rotate">"旋转"</string>
+    <string msgid="2525882655804508677" name="mmp_menu_rotate_0">"旋转 0 度"</string>
+    <string msgid="828127129735548816" name="mmp_menu_rotate_180">"旋转 180 度"</string>
+    <string msgid="9010954915556187744" name="mmp_menu_rotate_270">"旋转 270 度"</string>
+    <string msgid="5499075283143867382" name="mmp_menu_rotate_90">"旋转 90 度"</string>
+    <string msgid="4412352992234044423" name="mmp_menu_screenmode">"屏幕模式"</string>
+    <string msgid="5777774655121984779" name="mmp_menu_short">"短"</string>
+    <string msgid="4691897570336226826" name="mmp_menu_showinfo">"显示信息"</string>
+    <string msgid="3018721062927128088" name="mmp_menu_showscore">"显示频谱"</string>
+    <string msgid="3397849470999515065" name="mmp_menu_shuffle">"随机播放"</string>
+    <string msgid="5629298854768064250" name="mmp_menu_shuffleoff">"关闭随机播放"</string>
+    <string msgid="308830560936676103" name="mmp_menu_shuffleon">"开启随机播放"</string>
+    <string msgid="7431120586848806664" name="mmp_menu_singleline">"单行"</string>
+    <string msgid="2228124380030616200" name="mmp_menu_size">"大小"</string>
+    <string msgid="4105561830760841729" name="mmp_menu_small">"小"</string>
+    <string msgid="8373528614821710603" name="mmp_menu_sort">"排序"</string>
+    <string msgid="1341976547098523497" name="mmp_menu_sound_setting">"声音设置"</string>
+    <string msgid="4128151098473753722" name="mmp_menu_style">"样式"</string>
+    <string msgid="6717942460780111286" name="mmp_menu_subtitle_encoding">"字幕编码"</string>
+    <string msgid="5962796217247350807" name="mmp_menu_text">"文本"</string>
+    <string msgid="2613417042892386301" name="mmp_menu_thumb">"缩略图大小"</string>
+    <string msgid="100700072644603332" name="mmp_menu_timeoffset">"时区设定"</string>
+    <string msgid="1649143081737426246" name="mmp_menu_type">"类型"</string>
+    <string msgid="8948169787009591217" name="mmp_menu_unmount_iso">"卸载当前设备"</string>
+    <string msgid="4876094705350753243" name="mmp_menu_userdefine">"用户指定"</string>
+    <string msgid="5189292319328786647" name="mmp_menu_video">"视频"</string>
+    <string msgid="5678135140588088459" name="mmp_menu_wallpaper">"设为壁纸"</string>
+    <string msgid="8719113369246148681" name="mmp_menu_white">"白色"</string>
+    <string msgid="1719128764041925790" name="mmp_menu_wipedown">"向下擦除"</string>
+    <string msgid="2398173785822262445" name="mmp_menu_wipeleft">"向左擦除"</string>
+    <string msgid="1484246629923871092" name="mmp_menu_wiperight">"向右擦除"</string>
+    <string msgid="59996185178096696" name="mmp_menu_wipeup">"向上擦除"</string>
+    <string msgid="1195420639323452586" name="mmp_menu_zoom">"缩放"</string>
+    <string msgid="6777614659086530912" name="mmp_message_confirm_delete">"确定要删除所选文件吗？"</string>
+    <string msgid="5868285892080714347" name="mmp_message_confirm_replace">"此文件夹已包含使用以下名称的文件：\n<ns1:g id="MMP_MESSAGE_CONFIRM_REPLACE_XLI">%s</ns1:g>"</string>
+    <string msgid="4808547807069922623" name="mmp_message_copy">"<ns1:g id="MMP_MESSAGE_COPY_ONE_XLI">%1$s</ns1:g>\n来源文件夹：<ns1:g id="MMP_MESSAGE_COPY_TWO_XLI">%2$s</ns1:g>\n目标文件夹：<ns1:g id="MMP_MESSAGE_COPY_THREE_XLI">%3$s</ns1:g>"</string>
+    <string msgid="6819583620403834086" name="mmp_no">"否"</string>
+    <string msgid="361057196557407981" name="mmp_no_devices_tips">"找不到设备。请插入设备或稍后重试！"</string>
+    <string msgid="6634130010421915083" name="mmp_nodevice">"未连接到任何设备！"</string>
+    <string msgid="5351498401675171534" name="mmp_notsupport">"系统不支持这项操作"</string>
+    <string msgid="7246671616128389098" name="mmp_ok">"确定"</string>
+    <string msgid="52423781427686112" name="mmp_password">"密码"</string>
+    <string msgid="8843390942428145152" name="mmp_photo">"照片"</string>
+    <string msgid="1102594345605622608" name="mmp_photo_type_notsupport">"系统不支持这个文件"</string>
+    <string msgid="5335593605293341055" name="mmp_play_speed_notsupport_fb">"在快速播放模式下，系统会停用快退功能"</string>
+    <string msgid="5406970534491698132" name="mmp_play_speed_notsupport_ff">"在快速播放模式下，系统会停用快进功能"</string>
+    <string msgid="1573762708654838975" name="mmp_pop_repeat_tvsingle">"重复播放单一文件"</string>
+    <string msgid="4444610414043102239" name="mmp_pop_zoomscale">"播放倍速"</string>
+    <string msgid="6500393214807298054" name="mmp_pvr_play_from_tv_cannot_pip">"个人视频录像机播放时无法进入画中画模式！"</string>
+    <string msgid="8603627514980705968" name="mmp_reutip">"正在解析此文件夹。请稍候…"</string>
+    <string msgid="2794517051734603832" name="mmp_seamless_mode">"流畅"</string>
+    <string msgid="6502962176792078529" name="mmp_seamless_mode_off">"关闭"</string>
+    <string msgid="2680879271354894946" name="mmp_seamless_mode_on">"开启"</string>
+    <string msgid="7212075520894633540" name="mmp_seek_notsupport">"系统不支持跳转操作"</string>
+    <string msgid="4407585001484425898" name="mmp_select">"选择"</string>
+    <string msgid="552336639790838524" name="mmp_sleeptime_lable">"睡眠时间："</string>
+    <string msgid="6858087783268138488" name="mmp_step_notsupport">"系统不支持逐格播放"</string>
+    <string msgid="4077978808166924627" name="mmp_text">"文本"</string>
+    <string msgid="2771473755878694067" name="mmp_time_out">"您输入的时间代码有误！\n请确保输入的时间代码短于总时间。"</string>
+    <string msgid="8377725312373475404" name="mmp_title_confirm_delete">"确认删除文件"</string>
+    <string msgid="4771822119501444534" name="mmp_title_confirm_replace">"确认替换文件"</string>
+    <string msgid="8583348774130086919" name="mmp_title_copy">"正在复制"</string>
+    <string msgid="881397136260176005" name="mmp_toast_no_photoframe">"没有可播放的相框模式"</string>
+    <string msgid="4038160189084155137" name="mmp_user_name">"用户名"</string>
+    <string msgid="2680263982702698720" name="mmp_video">"视频"</string>
+    <string msgid="7276989523119391715" name="mmp_video_info_bitrate">"比特率："</string>
+    <string msgid="6216504677173286907" name="mmp_video_info_last_Modified_date">"上次修改日期："</string>
+    <string msgid="8392200579627394727" name="mmp_video_info_resolution">"分辨率："</string>
+    <string msgid="5161911583717273611" name="mmp_video_info_size">"大小："</string>
+    <string msgid="3746654153060516549" name="mmp_video_notsupport">"系统不支持视频编解码器"</string>
+    <string msgid="7278869886485261082" name="mmp_video_only">"仅视频"</string>
+    <string msgid="1769167470574168506" name="mmp_video_stopresume">"停止恢复"</string>
+    <string msgid="879524843720392844" name="mmp_vkb">"输入"</string>
+    <string msgid="2220959537681782417" name="mmp_wrong_psw">"密码不正确。您已尝试 <ns1:g id="MMP_WRONG_PSW_TWO_XLI">%2$s</ns1:g> 次，总共可以尝试 <ns1:g id="MMP_WRONG_PSW_ONE_XLI">%1$s</ns1:g> 次。请重试！"</string>
+    <string msgid="8825062653561586733" name="mmp_yes">"是"</string>
+    <string msgid="2188249996394727534" name="mmp_yes_to_all">"全部确认"</string>
+    <string msgid="5129848968977804299" name="nav_parent_psw">"输入您的密码"</string>
+    <string msgid="7534843523462177008" name="orb_search_action">"搜索操作"</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
+    <string msgid="7988687684186075107" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

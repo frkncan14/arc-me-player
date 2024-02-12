@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_header_name" msgid="1511134859611073545">"MMP સેટિંગ"</string>
+    <string name="menu_interface_name" msgid="5344652034012728056">"મેનૂ"</string>
+    <string name="menu_ok" msgid="1093655261469491523">"ઓકે"</string>
+    <string name="menu_setup_divx_cancel" msgid="8064350612522047642">"રદ કરો"</string>
+    <string name="menu_audio_type" msgid="3925035178729537764">"પ્રકાર"</string>
+    <string name="menu_audio_visually_impaired" msgid="890324054395264387">"નબળી દૃષ્ટિવાળી વ્યક્તિ માટે"</string>
+    <string name="menu_audio_visually_speaker" msgid="3395844900051508934">"સ્પીકર"</string>
+    <string name="menu_audio_visually_headphone" msgid="1021914828438131833">"હેડફોન"</string>
+    <string name="menu_audio_visually_volume" msgid="5641549986551666376">"વૉલ્યૂમ"</string>
+    <string name="menu_audio_visually_pan_and_fade" msgid="254417077185821478">"ફેરવો અને દૂર લઈ જાઓ"</string>
+    <string name="menu_audio_visually_impaired_audio" msgid="7971592314178467071">"નબળી દૃષ્ટિવાળા માટે ઑડિયો"</string>
+    <string name="menu_audio_downmix_mode" msgid="369622289092215581">"Downmix મોડ"</string>
+    <string name="menu_audio_sound_tracks" msgid="5301498529072828729">"સાઉન્ડ ટ્રૅક"</string>
+    <string name="menu_setup_network" msgid="7298518816232860684">"નેટવર્ક"</string>
+    <string name="menu_setup_my_net_place" msgid="8175416643475601862">"મારા નેટવર્ક સ્થાન"</string>
+    <string name="menu_setup_ci_no_card" msgid="299413725358369465">"કોઈ CI કાર્ડ પ્રસ્તુત કર્યો નથી."</string>
+    <string name="menu_setup_ci_cam_menu" msgid="6441540214352249304">"કૅમેરાનું મેનૂ"</string>
+    <string name="menu_setup_ci_pin_code" msgid="5559565535289512930">"કૃપા કરીને કૅમેરાનો પિન કોડ દાખલ કરો"</string>
+    <string name="menu_setup_ci_pin_code_input_tip" msgid="4436890917486724920">"કૃપા કરીને પિન કોડ દાખલ કરો"</string>
+    <string name="menu_setup_ci_pin_code_incorrect_tip" msgid="3687700881104571077">"ખોટું. ફરી દાખલ કરો!"</string>
+    <string name="menu_setup_auto_synchronization" msgid="2747119305523328476">"ઑટોમૅટિક રીતે સિંક્રનાઇઝેશન"</string>
+    <string name="menu_setup_exo_payer_switcher" msgid="4562213054964641645">"Exo પ્લેયર સ્વિચ કરવાની સુવિધા"</string>
+    <string name="menu_ci_cam_scan" msgid="6682716298813053640">"કૅમેરા સ્કૅન"</string>
+    <string name="ci_title" msgid="7873486568190568594">"કૅમેરાની માહિતી"</string>
+</resources>

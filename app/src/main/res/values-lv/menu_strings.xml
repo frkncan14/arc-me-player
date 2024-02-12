@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_header_name" msgid="1511134859611073545">"MMP iestatījumi"</string>
+    <string name="menu_interface_name" msgid="5344652034012728056">"Izvēlne"</string>
+    <string name="menu_ok" msgid="1093655261469491523">"Labi"</string>
+    <string name="menu_setup_divx_cancel" msgid="8064350612522047642">"Atcelt"</string>
+    <string name="menu_audio_type" msgid="3925035178729537764">"Veids"</string>
+    <string name="menu_audio_visually_impaired" msgid="890324054395264387">"Ar redzes traucējumiem"</string>
+    <string name="menu_audio_visually_speaker" msgid="3395844900051508934">"Skaļrunis"</string>
+    <string name="menu_audio_visually_headphone" msgid="1021914828438131833">"Austiņas"</string>
+    <string name="menu_audio_visually_volume" msgid="5641549986551666376">"Skaļums"</string>
+    <string name="menu_audio_visually_pan_and_fade" msgid="254417077185821478">"Funkcija “Pan and Fade”"</string>
+    <string name="menu_audio_visually_impaired_audio" msgid="7971592314178467071">"Audio cilvēkiem ar redzes traucējumiem"</string>
+    <string name="menu_audio_downmix_mode" msgid="369622289092215581">"Sistēmas skaņu kombinēšanas režīms"</string>
+    <string name="menu_audio_sound_tracks" msgid="5301498529072828729">"Filmu mūzika"</string>
+    <string name="menu_setup_network" msgid="7298518816232860684">"Tīkls"</string>
+    <string name="menu_setup_my_net_place" msgid="8175416643475601862">"Manas tīkla vietas"</string>
+    <string name="menu_setup_ci_no_card" msgid="299413725358369465">"Nav CI kartes."</string>
+    <string name="menu_setup_ci_cam_menu" msgid="6441540214352249304">"Kameras izvēlne"</string>
+    <string name="menu_setup_ci_pin_code" msgid="5559565535289512930">"Lūdzu, ievadiet kameras PIN kodu"</string>
+    <string name="menu_setup_ci_pin_code_input_tip" msgid="4436890917486724920">"Lūdzu, ievadiet PIN kodu"</string>
+    <string name="menu_setup_ci_pin_code_incorrect_tip" msgid="3687700881104571077">"Nepareizi. Ievadiet vēlreiz!"</string>
+    <string name="menu_setup_auto_synchronization" msgid="2747119305523328476">"Automātiska sinhronizēšana"</string>
+    <string name="menu_setup_exo_payer_switcher" msgid="4562213054964641645">"Exo atskaņotāja slēdzis"</string>
+    <string name="menu_ci_cam_scan" msgid="6682716298813053640">"Kameras meklēšana"</string>
+    <string name="ci_title" msgid="7873486568190568594">"Kameras informācija"</string>
+</resources>

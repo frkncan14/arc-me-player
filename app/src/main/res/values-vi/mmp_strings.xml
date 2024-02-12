@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="mmp_menu" msgid="9079948768207079095">"Menu"</string>
+    <string name="mmp_menu_sort" msgid="8373528614821710603">"Sắp xếp"</string>
+    <string name="mmp_menu_mediatype" msgid="7324251596256819138">"Loại nội dung nghe nhìn"</string>
+    <string name="mmp_menu_thumb" msgid="2613417042892386301">"Kích thước hình thu nhỏ"</string>
+    <string name="mmp_menu_copy" msgid="7728066670652565778">"Sao chép"</string>
+    <string name="mmp_menu_paste" msgid="1289836061276427065">"Dán"</string>
+    <string name="mmp_menu_delete" msgid="8911245550314385994">"Xóa"</string>
+    <string name="mmp_menu_recur" msgid="4965264343654944343">"Trình phân tích cú pháp định kỳ"</string>
+    <string name="mmp_menu_not_recur" msgid="7112174768461191390">"Trình phân tích cú pháp bình thường"</string>
+    <string name="mmp_menu_photoframe" msgid="1214517932766614549">"Khung ảnh"</string>
+    <string name="mmp_menu_photo_frame" msgid="7297221471059815216">"Đã đặt khung ảnh"</string>
+    <string name="mmp_menu_play" msgid="544799819593204858">"Phát"</string>
+    <string name="mmp_menu_pause" msgid="2009629214475280978">"Tạm dừng"</string>
+    <string name="mmp_menu_repeat" msgid="7258120466270016557">"Lặp lại"</string>
+    <string name="mmp_menu_shuffle" msgid="3397849470999515065">"Trộn bài"</string>
+    <string name="mmp_menu_duration" msgid="3457072780002542559">"Thời lượng"</string>
+    <string name="mmp_menu_effect" msgid="1095076262850741888">"Hiệu ứng"</string>
+    <string name="mmp_menu_showinfo" msgid="4691897570336226826">"Hiển thị thông tin"</string>
+    <string name="mmp_menu_frame" msgid="7986960666934851018">"Hình ảnh khung ảnh"</string>
+    <string name="mmp_menu_rotate" msgid="8190003337362481311">"Xoay"</string>
+    <string name="mmp_menu_3d_photo" msgid="4983366475199077876">"Ảnh 3D"</string>
+    <string name="mmp_menu_display" msgid="7054330190938975189">"Dòng hiển thị"</string>
+    <string name="mmp_menu_timeoffset" msgid="100700072644603332">"Bù thời gian"</string>
+    <string name="mmp_menu_encoding" msgid="1550879051107028343">"Mã hóa"</string>
+    <string name="mmp_menu_picturemode" msgid="4868172328224771042">"Chế độ hình ảnh"</string>
+    <string name="mmp_menu_screenmode" msgid="4412352992234044423">"Chế độ màn hình"</string>
+    <string name="mmp_menu_font" msgid="7375862916728883987">"Phông chữ"</string>
+    <string name="mmp_menu_size" msgid="2228124380030616200">"Kích thước"</string>
+    <string name="mmp_menu_style" msgid="4128151098473753722">"Kiểu"</string>
+    <string name="mmp_menu_color" msgid="2136070988230279780">"Màu"</string>
+    <string name="mmp_menu_date" msgid="8666017604362763396">"Ngày"</string>
+    <string name="mmp_menu_name" msgid="812493345015711141">"Tên"</string>
+    <string name="mmp_menu_album" msgid="2114499624068654079">"Album"</string>
+    <string name="mmp_menu_artist" msgid="2764300205206905274">"Nghệ sĩ"</string>
+    <string name="mmp_menu_genre" msgid="263980932337808189">"Thể loại"</string>
+    <string name="mmp_menu_type" msgid="1649143081737426246">"Loại"</string>
+    <string name="mmp_menu_phototext" msgid="7836919472204616006">"Ảnh"</string>
+    <string name="mmp_menu_music" msgid="5387149570422271841">"Nhạc"</string>
+    <string name="mmp_menu_video" msgid="5189292319328786647">"Video"</string>
+    <string name="mmp_menu_text" msgid="5962796217247350807">"Văn bản"</string>
+    <string name="mmp_menu_small" msgid="4105561830760841729">"Nhỏ"</string>
+    <string name="mmp_menu_medium" msgid="7564524044246800587">"Trung bình"</string>
+    <string name="mmp_menu_large" msgid="5005608858465935364">"Lớn"</string>
+    <string name="mmp_menu_onephotomode" msgid="6864735135037376411">"Chế độ một ảnh"</string>
+    <string name="mmp_menu_none" msgid="7926890038540120590">"Không"</string>
+    <string name="mmp_menu_repeatone" msgid="7788100339932357215">"Lặp lại một"</string>
+    <string name="mmp_menu_repeatall" msgid="6158142728959841974">"Lặp lại tất cả"</string>
+    <string name="mmp_menu_shuffleoff" msgid="5629298854768064250">"Tắt trộn bài"</string>
+    <string name="mmp_menu_shuffleon" msgid="308830560936676103">"Bật trộn bài"</string>
+    <string name="mmp_menu_short" msgid="5777774655121984779">"Ngắn"</string>
+    <string name="mmp_menu_long" msgid="3882136219055983996">"Dài"</string>
+    <string name="mmp_menu_1x" msgid="5285128498963238352">"1X"</string>
+    <string name="mmp_menu_2x" msgid="5203852169875721932">"2X"</string>
+    <string name="mmp_menu_4x" msgid="4526236448038226345">"4X"</string>
+    <string name="mmp_menu_dissolve" msgid="7113502065311218484">"Làm mờ"</string>
+    <string name="mmp_menu_wiperight" msgid="1484246629923871092">"Xóa bên phải"</string>
+    <string name="mmp_menu_wipeleft" msgid="2398173785822262445">"Xóa bên trái"</string>
+    <string name="mmp_menu_wipeup" msgid="59996185178096696">"Xóa phía trên"</string>
+    <string name="mmp_menu_wipedown" msgid="1719128764041925790">"Xóa phía dưới"</string>
+    <string name="mmp_menu_boxin" msgid="7047199484148726413">"Trong hộp"</string>
+    <string name="mmp_menu_boxout" msgid="6759124402362929260">"Ngoài hộp"</string>
+    <string name="mmp_menu_random" msgid="2389161930234842696">"Ngẫu nhiên"</string>
+    <string name="mmp_menu_off" msgid="386038732335984329">"Tắt"</string>
+    <string name="mmp_menu_singleline" msgid="7431120586848806664">"Dòng đơn"</string>
+    <string name="mmp_menu_multiline" msgid="7052296904664940357">"Nhiều dòng"</string>
+    <string name="mmp_menu_auto" msgid="6817452675899749723">"Tự động"</string>
+    <string name="mmp_menu_userdefine" msgid="4876094705350753243">"Do người dùng xác định"</string>
+    <string name="mmp_menu_zoom" msgid="1195420639323452586">"Thu phóng"</string>
+    <string name="mmp_menu_regular" msgid="7949610806181219455">"Thường"</string>
+    <string name="mmp_menu_italic" msgid="3823262772644701909">"Nghiêng"</string>
+    <string name="mmp_menu_bold" msgid="1573884329277707594">"Đậm"</string>
+    <string name="mmp_menu_outline" msgid="6135759649381327350">"Đậm nghiêng"</string>
+    <string name="mmp_menu_white" msgid="8719113369246148681">"Trắng"</string>
+    <string name="mmp_menu_blue" msgid="5473608042810495615">"Xanh lam"</string>
+    <string name="mmp_menu_red" msgid="4218204192222522501">"Đỏ"</string>
+    <string name="mmp_menu_green" msgid="34696038896883398">"Xanh lục"</string>
+    <string name="mmp_menu_black" msgid="5628264820914306931">"Đen"</string>
+    <string name="mmp_menu_lyricoptions" msgid="1348924294626050138">"Tùy chọn lời bài hát"</string>
+    <string name="mmp_menu_showscore" msgid="3018721062927128088">"Hiển thị phổ màu"</string>
+    <string name="mmp_menu_hidescore" msgid="4381535154938875554">"Ẩn phổ màu"</string>
+    <string name="mmp_photo" msgid="8843390942428145152">"Ảnh"</string>
+    <string name="mmp_audio" msgid="8706227639060679235">"Nhạc"</string>
+    <string name="mmp_video" msgid="2680263982702698720">"Video"</string>
+    <string name="mmp_text" msgid="4077978808166924627">"Văn bản"</string>
+    <string name="mmp_select" msgid="4407585001484425898">"Chọn"</string>
+    <string name="mmp_input" msgid="8592845546999906622">"Nhập"</string>
+    <string name="mmp_exit" msgid="6051283891356437825">"Thoát"</string>
+    <string name="mmp_emptyfile" msgid="7299272765998117529">"Thư mục hiện tại trống!"</string>
+    <string name="mmp_reutip" msgid="8603627514980705968">"Đang phân tích cú pháp thư mục này. Vui lòng chờ..."</string>
+    <string name="mmp_pop_zoomscale" msgid="4444610414043102239">"X"</string>
+    <string name="mmp_info_album" msgid="7720981179637224588">"Album:"</string>
+    <string name="mmp_info_orientation" msgid="3830902756642165426">"Hướng:"</string>
+    <string name="mmp_info_artist" msgid="6966050205975687821">"Nghệ sĩ:"</string>
+    <string name="mmp_info_name" msgid="8058742280848190551">"Tên:"</string>
+    <string name="mmp_info_date" msgid="4300927192893785690">"Ngày:"</string>
+    <string name="mmp_info_size" msgid="959025658391753505">"Kích thước:"</string>
+    <string name="mmp_info_next" msgid="4380397773389543174">"Tiếp theo:"</string>
+    <string name="mmp_info_audio" msgid="1267866496055028627">"Âm thanh:"</string>
+    <string name="mmp_info_exposure" msgid="1297476777953501472">"Thời gian phơi sáng:"</string>
+    <string name="mmp_info_fnumber" msgid="2220709797456364777">"F-stop:"</string>
+    <string name="mmp_info_program" msgid="2062980080114642715">"Chương trình phơi sáng:"</string>
+    <string name="mmp_info_colorspace" msgid="991833052722703084">"Không gian màu:"</string>
+    <string name="mmp_info_title" msgid="7820876214484582645">"Tiêu đề:"</string>
+    <string name="mmp_info_genre" msgid="2473418313212427139">"Thể loại:"</string>
+    <string name="mmp_info_year" msgid="2941904149668986691">"Năm:"</string>
+    <string name="mmp_info_duration" msgid="7689265303365835747">"Thời lượng:"</string>
+    <string name="mmp_info_director" msgid="8050309676555265722">"Đạo diễn:"</string>
+    <string name="mmp_info_copyrght" msgid="2260484851899108080">"Bản quyền:"</string>
+    <string name="mmp_info_lastpage" msgid="2276225818924525010">"Trang cuối"</string>
+    <string name="mmp_info_nextpage" msgid="6044269836515584059">"Trang tiếp theo"</string>
+    <string name="mmp_info_nolrc" msgid="2011077578197667092">"Không có lời bài hát"</string>
+    <string name="mmp_loading_tip" msgid="6373109875045173807">"Đang phân tích cú pháp thư mục này. Vui lòng chờ..."</string>
+    <string name="mmp_user_name" msgid="4038160189084155137">"Tên người dùng"</string>
+    <string name="mmp_password" msgid="52423781427686112">"Mật khẩu"</string>
+    <string name="mmp_confirm" msgid="3987501643229207065">"Xác nhận"</string>
+    <string name="mmp_vkb" msgid="879524843720392844">"Nhập"</string>
+    <string name="mmp_ok" msgid="7246671616128389098">"OK"</string>
+    <string name="mmp_cancel" msgid="3261313315531378417">"Hủy"</string>
+    <string name="mmp_login_failed_tip" msgid="1843731122426925591">"Tên người dùng hoặc mật khẩu không chính xác!"</string>
+    <string name="mmp_dlnaserver_disconnected" msgid="6189648564456332471">"Máy chủ DLNA đã ngắt kết nối. Vui lòng kiểm tra trạng thái mạng và máy chủ!"</string>
+    <string name="mmp_pvr_play_from_tv_cannot_pip" msgid="6500393214807298054">"Không thể vào Chế độ PIP khi đang phát lại PVR!"</string>
+    <string name="mmp_list_mode_cannot_pip" msgid="5562820685064587733">"Không thể vào chế độ PIP khi sử dụng chế độ danh sách tệp!"</string>
+    <string name="mmp_title_copy" msgid="8583348774130086919">"Đang sao chép"</string>
+    <string name="mmp_title_confirm_replace" msgid="4771822119501444534">"Xác nhận thay thế tệp"</string>
+    <string name="mmp_title_confirm_delete" msgid="8377725312373475404">"Xác nhận xóa (các) tệp"</string>
+    <string name="mmp_message_copy" msgid="4808547807069922623">"<xliff:g id="MMP_MESSAGE_COPY_ONE_XLI">%1$s</xliff:g>\nTừ <xliff:g id="MMP_MESSAGE_COPY_TWO_XLI">%2$s</xliff:g>\nĐến <xliff:g id="MMP_MESSAGE_COPY_THREE_XLI">%3$s</xliff:g>"</string>
+    <string name="mmp_message_confirm_replace" msgid="5868285892080714347">"Thư mục này đã chứa một tệp có tên\n<xliff:g id="MMP_MESSAGE_CONFIRM_REPLACE_XLI">%s</xliff:g>"</string>
+    <string name="mmp_message_confirm_delete" msgid="6777614659086530912">"Bạn có chắc chắn muốn xóa tệp đã chọn không?"</string>
+    <string name="mmp_yes" msgid="8825062653561586733">"Có"</string>
+    <string name="mmp_yes_to_all" msgid="2188249996394727534">"Có cho tất cả"</string>
+    <string name="mmp_no" msgid="6819583620403834086">"Không"</string>
+    <string name="mmp_capture_title" msgid="7209687460094347177">"Chụp biểu trưng"</string>
+    <string name="mmp_capture_confirm" msgid="824603266897705710">"Bạn có muốn chụp màn hình này không?"</string>
+    <string name="mmp_toast_no_photoframe" msgid="881397136260176005">"Không có khung ảnh nào để phát"</string>
+    <string name="mmp_before_pip_exit_dot_by_dot" msgid="1724158907378873072">"Chế độ màn hình chuyển sang bình thường khi bạn đang vào Chế độ PIP."</string>
+    <string name="mmp_before_pip_zoom_1x" msgid="632844846305154273">"Chức năng thu phóng chuyển sang bình thường khi bạn đang ở chế độ PIP."</string>
+    <string name="mmp_video_notsupport" msgid="3746654153060516549">"Codec video không được hỗ trợ"</string>
+    <string name="mmp_audio_notsupport" msgid="298426631612159434">"Định dạng âm thanh không được hỗ trợ"</string>
+    <string name="mmp_video_only" msgid="7278869886485261082">"Chỉ video"</string>
+    <string name="mmp_frame_photo_sleeptime" msgid="3684111810245692657">"Giờ đi ngủ"</string>
+    <string name="mmp_video_stopresume" msgid="1769167470574168506">"Ngừng việc tiếp tục"</string>
+    <string name="mmp_photo_type_notsupport" msgid="1102594345605622608">"Tệp không được hỗ trợ"</string>
+    <string name="mmp_lable_rorate" msgid="5707789973312733102">"Xoay"</string>
+    <string name="mmp_info_whitebalance" msgid="4243391745350656248">"Cân bằng trắng:"</string>
+    <string name="mmp_info_make" msgid="5019160699386040694">"Nhà sản xuất máy ảnh:"</string>
+    <string name="mmp_info_model" msgid="2555791677451848012">"Kiểu máy ảnh:"</string>
+    <string name="mmp_info_flash" msgid="1482374643316448288">"Nhấp nháy:"</string>
+    <string name="mmp_info_focallength" msgid="7185730465171519772">"Tiêu cự:"</string>
+    <string name="mmp_menu_pic_setting" msgid="8682447848318300605">"Cài đặt hình ảnh"</string>
+    <string name="mmp_menu_audio_setting" msgid="4297665618950944208">"Cài đặt âm thanh"</string>
+    <string name="mmp_menu_sound_setting" msgid="1341976547098523497">"Cài đặt âm thanh"</string>
+    <string name="mmp_file_notsupport" msgid="7808733987932045433">"Tệp không được hỗ trợ"</string>
+    <string name="mmp_notsupport" msgid="5351498401675171534">"Không được hỗ trợ"</string>
+    <string name="mmp_seek_notsupport" msgid="7212075520894633540">"Không hỗ trợ tính năng tua"</string>
+    <string name="mmp_step_notsupport" msgid="6858087783268138488">"Bước này không được hỗ trợ"</string>
+    <string name="mmp_featue_notsupport" msgid="8285945520158433641">"Tính năng không có sẵn"</string>
+    <string name="mmp_buffer_not_enough" msgid="7729296381668175272">"Vùng đệm không đủ"</string>
+    <string name="mmp_nodevice" msgid="6634130010421915083">"Không có thiết bị nào được kết nối!"</string>
+    <string name="mmp_time_out" msgid="2771473755878694067">"Mã thời gian bạn nhập là không chính xác!\nVui lòng đảm bảo mã thời gian nhỏ hơn tổng thời gian."</string>
+    <string name="mmp_file_corrupt" msgid="3689294857477023502">"Tệp bị hỏng"</string>
+    <string name="mmp_menu_mount_iso" msgid="7959098173252455354">"Gắn kết tệp iso hiện tại"</string>
+    <string name="mmp_menu_unmount_iso" msgid="8948169787009591217">"Ngắt kết nối thiết bị hiện tại"</string>
+    <string name="mmp_media_file_lost" msgid="1073430028079692146">"Thiết bị hiện tại không kết nối!"</string>
+    <string name="mmp_media_info_scrambled_audio_video_service" msgid="7436208224667913266">"Video và âm thanh xáo trộn"</string>
+    <string name="mmp_media_info_scrambled_audio_clear_video_service" msgid="9128160029441897577">"Âm thanh xáo trộn"</string>
+    <string name="mmp_media_info_scrambled_audio_no_video_service" msgid="2572785485574211543">"Âm thanh xáo trộn, Chỉ âm thanh"</string>
+    <string name="mmp_media_info_scrambled_video_clear_audio_service" msgid="7830438018396694250">"Video xáo trộn"</string>
+    <string name="mmp_media_info_scrambled_video_no_audio_service" msgid="854977936934627520">"Video xáo trộn, Chỉ video"</string>
+    <string name="mmp_drm_register" msgid="675462032122703604">"Thiết bị của bạn không được phép \n phát video được bảo vệ Divx@ này."</string>
+    <string name="mmp_drm_register_expired" msgid="130018121204117964">"Đã hết thời gian thuê Divx@"</string>
+    <string name="mmp_drm_register_used" msgid="1308738041895750904">"Việc thuê Divx@ đã sử dụng \n <xliff:g id="MMP_DRM_REGISTER_USED_XLI">%1$s</xliff:g>/<xliff:g id="MMP_DRM_REGISTER_USED_TWO_XLI">%2$s</xliff:g> lượt xem"</string>
+    <string name="mmp_drm_register_continue" msgid="4545823732483395837">"Tiếp tục?"</string>
+    <string name="mmp_divx_title" msgid="6437496733832500819">"Tiêu đề"</string>
+    <string name="mmp_divx_edition" msgid="5306846019024910826">"Ấn bản"</string>
+    <string name="mmp_divx_chapter" msgid="3487487752488508131">"Chương"</string>
+    <string name="mmp_divx_audioName" msgid="7031672633853273745">"Âm thanh:"</string>
+    <string name="mmp_divx_subtitleName" msgid="904348339487006815">"Phụ đề:"</string>
+    <string name="mmp_dmr_starting" msgid="1846715628857289261">"DMR đang chạy."</string>
+    <string name="mmp_dmr_started" msgid="4516534251149034263">"DMR đã chạy."</string>
+    <string name="mmp_dmr_network_failed" msgid="1069917251011513121">"Không thể chạy DMR. Không có mạng."</string>
+    <string name="mmp_dmr_url_failed" msgid="1998446749263931258">"URL không hợp lệ"</string>
+    <string name="mmp_wrong_psw" msgid="2220959537681782417">"Mật khẩu không chính xác. Bạn có tổng cộng <xliff:g id="MMP_WRONG_PSW_ONE_XLI">%1$s</xliff:g> cơ hội. Bạn đã thử <xliff:g id="MMP_WRONG_PSW_TWO_XLI">%2$s</xliff:g> lần. Hãy thử lại!"</string>
+    <string name="mmp_last_memory" msgid="445353399276221319">"Vị trí để xem tiếp"</string>
+    <string name="mmp_last_memory_time" msgid="8257690755872409500">"Thời gian"</string>
+    <string name="mmp_last_memory_position" msgid="4214666976622254352">"Vị trí"</string>
+    <string name="ci_menu_pin_correct" msgid="2811258922733489547">"Chính xác!"</string>
+    <string name="ci_menu_pin_outoftry" msgid="44306490349881239">"Đã thất bại ba lần"</string>
+    <string name="mmp_buffering_tip" msgid="2518565216632544676">"Video đang lưu vào bộ đệm. Vui lòng chờ..."</string>
+    <string name="audio_type_normal" msgid="2694538341761232347">"Bình thường"</string>
+    <string name="audio_type_hearing_impaired" msgid="2118182303039653332">"Khiếm thính"</string>
+    <string name="audio_type_visually_impaired" msgid="1123879394721652732">"Khiếm thị"</string>
+    <string name="audio_visually_speaker_on" msgid="370608298755159880">"Bật"</string>
+    <string name="audio_downmixmode_stereo" msgid="9198344825777497057">"Âm thanh nổi"</string>
+    <string name="audio_downmixmode_auto_stereo" msgid="6252486888542859420">"Âm thanh nổi tự động"</string>
+    <string name="audio_downmixmode_surround" msgid="334719632751452503">"Vòm"</string>
+    <string name="nav_parent_psw" msgid="5129848968977804299">"Nhập mật khẩu"</string>
+    <string name="mmp_change_mode" msgid="1676194732557780029">"Chế độ duyệt qua"</string>
+    <string name="mmp_menu_picture_off" msgid="4197984410377941805">"Tắt hình"</string>
+    <string name="mmp_menu_jump_time" msgid="7424577337890603197">"Tìm kiếm"</string>
+    <string name="mmp_pop_repeat_tvsingle" msgid="1573762708654838975">"Âm thanh đơn"</string>
+    <string name="mmp_bt_mode_notsupport" msgid="6018333824877204292">"Chế độ BT không được hỗ trợ"</string>
+    <string name="mmp_menu_full_screen" msgid="3602706448625133614">"Toàn màn hình"</string>
+    <string name="mmp_menu_over_scan" msgid="6417694118168861647">"Quét ngoài khu vực an toàn"</string>
+    <string name="mmp_menu_subtitle_encoding" msgid="6717942460780111286">"Mã hóa phụ đề"</string>
+    <string name="mmp_sleeptime_lable" msgid="552336639790838524">"Giờ ngủ:"</string>
+    <string name="mmp_menu_audio" msgid="7290654328973000754">"Âm thanh"</string>
+    <string name="mmp_no_devices_tips" msgid="361057196557407981">"Không tìm thấy thiết bị nào. Vui lòng lắp thiết bị hoặc thử lại sau!"</string>
+    <string name="mmp_video_info_resolution" msgid="8392200579627394727">"Độ phân giải:"</string>
+    <string name="mmp_video_info_size" msgid="5161911583717273611">"Kích thước:"</string>
+    <string name="mmp_video_info_bitrate" msgid="7276989523119391715">"Tốc độ bit:"</string>
+    <string name="mmp_video_info_last_Modified_date" msgid="6216504677173286907">"Ngày sửa đổi gần đây nhất:"</string>
+    <string name="mmp_play_speed_notsupport_ff" msgid="5406970534491698132">"Tính năng tua đi nhanh bị vô hiệu hóa ở chế độ phát nhanh"</string>
+    <string name="mmp_play_speed_notsupport_fb" msgid="5335593605293341055">"Tính năng tua lại nhanh bị vô hiệu hóa ở chế độ phát nhanh"</string>
+    <string name="mmp_menu_play_speed" msgid="8078405319367563721">"Tốc độ phát"</string>
+    <string name="mmp_seamless_mode" msgid="2794517051734603832">"Liền mạch"</string>
+    <string name="mmp_seamless_mode_off" msgid="6502962176792078529">"Tắt"</string>
+    <string name="mmp_seamless_mode_on" msgid="2680879271354894946">"Bật"</string>
+    <string name="mmp_menu_rotate_0" msgid="2525882655804508677">"xoay 0 độ"</string>
+    <string name="mmp_menu_rotate_90" msgid="5499075283143867382">"xoay 90 độ"</string>
+    <string name="mmp_menu_rotate_180" msgid="828127129735548816">"xoay 180 độ"</string>
+    <string name="mmp_menu_rotate_270" msgid="9010954915556187744">"xoay 270 độ"</string>
+    <string name="mmp_menu_wallpaper" msgid="5678135140588088459">"Đặt làm hình nền"</string>
+    <string name="mmp_menu_img_zoom_in" msgid="4446097703965671221">"Phóng to"</string>
+    <string name="mmp_menu_img_zoom_out" msgid="9026341167144546000">"Thu nhỏ"</string>
+    <string name="mmp_img_player_max_tip" msgid="7337920113397012863">"Thang đo tỷ lệ tối đa!"</string>
+    <string name="mmp_img_player_min_tip" msgid="4286863235386750909">"Thang đo tỷ lệ tối thiểu!"</string>
+    <string name="mmp_img_player_photo_wallpaper" msgid="7812511256832915936">"ảnh nền"</string>
+    <string name="mmp_img_player_setting_wallpaper_plz_wait" msgid="4696641526998650922">"Đang đặt hình nền, vui lòng chờ..."</string>
+    <string name="mmp_img_player_setting_wallpaper" msgid="3584202222258659321">"Đang đặt hình nền..."</string>
+    <string name="mmp_img_player_wallpaper_not_supported" msgid="3594013303919654760">"Hình nền không được hỗ trợ"</string>
+    <string name="mmp_img_player_can_not_decode" msgid="1532417882851899990">"Không thể giải mã ảnh này!"</string>
+    <string name="mmp_img_player_decoding" msgid="5237697103906052112">"đang giải mã ảnh..."</string>
+    <string name="mmp_img_player_decode_failed" msgid="251111120950935657">"không giải mã được ảnh!"</string>
+    <string name="mmp_img_player_gif_not_allow" msgid="5781151658958709239">"không hoạt động ở chế độ ảnh động GIF"</string>
+    <string name="mmp_img_player_scale_or_rotate_not_allow" msgid="1229810181937509638">"không hoạt động ở chế độ điều chỉnh tỷ lệ hoặc xoay"</string>
+    <string name="mmp_img_player_low_memory" msgid="563937068344863239">"Dung lượng bộ nhớ thấp!"</string>
+    <string name="mmp_img_player_pan_success" msgid="5945675696592056557">"quét ảnh thành công!"</string>
+    <string name="mmp_img_player_pan_failed" msgid="5872051943605585443">"không quét được ảnh!"</string>
+    <string name="mmp_img_player_pan_parameter_invalid" msgid="2926828788120735833">"thông số quét ảnh không hợp lệ!"</string>
+    <string name="mmp_img_player_file_not_support" msgid="8044505304152821864">"Tệp này không được hỗ trợ"</string>
+    <string name="mmp_img_player_zooming" msgid="1589759384473792147">"đang thu phóng ảnh..."</string>
+    <string name="mmp_img_player_rotating" msgid="8461823781551361070">"đang xoay ảnh..."</string>
+    <string name="mmp_img_player_net_disconnect" msgid="3644363535411515478">"Đã bị ngắt kết nối mạng, vui lòng kiểm tra!"</string>
+    <string name="mmp_img_player_play_error" msgid="123735832200732918">"Lỗi phát"</string>
+    <string name="mmp_img_player_play_error_message" msgid="3430663918858289760">"Tiếp tục phát ảnh tiếp theo?"</string>
+    <string name="mmp_img_player_ok" msgid="8356204143754819176">"OK"</string>
+    <string name="mmp_img_player_cancel" msgid="3518159083198557236">"Huỷ"</string>
+    <string name="mmp_menu_audio_output_setting" msgid="460478476807807452">"Thiết bị ra âm thanh"</string>
+</resources>
