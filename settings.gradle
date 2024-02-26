@@ -1,5 +1,0 @@
-rootProject.name = "ArcelikMediaplayer"
-include ':app'
-include ':libblurdialog'
-
-project((':libblurdialog')).projectDir=new File('lib/libs/libblurdialog')
