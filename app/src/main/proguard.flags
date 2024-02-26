@@ -1,0 +1,10 @@
+-keep class com.mediatek.twoworlds.tv.** {*;}
+-keep class com.mediatek.twoworlds.tv.model.** {*;}
+-keep class com.mediatek.twoworlds.tv.common.** {*;}
+-keep interface com.mediatek.twoworlds.tv.** {*;}
+-keep interface com.mediatek.twoworlds.tv.model.** {*;}
+-keep interface com.mediatek.twoworlds.tv.common.** {*;}
+
+-dontshrink
+-dontoptimize
+-dontpreverify

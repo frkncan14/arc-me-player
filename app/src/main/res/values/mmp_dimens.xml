@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mmp_alert_txt_size">25sp</dimen>
+    <dimen name="mmp_alert_btn_size">15sp</dimen>
+    <dimen name="mmp_browse_tlt_size">20sp</dimen>
+    <dimen name="mmp_info_tx_size">12sp</dimen>
+    <dimen name="mmp_grid_item_size">12sp</dimen>
+    <dimen name="mmp_list_item_size">9sp</dimen>
+    <dimen name="mmp_keyboard_view_size">22sp</dimen>
+    <dimen name="mmp_login_txt_size">20sp</dimen>
+    <dimen name="multimedia_gv_text_size">20sp</dimen>
+    <dimen name="mmp_music_pop_status_size">12sp</dimen>
+    <dimen name="mmp_progress_dialog_txt_size">20sp</dimen>
+    <dimen name="mmp_time_txt_size">16sp</dimen>
+    <dimen name="mmp_listmode_txt_size">12sp</dimen>
+    <dimen name="mmp_grid_padding_size">4dp</dimen>
+    <dimen name="mmp_grid_item_vspace_size">20dp</dimen>
+    <dimen name="mmp_grid_item_hspace_size">20dp</dimen>
+    <dimen name="mmp_photo_info_magin_size">5dp</dimen>
+    <dimen name="mmp_file_list_margin_size">5dp</dimen>
+
+    <dimen name="list_item_vertical_padding">12dp</dimen>
+    <item name="alpha_animiation_max_opacity" format="float" type="dimen">1.0</item>
+    <item name="alpha_animiation_min_opacity" format="float" type="dimen">0.0</item>
+    <item name="alpha_activity_in_bkg_end" format="float" type="dimen">@dimen/alpha_animiation_max_opacity</item>
+    <item name="alpha_activity_in_bkg_start" format="float" type="dimen">@dimen/alpha_animiation_min_opacity</item>
+    <item name="alpha_activity_out_bkg_end" format="float" type="dimen">@dimen/alpha_animiation_min_opacity</item>
+    <item name="alpha_activity_out_bkg_start" format="float" type="dimen">@dimen/alpha_animiation_max_opacity</item>
+    <dimen name="action_fragment_selector_min_height">8dp</dimen>
+
+    <dimen name="content_fragment_breadcrumb_text_size">18sp</dimen>
+    <dimen name="content_fragment_default_icon_height">400dp</dimen>
+    <dimen name="content_fragment_default_icon_width">400dp</dimen>
+    <dimen name="content_fragment_delimiter_padding">16dp</dimen>
+    <dimen name="content_fragment_description_text_size">14sp</dimen>
+    <dimen name="content_fragment_icon_width">140dp</dimen>
+    <dimen name="content_fragment_icon_height">140dp</dimen>
+    <dimen name="content_fragment_badge_icon_width">48dp</dimen>
+    <dimen name="content_fragment_badge_icon_height">48dp</dimen>
+    <dimen name="content_fragment_left_padding">48dp</dimen>
+    <dimen name="content_fragment_max_icon_height">280dp</dimen>
+    <dimen name="content_fragment_title_text_bottom_padding">4dp</dimen>
+    <dimen name="content_fragment_title_text_size">36sp</dimen>
+    <dimen name="content_fragment_title_text_top_padding">2dp</dimen>
+
+    <dimen name="icon_padding">0dp</dimen>
+    <dimen name="list_item_badge_icon_height">18dp</dimen>
+    <dimen name="list_item_badge_icon_margin_left">8dp</dimen>
+    <dimen name="list_item_badge_icon_width">18dp</dimen>
+    <dimen name="list_item_checkmark_diameter">8dp</dimen>
+    <dimen name="list_item_delimiter_padding">4dp</dimen>
+    <dimen name="list_item_description_font_size">12sp</dimen>
+    <dimen name="list_item_height">48dp</dimen>
+    <dimen name="list_item_icon_big_height">80dp</dimen>
+    <dimen name="list_item_icon_big_margin_right">8dp</dimen>
+    <dimen name="list_item_icon_big_width">80dp</dimen>
+    <dimen name="list_item_icon_height">32dp</dimen>
+    <dimen name="list_item_icon_size">32dp</dimen>
+    <dimen name="list_item_icon_small_height">24dp</dimen>
+    <dimen name="list_item_icon_small_width">24dp</dimen>
+    <dimen name="list_item_icon_width">32dp</dimen>
+    <dimen name="list_item_left_padding">20dp</dimen>
+    <dimen name="list_item_min_height">64dp</dimen>
+    <dimen name="list_item_right_padding">28dp</dimen>
+    <dimen name="list_item_timestamp_font_size">12sp</dimen>
+    <dimen name="list_item_title_font_size">18sp</dimen>
+
+    <integer name="action_description_min_lines">2</integer>
+    <integer name="action_title_min_lines">1</integer>
+
+    <integer name="base_animation_duration">500</integer>
+    <integer name="alpha_activity_in_bkg_delay">0</integer>
+    <integer name="alpha_activity_in_bkg_duration">@integer/base_animation_duration</integer>
+    <integer name="alpha_activity_out_bkg_delay">0</integer>
+    <integer name="alpha_activity_out_bkg_duration">@integer/base_animation_duration</integer>
+
+    <dimen name="tos_webview_padding_without_progress_bar">40dp</dimen>
+    <dimen name="tos_webview_padding_with_progress_bar">80dp</dimen>
+
+    <dimen name="browse_item_title_font_size">16sp</dimen>
+    <dimen name="browse_item_description_font_size">14sp</dimen>
+    <dimen name="browse_item_height">140dp</dimen>
+    <dimen name="browse_item_width">145.5dp</dimen>
+    <dimen name="browse_item_icon_height">127dp</dimen>
+    <dimen name="browse_circleitem_icon_width">112dp</dimen>
+    <dimen name="browse_item_icon_width">132.5dp</dimen>
+    <dimen name="browse_item_text_marginHor">12dp</dimen>
+    <dimen name="browse_item_icon_marginHor">15dp</dimen>
+    <!-- 12dp below text - 3dp of font padding = 9dp -->
+    <dimen name="browse_item_description_marginBottom">9dp</dimen>
+    <!-- 20dp between lines + 12dp below text - 3dp of font padding = 29dp -->
+    <dimen name="browse_item_title_marginBottom">29dp</dimen>
+    <dimen name="browse_item_bottom_padding">12dp</dimen>
+    <dimen name="image_text_padding">5dp</dimen>
+    <dimen name="image_top_padding">10dp</dimen>
+    <dimen name="dubi_icon_width">68dp</dimen>
+    <dimen name="dubi_icon_height">10dp</dimen>
+    <dimen name="dubi_vision_icon_width">67dp</dimen>
+    <dimen name="dubi_vision_icon_height">10dp</dimen>
+    <dimen name="dts_icon_width">61dp</dimen>
+    <dimen name="dts_icon_height">24dp</dimen>
+    <dimen name="audio_type_icon_height">24dp</dimen>
+    <dimen name="pop_video_mediatype_width">50dp</dimen>
+    <dimen name="pop_video_zoomsize_width">30dp</dimen>
+
+    <dimen name="score_view_tile_count_x">14dp</dimen>
+    <dimen name="score_view_tile_count_y">10dp</dimen>
+
+    <dimen name="epg_pwd_value_marginLeft">10dip</dimen>
+    <dimen name="epg_pwd_value_marginRight">10dip</dimen>
+
+    <dimen name="music_lyric_txt_size">12sp</dimen>
+    <dimen name="browse_item_guide_info_size">12sp</dimen>
+    <dimen name="file_list_guide_left_txt_size">19sp</dimen>
+    <dimen name="browse_item_guide_align_bottom">20dp</dimen>
+    <dimen name="browse_item_guide_drawable_padding">6dp</dimen>
+    <!-- <dimen name="browse_icon_margin_start">118dp</dimen> -->
+    <!-- <dimen name="browse_icon_margin_start">261dp</dimen> -->
+    <dimen name="browse_icon_margin_start">194dp</dimen>
+
+    <dimen name="file_list_left_width">242dp</dimen>
+    <dimen name="file_list_right_height">540dp</dimen>
+    <dimen name="mmp_list_toptv_top">30dp</dimen>
+    <dimen name="mmp_list_toptv_bottom">26dp</dimen>
+
+    <dimen name="list_top">24dp</dimen>
+    <dimen name="list_start">30dp</dimen>
+    <dimen name="list_end">18dp</dimen>
+    <dimen name="list_bottom">22dp</dimen>
+
+    <dimen name="mmp_list_pagesize_padding">14dp</dimen>
+    <dimen name="mmp_list_pagesize_top">16dp</dimen>
+    <dimen name="mmp_list_pagesize_end">28dp</dimen>
+
+    <dimen name="mmp_list_detailinfo_start">15dp</dimen>
+    <dimen name="list_left_bg_width">210dp</dimen>
+    <dimen name="list_left_bg_height">195dp</dimen>
+    <dimen name="list_left_bg_start">10dp</dimen>
+    <dimen name="list_left_bg_end">10dp</dimen>
+	<dimen name="list_music_view_top">200dp</dimen>
+
+    <!-- <dimen name="gridview_item_width_small">145px</dimen>
+    <dimen name="gridview_item_height_small">150px</dimen>
+    <dimen name="gridview_item_width_medium">170px</dimen>
+    <dimen name="gridview_item_height_medium">190px</dimen>
+    <dimen name="gridview_item_width_large">205px</dimen>
+    <dimen name="gridview_item_height_large">265px</dimen> -->
+    <!-- arcelik customized -->
+    <dimen name="listview_top">28dp</dimen>
+    <dimen name="listview_bottom">28dp</dimen>
+    <dimen name="gridview_item_width_small">155dp</dimen>
+    <dimen name="gridview_item_height_small">112dp</dimen>
+    <dimen name="gridview_item_width_medium">155dp</dimen>
+    <dimen name="gridview_item_height_medium">112dp</dimen>
+    <dimen name="gridview_item_width_large">155dp</dimen>
+    <dimen name="gridview_item_height_large">112dp</dimen>
+
+
+</resources>
